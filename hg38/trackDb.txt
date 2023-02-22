@@ -5,1144 +5,1144 @@ type bigInteract
 visibility full
 compositeTrack on
 
-    track gwas2eqtlAlasoo2018gemacrophagenaive
-    bigDataUrl gwas2eqtlAlasoo2018gemacrophagenaive.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_naive
-    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_naive: Colocalization of EBI eQTL Catalogue 'Alasoo_2018_ge_macrophage_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlAlasoo2018gemacrophageIFNg
-    bigDataUrl gwas2eqtlAlasoo2018gemacrophageIFNg.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_IFNg
-    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_IFNg: Colocalization of EBI eQTL Catalogue 'Alasoo_2018_ge_macrophage_IFNg' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlAlasoo2018gemacrophageSalmonella
-    bigDataUrl gwas2eqtlAlasoo2018gemacrophageSalmonella.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_Salmonella
-    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_Salmonella: Colocalization of EBI eQTL Catalogue 'Alasoo_2018_ge_macrophage_Salmonella' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlAlasoo2018gemacrophageIFNgSalmonella
-    bigDataUrl gwas2eqtlAlasoo2018gemacrophageIFNgSalmonella.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_IFNg+Salmonella
-    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_IFNg+Salmonella: Colocalization of EBI eQTL Catalogue 'Alasoo_2018_ge_macrophage_IFNg+Salmonella' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBLUEPRINTSEgemonocyte
-    bigDataUrl gwas2eqtlBLUEPRINTSEgemonocyte.bigInteract
-    shortLabel BLUEPRINT_SE_ge_monocyte
-    longLabel gwas2eqtl BLUEPRINT_SE_ge_monocyte: Colocalization of EBI eQTL Catalogue 'BLUEPRINT_SE_ge_monocyte' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBLUEPRINTSEgeneutrophil
-    bigDataUrl gwas2eqtlBLUEPRINTSEgeneutrophil.bigInteract
-    shortLabel BLUEPRINT_SE_ge_neutrophil
-    longLabel gwas2eqtl BLUEPRINT_SE_ge_neutrophil: Colocalization of EBI eQTL Catalogue 'BLUEPRINT_SE_ge_neutrophil' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBLUEPRINTPEgeTcell
-    bigDataUrl gwas2eqtlBLUEPRINTPEgeTcell.bigInteract
-    shortLabel BLUEPRINT_PE_ge_T-cell
-    longLabel gwas2eqtl BLUEPRINT_PE_ge_T-cell: Colocalization of EBI eQTL Catalogue 'BLUEPRINT_PE_ge_T-cell' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBrainSeqgebrain
-    bigDataUrl gwas2eqtlBrainSeqgebrain.bigInteract
-    shortLabel BrainSeq_ge_brain
-    longLabel gwas2eqtl BrainSeq_ge_brain: Colocalization of EBI eQTL Catalogue 'BrainSeq_ge_brain' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayTcellCD8
-    bigDataUrl gwas2eqtlCEDARmicroarrayTcellCD8.bigInteract
-    shortLabel CEDAR_microarray_T-cell_CD8
-    longLabel gwas2eqtl CEDAR_microarray_T-cell_CD8: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_T-cell_CD8' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayTcellCD4
-    bigDataUrl gwas2eqtlCEDARmicroarrayTcellCD4.bigInteract
-    shortLabel CEDAR_microarray_T-cell_CD4
-    longLabel gwas2eqtl CEDAR_microarray_T-cell_CD4: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_T-cell_CD4' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarraytransversecolon
-    bigDataUrl gwas2eqtlCEDARmicroarraytransversecolon.bigInteract
-    shortLabel CEDAR_microarray_transverse_colon
-    longLabel gwas2eqtl CEDAR_microarray_transverse_colon: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_transverse_colon' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarraymonocyteCD14
-    bigDataUrl gwas2eqtlCEDARmicroarraymonocyteCD14.bigInteract
-    shortLabel CEDAR_microarray_monocyte_CD14
-    longLabel gwas2eqtl CEDAR_microarray_monocyte_CD14: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_monocyte_CD14' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayneutrophilCD15
-    bigDataUrl gwas2eqtlCEDARmicroarrayneutrophilCD15.bigInteract
-    shortLabel CEDAR_microarray_neutrophil_CD15
-    longLabel gwas2eqtl CEDAR_microarray_neutrophil_CD15: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_neutrophil_CD15' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayplatelet
-    bigDataUrl gwas2eqtlCEDARmicroarrayplatelet.bigInteract
-    shortLabel CEDAR_microarray_platelet
-    longLabel gwas2eqtl CEDAR_microarray_platelet: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_platelet' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayrectum
-    bigDataUrl gwas2eqtlCEDARmicroarrayrectum.bigInteract
-    shortLabel CEDAR_microarray_rectum
-    longLabel gwas2eqtl CEDAR_microarray_rectum: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_rectum' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayBcellCD19
-    bigDataUrl gwas2eqtlCEDARmicroarrayBcellCD19.bigInteract
-    shortLabel CEDAR_microarray_B-cell_CD19
-    longLabel gwas2eqtl CEDAR_microarray_B-cell_CD19: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_B-cell_CD19' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCEDARmicroarrayileum
-    bigDataUrl gwas2eqtlCEDARmicroarrayileum.bigInteract
-    shortLabel CEDAR_microarray_ileum
-    longLabel gwas2eqtl CEDAR_microarray_ileum: Colocalization of EBI eQTL Catalogue 'CEDAR_microarray_ileum' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFairfax2012microarrayBcellCD19
-    bigDataUrl gwas2eqtlFairfax2012microarrayBcellCD19.bigInteract
-    shortLabel Fairfax_2012_microarray_B-cell_CD19
-    longLabel gwas2eqtl Fairfax_2012_microarray_B-cell_CD19: Colocalization of EBI eQTL Catalogue 'Fairfax_2012_microarray_B-cell_CD19' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFairfax2014microarraymonocytenaive
-    bigDataUrl gwas2eqtlFairfax2014microarraymonocytenaive.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_naive
-    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_naive: Colocalization of EBI eQTL Catalogue 'Fairfax_2014_microarray_monocyte_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFairfax2014microarraymonocyteIFN24
-    bigDataUrl gwas2eqtlFairfax2014microarraymonocyteIFN24.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_IFN24
-    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_IFN24: Colocalization of EBI eQTL Catalogue 'Fairfax_2014_microarray_monocyte_IFN24' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFairfax2014microarraymonocyteLPS2
-    bigDataUrl gwas2eqtlFairfax2014microarraymonocyteLPS2.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_LPS2
-    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_LPS2: Colocalization of EBI eQTL Catalogue 'Fairfax_2014_microarray_monocyte_LPS2' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFairfax2014microarraymonocyteLPS24
-    bigDataUrl gwas2eqtlFairfax2014microarraymonocyteLPS24.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_LPS24
-    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_LPS24: Colocalization of EBI eQTL Catalogue 'Fairfax_2014_microarray_monocyte_LPS24' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGENCORDgeLCL
-    bigDataUrl gwas2eqtlGENCORDgeLCL.bigInteract
-    shortLabel GENCORD_ge_LCL
-    longLabel gwas2eqtl GENCORD_ge_LCL: Colocalization of EBI eQTL Catalogue 'GENCORD_ge_LCL' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGENCORDgefibroblast
-    bigDataUrl gwas2eqtlGENCORDgefibroblast.bigInteract
-    shortLabel GENCORD_ge_fibroblast
-    longLabel gwas2eqtl GENCORD_ge_fibroblast: Colocalization of EBI eQTL Catalogue 'GENCORD_ge_fibroblast' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGENCORDgeTcell
-    bigDataUrl gwas2eqtlGENCORDgeTcell.bigInteract
-    shortLabel GENCORD_ge_T-cell
-    longLabel gwas2eqtl GENCORD_ge_T-cell: Colocalization of EBI eQTL Catalogue 'GENCORD_ge_T-cell' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGEUVADISgeLCL
-    bigDataUrl gwas2eqtlGEUVADISgeLCL.bigInteract
-    shortLabel GEUVADIS_ge_LCL
-    longLabel gwas2eqtl GEUVADIS_ge_LCL: Colocalization of EBI eQTL Catalogue 'GEUVADIS_ge_LCL' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlHipScigeiPSC
-    bigDataUrl gwas2eqtlHipScigeiPSC.bigInteract
-    shortLabel HipSci_ge_iPSC
-    longLabel gwas2eqtl HipSci_ge_iPSC: Colocalization of EBI eQTL Catalogue 'HipSci_ge_iPSC' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlKasela2017microarrayTcellCD4
-    bigDataUrl gwas2eqtlKasela2017microarrayTcellCD4.bigInteract
-    shortLabel Kasela_2017_microarray_T-cell_CD4
-    longLabel gwas2eqtl Kasela_2017_microarray_T-cell_CD4: Colocalization of EBI eQTL Catalogue 'Kasela_2017_microarray_T-cell_CD4' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlKasela2017microarrayTcellCD8
-    bigDataUrl gwas2eqtlKasela2017microarrayTcellCD8.bigInteract
-    shortLabel Kasela_2017_microarray_T-cell_CD8
-    longLabel gwas2eqtl Kasela_2017_microarray_T-cell_CD8: Colocalization of EBI eQTL Catalogue 'Kasela_2017_microarray_T-cell_CD8' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlLepik2017geblood
-    bigDataUrl gwas2eqtlLepik2017geblood.bigInteract
-    shortLabel Lepik_2017_ge_blood
-    longLabel gwas2eqtl Lepik_2017_ge_blood: Colocalization of EBI eQTL Catalogue 'Lepik_2017_ge_blood' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlNaranbhai2015microarrayneutrophilCD16
-    bigDataUrl gwas2eqtlNaranbhai2015microarrayneutrophilCD16.bigInteract
-    shortLabel Naranbhai_2015_microarray_neutrophil_CD16
-    longLabel gwas2eqtl Naranbhai_2015_microarray_neutrophil_CD16: Colocalization of EBI eQTL Catalogue 'Naranbhai_2015_microarray_neutrophil_CD16' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlNedelec2016gemacrophageListeria
-    bigDataUrl gwas2eqtlNedelec2016gemacrophageListeria.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_Listeria
-    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_Listeria: Colocalization of EBI eQTL Catalogue 'Nedelec_2016_ge_macrophage_Listeria' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlNedelec2016gemacrophagenaive
-    bigDataUrl gwas2eqtlNedelec2016gemacrophagenaive.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_naive
-    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_naive: Colocalization of EBI eQTL Catalogue 'Nedelec_2016_ge_macrophage_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlNedelec2016gemacrophageSalmonella
-    bigDataUrl gwas2eqtlNedelec2016gemacrophageSalmonella.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_Salmonella
-    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_Salmonella: Colocalization of EBI eQTL Catalogue 'Nedelec_2016_ge_macrophage_Salmonella' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlQuach2016gemonocytenaive
-    bigDataUrl gwas2eqtlQuach2016gemonocytenaive.bigInteract
-    shortLabel Quach_2016_ge_monocyte_naive
-    longLabel gwas2eqtl Quach_2016_ge_monocyte_naive: Colocalization of EBI eQTL Catalogue 'Quach_2016_ge_monocyte_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlQuach2016gemonocyteLPS
-    bigDataUrl gwas2eqtlQuach2016gemonocyteLPS.bigInteract
-    shortLabel Quach_2016_ge_monocyte_LPS
-    longLabel gwas2eqtl Quach_2016_ge_monocyte_LPS: Colocalization of EBI eQTL Catalogue 'Quach_2016_ge_monocyte_LPS' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlQuach2016gemonocytePam3CSK4
-    bigDataUrl gwas2eqtlQuach2016gemonocytePam3CSK4.bigInteract
-    shortLabel Quach_2016_ge_monocyte_Pam3CSK4
-    longLabel gwas2eqtl Quach_2016_ge_monocyte_Pam3CSK4: Colocalization of EBI eQTL Catalogue 'Quach_2016_ge_monocyte_Pam3CSK4' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlQuach2016gemonocyteR848
-    bigDataUrl gwas2eqtlQuach2016gemonocyteR848.bigInteract
-    shortLabel Quach_2016_ge_monocyte_R848
-    longLabel gwas2eqtl Quach_2016_ge_monocyte_R848: Colocalization of EBI eQTL Catalogue 'Quach_2016_ge_monocyte_R848' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlQuach2016gemonocyteIAV
-    bigDataUrl gwas2eqtlQuach2016gemonocyteIAV.bigInteract
-    shortLabel Quach_2016_ge_monocyte_IAV
-    longLabel gwas2eqtl Quach_2016_ge_monocyte_IAV: Colocalization of EBI eQTL Catalogue 'Quach_2016_ge_monocyte_IAV' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlROSMAPgebrainnaive
-    bigDataUrl gwas2eqtlROSMAPgebrainnaive.bigInteract
-    shortLabel ROSMAP_ge_brain_naive
-    longLabel gwas2eqtl ROSMAP_ge_brain_naive: Colocalization of EBI eQTL Catalogue 'ROSMAP_ge_brain_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTfhmemory
-    bigDataUrl gwas2eqtlSchmiedel2018geTfhmemory.bigInteract
-    shortLabel Schmiedel_2018_ge_Tfh_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Tfh_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Tfh_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTh17memory
-    bigDataUrl gwas2eqtlSchmiedel2018geTh17memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th17_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Th17_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Th17_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTh1memory
-    bigDataUrl gwas2eqtlSchmiedel2018geTh1memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th1_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Th1_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Th1_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTh2memory
-    bigDataUrl gwas2eqtlSchmiedel2018geTh2memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th2_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Th2_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Th2_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTh117memory
-    bigDataUrl gwas2eqtlSchmiedel2018geTh117memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th1-17_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Th1-17_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Th1-17_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTregmemory
-    bigDataUrl gwas2eqtlSchmiedel2018geTregmemory.bigInteract
-    shortLabel Schmiedel_2018_ge_Treg_memory
-    longLabel gwas2eqtl Schmiedel_2018_ge_Treg_memory: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Treg_memory' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geTregnaive
-    bigDataUrl gwas2eqtlSchmiedel2018geTregnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_Treg_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_Treg_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_Treg_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geBcellnaive
-    bigDataUrl gwas2eqtlSchmiedel2018geBcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_B-cell_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_B-cell_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_B-cell_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geCD4Tcellnaive
-    bigDataUrl gwas2eqtlSchmiedel2018geCD4Tcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_CD4_T-cell_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_CD4_T-cell_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_CD4_T-cell_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geCD4TcellantiCD3CD28
-    bigDataUrl gwas2eqtlSchmiedel2018geCD4TcellantiCD3CD28.bigInteract
-    shortLabel Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
-    longLabel gwas2eqtl Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geCD8Tcellnaive
-    bigDataUrl gwas2eqtlSchmiedel2018geCD8Tcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_CD8_T-cell_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_CD8_T-cell_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_CD8_T-cell_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geCD8TcellantiCD3CD28
-    bigDataUrl gwas2eqtlSchmiedel2018geCD8TcellantiCD3CD28.bigInteract
-    shortLabel Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
-    longLabel gwas2eqtl Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018gemonocyteCD16naive
-    bigDataUrl gwas2eqtlSchmiedel2018gemonocyteCD16naive.bigInteract
-    shortLabel Schmiedel_2018_ge_monocyte_CD16_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_monocyte_CD16_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_monocyte_CD16_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018gemonocytenaive
-    bigDataUrl gwas2eqtlSchmiedel2018gemonocytenaive.bigInteract
-    shortLabel Schmiedel_2018_ge_monocyte_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_monocyte_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_monocyte_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchmiedel2018geNKcellnaive
-    bigDataUrl gwas2eqtlSchmiedel2018geNKcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_NK-cell_naive
-    longLabel gwas2eqtl Schmiedel_2018_ge_NK-cell_naive: Colocalization of EBI eQTL Catalogue 'Schmiedel_2018_ge_NK-cell_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlSchwartzentruber2018gesensoryneuron
-    bigDataUrl gwas2eqtlSchwartzentruber2018gesensoryneuron.bigInteract
-    shortLabel Schwartzentruber_2018_ge_sensory_neuron
-    longLabel gwas2eqtl Schwartzentruber_2018_ge_sensory_neuron: Colocalization of EBI eQTL Catalogue 'Schwartzentruber_2018_ge_sensory_neuron' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlTwinsUKgefat
-    bigDataUrl gwas2eqtlTwinsUKgefat.bigInteract
-    shortLabel TwinsUK_ge_fat
-    longLabel gwas2eqtl TwinsUK_ge_fat: Colocalization of EBI eQTL Catalogue 'TwinsUK_ge_fat' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlTwinsUKgeLCL
-    bigDataUrl gwas2eqtlTwinsUKgeLCL.bigInteract
-    shortLabel TwinsUK_ge_LCL
-    longLabel gwas2eqtl TwinsUK_ge_LCL: Colocalization of EBI eQTL Catalogue 'TwinsUK_ge_LCL' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlTwinsUKgeskin
-    bigDataUrl gwas2eqtlTwinsUKgeskin.bigInteract
-    shortLabel TwinsUK_ge_skin
-    longLabel gwas2eqtl TwinsUK_ge_skin: Colocalization of EBI eQTL Catalogue 'TwinsUK_ge_skin' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlTwinsUKgeblood
-    bigDataUrl gwas2eqtlTwinsUKgeblood.bigInteract
-    shortLabel TwinsUK_ge_blood
-    longLabel gwas2eqtl TwinsUK_ge_blood: Colocalization of EBI eQTL Catalogue 'TwinsUK_ge_blood' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlvandeBunt2015gepancreaticislet
-    bigDataUrl gwas2eqtlvandeBunt2015gepancreaticislet.bigInteract
-    shortLabel van_de_Bunt_2015_ge_pancreatic_islet
-    longLabel gwas2eqtl van_de_Bunt_2015_ge_pancreatic_islet: Colocalization of EBI eQTL Catalogue 'van_de_Bunt_2015_ge_pancreatic_islet' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFUSIONgeadiposenaive
-    bigDataUrl gwas2eqtlFUSIONgeadiposenaive.bigInteract
-    shortLabel FUSION_ge_adipose_naive
-    longLabel gwas2eqtl FUSION_ge_adipose_naive: Colocalization of EBI eQTL Catalogue 'FUSION_ge_adipose_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlFUSIONgemusclenaive
-    bigDataUrl gwas2eqtlFUSIONgemusclenaive.bigInteract
-    shortLabel FUSION_ge_muscle_naive
-    longLabel gwas2eqtl FUSION_ge_muscle_naive: Colocalization of EBI eQTL Catalogue 'FUSION_ge_muscle_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgeadiposesubcutaneous
-    bigDataUrl gwas2eqtlGTExgeadiposesubcutaneous.bigInteract
-    shortLabel GTEx_ge_adipose_subcutaneous
-    longLabel gwas2eqtl GTEx_ge_adipose_subcutaneous: Colocalization of EBI eQTL Catalogue 'GTEx_ge_adipose_subcutaneous' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgeadiposevisceral
-    bigDataUrl gwas2eqtlGTExgeadiposevisceral.bigInteract
-    shortLabel GTEx_ge_adipose_visceral
-    longLabel gwas2eqtl GTEx_ge_adipose_visceral: Colocalization of EBI eQTL Catalogue 'GTEx_ge_adipose_visceral' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgeadrenalgland
-    bigDataUrl gwas2eqtlGTExgeadrenalgland.bigInteract
-    shortLabel GTEx_ge_adrenal_gland
-    longLabel gwas2eqtl GTEx_ge_adrenal_gland: Colocalization of EBI eQTL Catalogue 'GTEx_ge_adrenal_gland' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgearteryaorta
-    bigDataUrl gwas2eqtlGTExgearteryaorta.bigInteract
-    shortLabel GTEx_ge_artery_aorta
-    longLabel gwas2eqtl GTEx_ge_artery_aorta: Colocalization of EBI eQTL Catalogue 'GTEx_ge_artery_aorta' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgearterycoronary
-    bigDataUrl gwas2eqtlGTExgearterycoronary.bigInteract
-    shortLabel GTEx_ge_artery_coronary
-    longLabel gwas2eqtl GTEx_ge_artery_coronary: Colocalization of EBI eQTL Catalogue 'GTEx_ge_artery_coronary' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgearterytibial
-    bigDataUrl gwas2eqtlGTExgearterytibial.bigInteract
-    shortLabel GTEx_ge_artery_tibial
-    longLabel gwas2eqtl GTEx_ge_artery_tibial: Colocalization of EBI eQTL Catalogue 'GTEx_ge_artery_tibial' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgeblood
-    bigDataUrl gwas2eqtlGTExgeblood.bigInteract
-    shortLabel GTEx_ge_blood
-    longLabel gwas2eqtl GTEx_ge_blood: Colocalization of EBI eQTL Catalogue 'GTEx_ge_blood' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebrainamygdala
-    bigDataUrl gwas2eqtlGTExgebrainamygdala.bigInteract
-    shortLabel GTEx_ge_brain_amygdala
-    longLabel gwas2eqtl GTEx_ge_brain_amygdala: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_amygdala' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebrainanteriorcingulatecortex
-    bigDataUrl gwas2eqtlGTExgebrainanteriorcingulatecortex.bigInteract
-    shortLabel GTEx_ge_brain_anterior_cingulate_cortex
-    longLabel gwas2eqtl GTEx_ge_brain_anterior_cingulate_cortex: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_anterior_cingulate_cortex' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebraincaudate
-    bigDataUrl gwas2eqtlGTExgebraincaudate.bigInteract
-    shortLabel GTEx_ge_brain_caudate
-    longLabel gwas2eqtl GTEx_ge_brain_caudate: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_caudate' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebraincerebellarhemisphere
-    bigDataUrl gwas2eqtlGTExgebraincerebellarhemisphere.bigInteract
-    shortLabel GTEx_ge_brain_cerebellar_hemisphere
-    longLabel gwas2eqtl GTEx_ge_brain_cerebellar_hemisphere: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_cerebellar_hemisphere' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebraincerebellum
-    bigDataUrl gwas2eqtlGTExgebraincerebellum.bigInteract
-    shortLabel GTEx_ge_brain_cerebellum
-    longLabel gwas2eqtl GTEx_ge_brain_cerebellum: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_cerebellum' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebraincortex
-    bigDataUrl gwas2eqtlGTExgebraincortex.bigInteract
-    shortLabel GTEx_ge_brain_cortex
-    longLabel gwas2eqtl GTEx_ge_brain_cortex: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_cortex' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebrainfrontalcortex
-    bigDataUrl gwas2eqtlGTExgebrainfrontalcortex.bigInteract
-    shortLabel GTEx_ge_brain_frontal_cortex
-    longLabel gwas2eqtl GTEx_ge_brain_frontal_cortex: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_frontal_cortex' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgebrainhippocampus
-    bigDataUrl gwas2eqtlGTExgebrainhippocampus.bigInteract
+    track GTEx_ge_brain_hippocampus
+    bigDataUrl GTEx_ge_brain_hippocampus.bigInteract
     shortLabel GTEx_ge_brain_hippocampus
-    longLabel gwas2eqtl GTEx_ge_brain_hippocampus: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_hippocampus' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl GTEx_ge_brain_hippocampus
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebrainhypothalamus
-    bigDataUrl gwas2eqtlGTExgebrainhypothalamus.bigInteract
-    shortLabel GTEx_ge_brain_hypothalamus
-    longLabel gwas2eqtl GTEx_ge_brain_hypothalamus: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_hypothalamus' with 417 IEU OpenGWAS
+    track CEDAR_microarray_B-cell_CD19
+    bigDataUrl CEDAR_microarray_B-cell_CD19.bigInteract
+    shortLabel CEDAR_microarray_B-cell_CD19
+    longLabel gwas2eqtl CEDAR_microarray_B-cell_CD19
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebrainnucleusaccumbens
-    bigDataUrl gwas2eqtlGTExgebrainnucleusaccumbens.bigInteract
-    shortLabel GTEx_ge_brain_nucleus_accumbens
-    longLabel gwas2eqtl GTEx_ge_brain_nucleus_accumbens: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_nucleus_accumbens' with 417 IEU OpenGWAS
+    track Fairfax_2012_microarray_B-cell_CD19
+    bigDataUrl Fairfax_2012_microarray_B-cell_CD19.bigInteract
+    shortLabel Fairfax_2012_microarray_B-cell_CD19
+    longLabel gwas2eqtl Fairfax_2012_microarray_B-cell_CD19
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebrainputamen
-    bigDataUrl gwas2eqtlGTExgebrainputamen.bigInteract
-    shortLabel GTEx_ge_brain_putamen
-    longLabel gwas2eqtl GTEx_ge_brain_putamen: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_putamen' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_B-cell_naive
+    bigDataUrl Schmiedel_2018_ge_B-cell_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_B-cell_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_B-cell_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebrainspinalcord
-    bigDataUrl gwas2eqtlGTExgebrainspinalcord.bigInteract
+    track GTEx_ge_brain_spinal_cord
+    bigDataUrl GTEx_ge_brain_spinal_cord.bigInteract
     shortLabel GTEx_ge_brain_spinal_cord
-    longLabel gwas2eqtl GTEx_ge_brain_spinal_cord: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_spinal_cord' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl GTEx_ge_brain_spinal_cord
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebrainsubstantianigra
-    bigDataUrl gwas2eqtlGTExgebrainsubstantianigra.bigInteract
-    shortLabel GTEx_ge_brain_substantia_nigra
-    longLabel gwas2eqtl GTEx_ge_brain_substantia_nigra: Colocalization of EBI eQTL Catalogue 'GTEx_ge_brain_substantia_nigra' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_monocyte_CD16_naive
+    bigDataUrl Schmiedel_2018_ge_monocyte_CD16_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_monocyte_CD16_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_monocyte_CD16_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgebreast
-    bigDataUrl gwas2eqtlGTExgebreast.bigInteract
-    shortLabel GTEx_ge_breast
-    longLabel gwas2eqtl GTEx_ge_breast: Colocalization of EBI eQTL Catalogue 'GTEx_ge_breast' with 417 IEU OpenGWAS
+    track BLUEPRINT_SE_ge_monocyte
+    bigDataUrl BLUEPRINT_SE_ge_monocyte.bigInteract
+    shortLabel BLUEPRINT_SE_ge_monocyte
+    longLabel gwas2eqtl BLUEPRINT_SE_ge_monocyte
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgecolonsigmoid
-    bigDataUrl gwas2eqtlGTExgecolonsigmoid.bigInteract
-    shortLabel GTEx_ge_colon_sigmoid
-    longLabel gwas2eqtl GTEx_ge_colon_sigmoid: Colocalization of EBI eQTL Catalogue 'GTEx_ge_colon_sigmoid' with 417 IEU OpenGWAS
+    track CEDAR_microarray_monocyte_CD14
+    bigDataUrl CEDAR_microarray_monocyte_CD14.bigInteract
+    shortLabel CEDAR_microarray_monocyte_CD14
+    longLabel gwas2eqtl CEDAR_microarray_monocyte_CD14
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgecolontransverse
-    bigDataUrl gwas2eqtlGTExgecolontransverse.bigInteract
-    shortLabel GTEx_ge_colon_transverse
-    longLabel gwas2eqtl GTEx_ge_colon_transverse: Colocalization of EBI eQTL Catalogue 'GTEx_ge_colon_transverse' with 417 IEU OpenGWAS
+    track Fairfax_2014_microarray_monocyte_naive
+    bigDataUrl Fairfax_2014_microarray_monocyte_naive.bigInteract
+    shortLabel Fairfax_2014_microarray_monocyte_naive
+    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeesophagusgej
-    bigDataUrl gwas2eqtlGTExgeesophagusgej.bigInteract
-    shortLabel GTEx_ge_esophagus_gej
-    longLabel gwas2eqtl GTEx_ge_esophagus_gej: Colocalization of EBI eQTL Catalogue 'GTEx_ge_esophagus_gej' with 417 IEU OpenGWAS
+    track Fairfax_2014_microarray_monocyte_IFN24
+    bigDataUrl Fairfax_2014_microarray_monocyte_IFN24.bigInteract
+    shortLabel Fairfax_2014_microarray_monocyte_IFN24
+    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_IFN24
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeesophagusmucosa
-    bigDataUrl gwas2eqtlGTExgeesophagusmucosa.bigInteract
-    shortLabel GTEx_ge_esophagus_mucosa
-    longLabel gwas2eqtl GTEx_ge_esophagus_mucosa: Colocalization of EBI eQTL Catalogue 'GTEx_ge_esophagus_mucosa' with 417 IEU OpenGWAS
+    track Fairfax_2014_microarray_monocyte_LPS2
+    bigDataUrl Fairfax_2014_microarray_monocyte_LPS2.bigInteract
+    shortLabel Fairfax_2014_microarray_monocyte_LPS2
+    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_LPS2
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeesophagusmuscularis
-    bigDataUrl gwas2eqtlGTExgeesophagusmuscularis.bigInteract
-    shortLabel GTEx_ge_esophagus_muscularis
-    longLabel gwas2eqtl GTEx_ge_esophagus_muscularis: Colocalization of EBI eQTL Catalogue 'GTEx_ge_esophagus_muscularis' with 417 IEU OpenGWAS
+    track Fairfax_2014_microarray_monocyte_LPS24
+    bigDataUrl Fairfax_2014_microarray_monocyte_LPS24.bigInteract
+    shortLabel Fairfax_2014_microarray_monocyte_LPS24
+    longLabel gwas2eqtl Fairfax_2014_microarray_monocyte_LPS24
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgefibroblast
-    bigDataUrl gwas2eqtlGTExgefibroblast.bigInteract
-    shortLabel GTEx_ge_fibroblast
-    longLabel gwas2eqtl GTEx_ge_fibroblast: Colocalization of EBI eQTL Catalogue 'GTEx_ge_fibroblast' with 417 IEU OpenGWAS
+    track Quach_2016_ge_monocyte_naive
+    bigDataUrl Quach_2016_ge_monocyte_naive.bigInteract
+    shortLabel Quach_2016_ge_monocyte_naive
+    longLabel gwas2eqtl Quach_2016_ge_monocyte_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeheartatrialappendage
-    bigDataUrl gwas2eqtlGTExgeheartatrialappendage.bigInteract
-    shortLabel GTEx_ge_heart_atrial_appendage
-    longLabel gwas2eqtl GTEx_ge_heart_atrial_appendage: Colocalization of EBI eQTL Catalogue 'GTEx_ge_heart_atrial_appendage' with 417 IEU OpenGWAS
+    track Quach_2016_ge_monocyte_LPS
+    bigDataUrl Quach_2016_ge_monocyte_LPS.bigInteract
+    shortLabel Quach_2016_ge_monocyte_LPS
+    longLabel gwas2eqtl Quach_2016_ge_monocyte_LPS
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeheartleftventricle
-    bigDataUrl gwas2eqtlGTExgeheartleftventricle.bigInteract
-    shortLabel GTEx_ge_heart_left_ventricle
-    longLabel gwas2eqtl GTEx_ge_heart_left_ventricle: Colocalization of EBI eQTL Catalogue 'GTEx_ge_heart_left_ventricle' with 417 IEU OpenGWAS
+    track Quach_2016_ge_monocyte_Pam3CSK4
+    bigDataUrl Quach_2016_ge_monocyte_Pam3CSK4.bigInteract
+    shortLabel Quach_2016_ge_monocyte_Pam3CSK4
+    longLabel gwas2eqtl Quach_2016_ge_monocyte_Pam3CSK4
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgekidneycortex
-    bigDataUrl gwas2eqtlGTExgekidneycortex.bigInteract
-    shortLabel GTEx_ge_kidney_cortex
-    longLabel gwas2eqtl GTEx_ge_kidney_cortex: Colocalization of EBI eQTL Catalogue 'GTEx_ge_kidney_cortex' with 417 IEU OpenGWAS
+    track Quach_2016_ge_monocyte_R848
+    bigDataUrl Quach_2016_ge_monocyte_R848.bigInteract
+    shortLabel Quach_2016_ge_monocyte_R848
+    longLabel gwas2eqtl Quach_2016_ge_monocyte_R848
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeLCL
-    bigDataUrl gwas2eqtlGTExgeLCL.bigInteract
-    shortLabel GTEx_ge_LCL
-    longLabel gwas2eqtl GTEx_ge_LCL: Colocalization of EBI eQTL Catalogue 'GTEx_ge_LCL' with 417 IEU OpenGWAS
+    track Quach_2016_ge_monocyte_IAV
+    bigDataUrl Quach_2016_ge_monocyte_IAV.bigInteract
+    shortLabel Quach_2016_ge_monocyte_IAV
+    longLabel gwas2eqtl Quach_2016_ge_monocyte_IAV
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeliver
-    bigDataUrl gwas2eqtlGTExgeliver.bigInteract
-    shortLabel GTEx_ge_liver
-    longLabel gwas2eqtl GTEx_ge_liver: Colocalization of EBI eQTL Catalogue 'GTEx_ge_liver' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_monocyte_naive
+    bigDataUrl Schmiedel_2018_ge_monocyte_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_monocyte_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_monocyte_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgelung
-    bigDataUrl gwas2eqtlGTExgelung.bigInteract
-    shortLabel GTEx_ge_lung
-    longLabel gwas2eqtl GTEx_ge_lung: Colocalization of EBI eQTL Catalogue 'GTEx_ge_lung' with 417 IEU OpenGWAS
+    track BLUEPRINT_PE_ge_T-cell
+    bigDataUrl BLUEPRINT_PE_ge_T-cell.bigInteract
+    shortLabel BLUEPRINT_PE_ge_T-cell
+    longLabel gwas2eqtl BLUEPRINT_PE_ge_T-cell
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeminorsalivarygland
-    bigDataUrl gwas2eqtlGTExgeminorsalivarygland.bigInteract
-    shortLabel GTEx_ge_minor_salivary_gland
-    longLabel gwas2eqtl GTEx_ge_minor_salivary_gland: Colocalization of EBI eQTL Catalogue 'GTEx_ge_minor_salivary_gland' with 417 IEU OpenGWAS
+    track CEDAR_microarray_T-cell_CD4
+    bigDataUrl CEDAR_microarray_T-cell_CD4.bigInteract
+    shortLabel CEDAR_microarray_T-cell_CD4
+    longLabel gwas2eqtl CEDAR_microarray_T-cell_CD4
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgemuscle
-    bigDataUrl gwas2eqtlGTExgemuscle.bigInteract
-    shortLabel GTEx_ge_muscle
-    longLabel gwas2eqtl GTEx_ge_muscle: Colocalization of EBI eQTL Catalogue 'GTEx_ge_muscle' with 417 IEU OpenGWAS
+    track Kasela_2017_microarray_T-cell_CD4
+    bigDataUrl Kasela_2017_microarray_T-cell_CD4.bigInteract
+    shortLabel Kasela_2017_microarray_T-cell_CD4
+    longLabel gwas2eqtl Kasela_2017_microarray_T-cell_CD4
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgenervetibial
-    bigDataUrl gwas2eqtlGTExgenervetibial.bigInteract
-    shortLabel GTEx_ge_nerve_tibial
-    longLabel gwas2eqtl GTEx_ge_nerve_tibial: Colocalization of EBI eQTL Catalogue 'GTEx_ge_nerve_tibial' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_CD4_T-cell_naive
+    bigDataUrl Schmiedel_2018_ge_CD4_T-cell_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_CD4_T-cell_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_CD4_T-cell_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeovary
-    bigDataUrl gwas2eqtlGTExgeovary.bigInteract
-    shortLabel GTEx_ge_ovary
-    longLabel gwas2eqtl GTEx_ge_ovary: Colocalization of EBI eQTL Catalogue 'GTEx_ge_ovary' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
+    bigDataUrl Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28.bigInteract
+    shortLabel Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
+    longLabel gwas2eqtl Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgepancreas
-    bigDataUrl gwas2eqtlGTExgepancreas.bigInteract
-    shortLabel GTEx_ge_pancreas
-    longLabel gwas2eqtl GTEx_ge_pancreas: Colocalization of EBI eQTL Catalogue 'GTEx_ge_pancreas' with 417 IEU OpenGWAS
+    track CEDAR_microarray_T-cell_CD8
+    bigDataUrl CEDAR_microarray_T-cell_CD8.bigInteract
+    shortLabel CEDAR_microarray_T-cell_CD8
+    longLabel gwas2eqtl CEDAR_microarray_T-cell_CD8
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgepituitary
-    bigDataUrl gwas2eqtlGTExgepituitary.bigInteract
-    shortLabel GTEx_ge_pituitary
-    longLabel gwas2eqtl GTEx_ge_pituitary: Colocalization of EBI eQTL Catalogue 'GTEx_ge_pituitary' with 417 IEU OpenGWAS
+    track Kasela_2017_microarray_T-cell_CD8
+    bigDataUrl Kasela_2017_microarray_T-cell_CD8.bigInteract
+    shortLabel Kasela_2017_microarray_T-cell_CD8
+    longLabel gwas2eqtl Kasela_2017_microarray_T-cell_CD8
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeprostate
-    bigDataUrl gwas2eqtlGTExgeprostate.bigInteract
-    shortLabel GTEx_ge_prostate
-    longLabel gwas2eqtl GTEx_ge_prostate: Colocalization of EBI eQTL Catalogue 'GTEx_ge_prostate' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_CD8_T-cell_naive
+    bigDataUrl Schmiedel_2018_ge_CD8_T-cell_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_CD8_T-cell_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_CD8_T-cell_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeskinnotsunexposed
-    bigDataUrl gwas2eqtlGTExgeskinnotsunexposed.bigInteract
-    shortLabel GTEx_ge_skin_not_sun_exposed
-    longLabel gwas2eqtl GTEx_ge_skin_not_sun_exposed: Colocalization of EBI eQTL Catalogue 'GTEx_ge_skin_not_sun_exposed' with 417 IEU OpenGWAS
+    track Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
+    bigDataUrl Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28.bigInteract
+    shortLabel Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
+    longLabel gwas2eqtl Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGTExgeskinsunexposed
-    bigDataUrl gwas2eqtlGTExgeskinsunexposed.bigInteract
-    shortLabel GTEx_ge_skin_sun_exposed
-    longLabel gwas2eqtl GTEx_ge_skin_sun_exposed: Colocalization of EBI eQTL Catalogue 'GTEx_ge_skin_sun_exposed' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgesmallintestine
-    bigDataUrl gwas2eqtlGTExgesmallintestine.bigInteract
-    shortLabel GTEx_ge_small_intestine
-    longLabel gwas2eqtl GTEx_ge_small_intestine: Colocalization of EBI eQTL Catalogue 'GTEx_ge_small_intestine' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgespleen
-    bigDataUrl gwas2eqtlGTExgespleen.bigInteract
-    shortLabel GTEx_ge_spleen
-    longLabel gwas2eqtl GTEx_ge_spleen: Colocalization of EBI eQTL Catalogue 'GTEx_ge_spleen' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgestomach
-    bigDataUrl gwas2eqtlGTExgestomach.bigInteract
-    shortLabel GTEx_ge_stomach
-    longLabel gwas2eqtl GTEx_ge_stomach: Colocalization of EBI eQTL Catalogue 'GTEx_ge_stomach' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgetestis
-    bigDataUrl gwas2eqtlGTExgetestis.bigInteract
-    shortLabel GTEx_ge_testis
-    longLabel gwas2eqtl GTEx_ge_testis: Colocalization of EBI eQTL Catalogue 'GTEx_ge_testis' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgethyroid
-    bigDataUrl gwas2eqtlGTExgethyroid.bigInteract
-    shortLabel GTEx_ge_thyroid
-    longLabel gwas2eqtl GTEx_ge_thyroid: Colocalization of EBI eQTL Catalogue 'GTEx_ge_thyroid' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgeuterus
-    bigDataUrl gwas2eqtlGTExgeuterus.bigInteract
-    shortLabel GTEx_ge_uterus
-    longLabel gwas2eqtl GTEx_ge_uterus: Colocalization of EBI eQTL Catalogue 'GTEx_ge_uterus' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlGTExgevagina
-    bigDataUrl gwas2eqtlGTExgevagina.bigInteract
-    shortLabel GTEx_ge_vagina
-    longLabel gwas2eqtl GTEx_ge_vagina: Colocalization of EBI eQTL Catalogue 'GTEx_ge_vagina' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBraineac2geputamen
-    bigDataUrl gwas2eqtlBraineac2geputamen.bigInteract
-    shortLabel Braineac2_ge_putamen
-    longLabel gwas2eqtl Braineac2_ge_putamen: Colocalization of EBI eQTL Catalogue 'Braineac2_ge_putamen' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlBraineac2gesubstantianigra
-    bigDataUrl gwas2eqtlBraineac2gesubstantianigra.bigInteract
-    shortLabel Braineac2_ge_substantia_nigra
-    longLabel gwas2eqtl Braineac2_ge_substantia_nigra: Colocalization of EBI eQTL Catalogue 'Braineac2_ge_substantia_nigra' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCommonMindgeDLPFCnaive
-    bigDataUrl gwas2eqtlCommonMindgeDLPFCnaive.bigInteract
-    shortLabel CommonMind_ge_DLPFC_naive
-    longLabel gwas2eqtl CommonMind_ge_DLPFC_naive: Colocalization of EBI eQTL Catalogue 'CommonMind_ge_DLPFC_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCAPgeLCLnaive
-    bigDataUrl gwas2eqtlCAPgeLCLnaive.bigInteract
-    shortLabel CAP_ge_LCL_naive
-    longLabel gwas2eqtl CAP_ge_LCL_naive: Colocalization of EBI eQTL Catalogue 'CAP_ge_LCL_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlCAPgeLCLstatin
-    bigDataUrl gwas2eqtlCAPgeLCLstatin.bigInteract
-    shortLabel CAP_ge_LCL_statin
-    longLabel gwas2eqtl CAP_ge_LCL_statin: Colocalization of EBI eQTL Catalogue 'CAP_ge_LCL_statin' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtliPSCOREgeiPSC
-    bigDataUrl gwas2eqtliPSCOREgeiPSC.bigInteract
-    shortLabel iPSCORE_ge_iPSC
-    longLabel gwas2eqtl iPSCORE_ge_iPSC: Colocalization of EBI eQTL Catalogue 'iPSCORE_ge_iPSC' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlPeng2018geplacentanaive
-    bigDataUrl gwas2eqtlPeng2018geplacentanaive.bigInteract
-    shortLabel Peng_2018_ge_placenta_naive
-    longLabel gwas2eqtl Peng_2018_ge_placenta_naive: Colocalization of EBI eQTL Catalogue 'Peng_2018_ge_placenta_naive' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlPhLiPSgeiPSC
-    bigDataUrl gwas2eqtlPhLiPSgeiPSC.bigInteract
-    shortLabel PhLiPS_ge_iPSC
-    longLabel gwas2eqtl PhLiPS_ge_iPSC: Colocalization of EBI eQTL Catalogue 'PhLiPS_ge_iPSC' with 417 IEU OpenGWAS
-    type bigInteract
-    color 128,0,5
-    parent gwas2eqtl
-    visibility full
-
-    track gwas2eqtlPhLiPSgeHLC
-    bigDataUrl gwas2eqtlPhLiPSgeHLC.bigInteract
+    track PhLiPS_ge_HLC
+    bigDataUrl PhLiPS_ge_HLC.bigInteract
     shortLabel PhLiPS_ge_HLC
-    longLabel gwas2eqtl PhLiPS_ge_HLC: Colocalization of EBI eQTL Catalogue 'PhLiPS_ge_HLC' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl PhLiPS_ge_HLC
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlSteinberg2020gesynoviumnaive
-    bigDataUrl gwas2eqtlSteinberg2020gesynoviumnaive.bigInteract
-    shortLabel Steinberg_2020_ge_synovium_naive
-    longLabel gwas2eqtl Steinberg_2020_ge_synovium_naive: Colocalization of EBI eQTL Catalogue 'Steinberg_2020_ge_synovium_naive' with 417 IEU OpenGWAS
+    track GTEx_ge_small_intestine
+    bigDataUrl GTEx_ge_small_intestine.bigInteract
+    shortLabel GTEx_ge_small_intestine
+    longLabel gwas2eqtl GTEx_ge_small_intestine
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlSteinberg2020gelowgradecartilagenaive
-    bigDataUrl gwas2eqtlSteinberg2020gelowgradecartilagenaive.bigInteract
+    track GENCORD_ge_T-cell
+    bigDataUrl GENCORD_ge_T-cell.bigInteract
+    shortLabel GENCORD_ge_T-cell
+    longLabel gwas2eqtl GENCORD_ge_T-cell
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Tfh_memory
+    bigDataUrl Schmiedel_2018_ge_Tfh_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Tfh_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Tfh_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Th1_memory
+    bigDataUrl Schmiedel_2018_ge_Th1_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Th1_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Th1_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Th17_memory
+    bigDataUrl Schmiedel_2018_ge_Th17_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Th17_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Th17_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Th1-17_memory
+    bigDataUrl Schmiedel_2018_ge_Th1-17_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Th1-17_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Th1-17_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Th2_memory
+    bigDataUrl Schmiedel_2018_ge_Th2_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Th2_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Th2_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track FUSION_ge_adipose_naive
+    bigDataUrl FUSION_ge_adipose_naive.bigInteract
+    shortLabel FUSION_ge_adipose_naive
+    longLabel gwas2eqtl FUSION_ge_adipose_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_adipose_subcutaneous
+    bigDataUrl GTEx_ge_adipose_subcutaneous.bigInteract
+    shortLabel GTEx_ge_adipose_subcutaneous
+    longLabel gwas2eqtl GTEx_ge_adipose_subcutaneous
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track TwinsUK_ge_fat
+    bigDataUrl TwinsUK_ge_fat.bigInteract
+    shortLabel TwinsUK_ge_fat
+    longLabel gwas2eqtl TwinsUK_ge_fat
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_adrenal_gland
+    bigDataUrl GTEx_ge_adrenal_gland.bigInteract
+    shortLabel GTEx_ge_adrenal_gland
+    longLabel gwas2eqtl GTEx_ge_adrenal_gland
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_amygdala
+    bigDataUrl GTEx_ge_brain_amygdala.bigInteract
+    shortLabel GTEx_ge_brain_amygdala
+    longLabel gwas2eqtl GTEx_ge_brain_amygdala
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_anterior_cingulate_cortex
+    bigDataUrl GTEx_ge_brain_anterior_cingulate_cortex.bigInteract
+    shortLabel GTEx_ge_brain_anterior_cingulate_cortex
+    longLabel gwas2eqtl GTEx_ge_brain_anterior_cingulate_cortex
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_minor_salivary_gland
+    bigDataUrl GTEx_ge_minor_salivary_gland.bigInteract
+    shortLabel GTEx_ge_minor_salivary_gland
+    longLabel gwas2eqtl GTEx_ge_minor_salivary_gland
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_artery_aorta
+    bigDataUrl GTEx_ge_artery_aorta.bigInteract
+    shortLabel GTEx_ge_artery_aorta
+    longLabel gwas2eqtl GTEx_ge_artery_aorta
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_blood
+    bigDataUrl GTEx_ge_blood.bigInteract
+    shortLabel GTEx_ge_blood
+    longLabel gwas2eqtl GTEx_ge_blood
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Lepik_2017_ge_blood
+    bigDataUrl Lepik_2017_ge_blood.bigInteract
+    shortLabel Lepik_2017_ge_blood
+    longLabel gwas2eqtl Lepik_2017_ge_blood
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track TwinsUK_ge_blood
+    bigDataUrl TwinsUK_ge_blood.bigInteract
+    shortLabel TwinsUK_ge_blood
+    longLabel gwas2eqtl TwinsUK_ge_blood
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_pancreas
+    bigDataUrl GTEx_ge_pancreas.bigInteract
+    shortLabel GTEx_ge_pancreas
+    longLabel gwas2eqtl GTEx_ge_pancreas
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_breast
+    bigDataUrl GTEx_ge_breast.bigInteract
+    shortLabel GTEx_ge_breast
+    longLabel gwas2eqtl GTEx_ge_breast
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Steinberg_2020_ge_low_grade_cartilage_naive
+    bigDataUrl Steinberg_2020_ge_low_grade_cartilage_naive.bigInteract
     shortLabel Steinberg_2020_ge_low_grade_cartilage_naive
-    longLabel gwas2eqtl Steinberg_2020_ge_low_grade_cartilage_naive: Colocalization of EBI eQTL Catalogue 'Steinberg_2020_ge_low_grade_cartilage_naive' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl Steinberg_2020_ge_low_grade_cartilage_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlSteinberg2020gehighgradecartilagenaive
-    bigDataUrl gwas2eqtlSteinberg2020gehighgradecartilagenaive.bigInteract
+    track Steinberg_2020_ge_high_grade_cartilage_naive
+    bigDataUrl Steinberg_2020_ge_high_grade_cartilage_naive.bigInteract
     shortLabel Steinberg_2020_ge_high_grade_cartilage_naive
-    longLabel gwas2eqtl Steinberg_2020_ge_high_grade_cartilage_naive: Colocalization of EBI eQTL Catalogue 'Steinberg_2020_ge_high_grade_cartilage_naive' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl Steinberg_2020_ge_high_grade_cartilage_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlYoung2019gemicroglianaive
-    bigDataUrl gwas2eqtlYoung2019gemicroglianaive.bigInteract
+    track GTEx_ge_brain_caudate
+    bigDataUrl GTEx_ge_brain_caudate.bigInteract
+    shortLabel GTEx_ge_brain_caudate
+    longLabel gwas2eqtl GTEx_ge_brain_caudate
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_cerebellar_hemisphere
+    bigDataUrl GTEx_ge_brain_cerebellar_hemisphere.bigInteract
+    shortLabel GTEx_ge_brain_cerebellar_hemisphere
+    longLabel gwas2eqtl GTEx_ge_brain_cerebellar_hemisphere
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_cerebellum
+    bigDataUrl GTEx_ge_brain_cerebellum.bigInteract
+    shortLabel GTEx_ge_brain_cerebellum
+    longLabel gwas2eqtl GTEx_ge_brain_cerebellum
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_artery_coronary
+    bigDataUrl GTEx_ge_artery_coronary.bigInteract
+    shortLabel GTEx_ge_artery_coronary
+    longLabel gwas2eqtl GTEx_ge_artery_coronary
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_kidney_cortex
+    bigDataUrl GTEx_ge_kidney_cortex.bigInteract
+    shortLabel GTEx_ge_kidney_cortex
+    longLabel gwas2eqtl GTEx_ge_kidney_cortex
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track BrainSeq_ge_brain
+    bigDataUrl BrainSeq_ge_brain.bigInteract
+    shortLabel BrainSeq_ge_brain
+    longLabel gwas2eqtl BrainSeq_ge_brain
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CommonMind_ge_DLPFC_naive
+    bigDataUrl CommonMind_ge_DLPFC_naive.bigInteract
+    shortLabel CommonMind_ge_DLPFC_naive
+    longLabel gwas2eqtl CommonMind_ge_DLPFC_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_frontal_cortex
+    bigDataUrl GTEx_ge_brain_frontal_cortex.bigInteract
+    shortLabel GTEx_ge_brain_frontal_cortex
+    longLabel gwas2eqtl GTEx_ge_brain_frontal_cortex
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track ROSMAP_ge_brain_naive
+    bigDataUrl ROSMAP_ge_brain_naive.bigInteract
+    shortLabel ROSMAP_ge_brain_naive
+    longLabel gwas2eqtl ROSMAP_ge_brain_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_esophagus_muscularis
+    bigDataUrl GTEx_ge_esophagus_muscularis.bigInteract
+    shortLabel GTEx_ge_esophagus_muscularis
+    longLabel gwas2eqtl GTEx_ge_esophagus_muscularis
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_esophagus_mucosa
+    bigDataUrl GTEx_ge_esophagus_mucosa.bigInteract
+    shortLabel GTEx_ge_esophagus_mucosa
+    longLabel gwas2eqtl GTEx_ge_esophagus_mucosa
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_ovary
+    bigDataUrl GTEx_ge_ovary.bigInteract
+    shortLabel GTEx_ge_ovary
+    longLabel gwas2eqtl GTEx_ge_ovary
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GENCORD_ge_fibroblast
+    bigDataUrl GENCORD_ge_fibroblast.bigInteract
+    shortLabel GENCORD_ge_fibroblast
+    longLabel gwas2eqtl GENCORD_ge_fibroblast
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_fibroblast
+    bigDataUrl GTEx_ge_fibroblast.bigInteract
+    shortLabel GTEx_ge_fibroblast
+    longLabel gwas2eqtl GTEx_ge_fibroblast
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_cortex
+    bigDataUrl GTEx_ge_brain_cortex.bigInteract
+    shortLabel GTEx_ge_brain_cortex
+    longLabel gwas2eqtl GTEx_ge_brain_cortex
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_esophagus_gej
+    bigDataUrl GTEx_ge_esophagus_gej.bigInteract
+    shortLabel GTEx_ge_esophagus_gej
+    longLabel gwas2eqtl GTEx_ge_esophagus_gej
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_hypothalamus
+    bigDataUrl GTEx_ge_brain_hypothalamus.bigInteract
+    shortLabel GTEx_ge_brain_hypothalamus
+    longLabel gwas2eqtl GTEx_ge_brain_hypothalamus
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CEDAR_microarray_ileum
+    bigDataUrl CEDAR_microarray_ileum.bigInteract
+    shortLabel CEDAR_microarray_ileum
+    longLabel gwas2eqtl CEDAR_microarray_ileum
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track HipSci_ge_iPSC
+    bigDataUrl HipSci_ge_iPSC.bigInteract
+    shortLabel HipSci_ge_iPSC
+    longLabel gwas2eqtl HipSci_ge_iPSC
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track PhLiPS_ge_iPSC
+    bigDataUrl PhLiPS_ge_iPSC.bigInteract
+    shortLabel PhLiPS_ge_iPSC
+    longLabel gwas2eqtl PhLiPS_ge_iPSC
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track iPSCORE_ge_iPSC
+    bigDataUrl iPSCORE_ge_iPSC.bigInteract
+    shortLabel iPSCORE_ge_iPSC
+    longLabel gwas2eqtl iPSCORE_ge_iPSC
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track van_de_Bunt_2015_ge_pancreatic_islet
+    bigDataUrl van_de_Bunt_2015_ge_pancreatic_islet.bigInteract
+    shortLabel van_de_Bunt_2015_ge_pancreatic_islet
+    longLabel gwas2eqtl van_de_Bunt_2015_ge_pancreatic_islet
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Steinberg_2020_ge_synovium_naive
+    bigDataUrl Steinberg_2020_ge_synovium_naive.bigInteract
+    shortLabel Steinberg_2020_ge_synovium_naive
+    longLabel gwas2eqtl Steinberg_2020_ge_synovium_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_heart_left_ventricle
+    bigDataUrl GTEx_ge_heart_left_ventricle.bigInteract
+    shortLabel GTEx_ge_heart_left_ventricle
+    longLabel gwas2eqtl GTEx_ge_heart_left_ventricle
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CAP_ge_LCL_naive
+    bigDataUrl CAP_ge_LCL_naive.bigInteract
+    shortLabel CAP_ge_LCL_naive
+    longLabel gwas2eqtl CAP_ge_LCL_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CAP_ge_LCL_statin
+    bigDataUrl CAP_ge_LCL_statin.bigInteract
+    shortLabel CAP_ge_LCL_statin
+    longLabel gwas2eqtl CAP_ge_LCL_statin
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GENCORD_ge_LCL
+    bigDataUrl GENCORD_ge_LCL.bigInteract
+    shortLabel GENCORD_ge_LCL
+    longLabel gwas2eqtl GENCORD_ge_LCL
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GEUVADIS_ge_LCL
+    bigDataUrl GEUVADIS_ge_LCL.bigInteract
+    shortLabel GEUVADIS_ge_LCL
+    longLabel gwas2eqtl GEUVADIS_ge_LCL
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_LCL
+    bigDataUrl GTEx_ge_LCL.bigInteract
+    shortLabel GTEx_ge_LCL
+    longLabel gwas2eqtl GTEx_ge_LCL
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track TwinsUK_ge_LCL
+    bigDataUrl TwinsUK_ge_LCL.bigInteract
+    shortLabel TwinsUK_ge_LCL
+    longLabel gwas2eqtl TwinsUK_ge_LCL
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Alasoo_2018_ge_macrophage_naive
+    bigDataUrl Alasoo_2018_ge_macrophage_naive.bigInteract
+    shortLabel Alasoo_2018_ge_macrophage_naive
+    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Alasoo_2018_ge_macrophage_IFNg
+    bigDataUrl Alasoo_2018_ge_macrophage_IFNg.bigInteract
+    shortLabel Alasoo_2018_ge_macrophage_IFNg
+    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_IFNg
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Alasoo_2018_ge_macrophage_Salmonella
+    bigDataUrl Alasoo_2018_ge_macrophage_Salmonella.bigInteract
+    shortLabel Alasoo_2018_ge_macrophage_Salmonella
+    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_Salmonella
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Alasoo_2018_ge_macrophage_IFNgAndSalmonella
+    bigDataUrl Alasoo_2018_ge_macrophage_IFNgAndSalmonella.bigInteract
+    shortLabel Alasoo_2018_ge_macrophage_IFNg+Salmonella
+    longLabel gwas2eqtl Alasoo_2018_ge_macrophage_IFNg+Salmonella
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Nedelec_2016_ge_macrophage_Listeria
+    bigDataUrl Nedelec_2016_ge_macrophage_Listeria.bigInteract
+    shortLabel Nedelec_2016_ge_macrophage_Listeria
+    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_Listeria
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Nedelec_2016_ge_macrophage_naive
+    bigDataUrl Nedelec_2016_ge_macrophage_naive.bigInteract
+    shortLabel Nedelec_2016_ge_macrophage_naive
+    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Nedelec_2016_ge_macrophage_Salmonella
+    bigDataUrl Nedelec_2016_ge_macrophage_Salmonella.bigInteract
+    shortLabel Nedelec_2016_ge_macrophage_Salmonella
+    longLabel gwas2eqtl Nedelec_2016_ge_macrophage_Salmonella
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_Treg_memory
+    bigDataUrl Schmiedel_2018_ge_Treg_memory.bigInteract
+    shortLabel Schmiedel_2018_ge_Treg_memory
+    longLabel gwas2eqtl Schmiedel_2018_ge_Treg_memory
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Young_2019_ge_microglia_naive
+    bigDataUrl Young_2019_ge_microglia_naive.bigInteract
     shortLabel Young_2019_ge_microglia_naive
-    longLabel gwas2eqtl Young_2019_ge_microglia_naive: Colocalization of EBI eQTL Catalogue 'Young_2019_ge_microglia_naive' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl Young_2019_ge_microglia_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlBossiniCastillo2019geTregnaive
-    bigDataUrl gwas2eqtlBossiniCastillo2019geTregnaive.bigInteract
+    track Bossini-Castillo_2019_ge_Treg_naive
+    bigDataUrl Bossini-Castillo_2019_ge_Treg_naive.bigInteract
     shortLabel Bossini-Castillo_2019_ge_Treg_naive
-    longLabel gwas2eqtl Bossini-Castillo_2019_ge_Treg_naive: Colocalization of EBI eQTL Catalogue 'Bossini-Castillo_2019_ge_Treg_naive' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl Bossini-Castillo_2019_ge_Treg_naive
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
     visibility full
 
-    track gwas2eqtlGilchrist2021microarrayNKcellnaive
-    bigDataUrl gwas2eqtlGilchrist2021microarrayNKcellnaive.bigInteract
+    track Schmiedel_2018_ge_Treg_naive
+    bigDataUrl Schmiedel_2018_ge_Treg_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_Treg_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_Treg_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Gilchrist_2021_microarray_NK-cell_naive
+    bigDataUrl Gilchrist_2021_microarray_NK-cell_naive.bigInteract
     shortLabel Gilchrist_2021_microarray_NK-cell_naive
-    longLabel gwas2eqtl Gilchrist_2021_microarray_NK-cell_naive: Colocalization of EBI eQTL Catalogue 'Gilchrist_2021_microarray_NK-cell_naive' with 417 IEU OpenGWAS
+    longLabel gwas2eqtl Gilchrist_2021_microarray_NK-cell_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schmiedel_2018_ge_NK-cell_naive
+    bigDataUrl Schmiedel_2018_ge_NK-cell_naive.bigInteract
+    shortLabel Schmiedel_2018_ge_NK-cell_naive
+    longLabel gwas2eqtl Schmiedel_2018_ge_NK-cell_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track BLUEPRINT_SE_ge_neutrophil
+    bigDataUrl BLUEPRINT_SE_ge_neutrophil.bigInteract
+    shortLabel BLUEPRINT_SE_ge_neutrophil
+    longLabel gwas2eqtl BLUEPRINT_SE_ge_neutrophil
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CEDAR_microarray_neutrophil_CD15
+    bigDataUrl CEDAR_microarray_neutrophil_CD15.bigInteract
+    shortLabel CEDAR_microarray_neutrophil_CD15
+    longLabel gwas2eqtl CEDAR_microarray_neutrophil_CD15
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Naranbhai_2015_microarray_neutrophil_CD16
+    bigDataUrl Naranbhai_2015_microarray_neutrophil_CD16.bigInteract
+    shortLabel Naranbhai_2015_microarray_neutrophil_CD16
+    longLabel gwas2eqtl Naranbhai_2015_microarray_neutrophil_CD16
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_nucleus_accumbens
+    bigDataUrl GTEx_ge_brain_nucleus_accumbens.bigInteract
+    shortLabel GTEx_ge_brain_nucleus_accumbens
+    longLabel gwas2eqtl GTEx_ge_brain_nucleus_accumbens
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_adipose_visceral
+    bigDataUrl GTEx_ge_adipose_visceral.bigInteract
+    shortLabel GTEx_ge_adipose_visceral
+    longLabel gwas2eqtl GTEx_ge_adipose_visceral
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_pituitary
+    bigDataUrl GTEx_ge_pituitary.bigInteract
+    shortLabel GTEx_ge_pituitary
+    longLabel gwas2eqtl GTEx_ge_pituitary
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Peng_2018_ge_placenta_naive
+    bigDataUrl Peng_2018_ge_placenta_naive.bigInteract
+    shortLabel Peng_2018_ge_placenta_naive
+    longLabel gwas2eqtl Peng_2018_ge_placenta_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CEDAR_microarray_platelet
+    bigDataUrl CEDAR_microarray_platelet.bigInteract
+    shortLabel CEDAR_microarray_platelet
+    longLabel gwas2eqtl CEDAR_microarray_platelet
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_prostate
+    bigDataUrl GTEx_ge_prostate.bigInteract
+    shortLabel GTEx_ge_prostate
+    longLabel gwas2eqtl GTEx_ge_prostate
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Braineac2_ge_putamen
+    bigDataUrl Braineac2_ge_putamen.bigInteract
+    shortLabel Braineac2_ge_putamen
+    longLabel gwas2eqtl Braineac2_ge_putamen
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_putamen
+    bigDataUrl GTEx_ge_brain_putamen.bigInteract
+    shortLabel GTEx_ge_brain_putamen
+    longLabel gwas2eqtl GTEx_ge_brain_putamen
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CEDAR_microarray_rectum
+    bigDataUrl CEDAR_microarray_rectum.bigInteract
+    shortLabel CEDAR_microarray_rectum
+    longLabel gwas2eqtl CEDAR_microarray_rectum
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_heart_atrial_appendage
+    bigDataUrl GTEx_ge_heart_atrial_appendage.bigInteract
+    shortLabel GTEx_ge_heart_atrial_appendage
+    longLabel gwas2eqtl GTEx_ge_heart_atrial_appendage
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_liver
+    bigDataUrl GTEx_ge_liver.bigInteract
+    shortLabel GTEx_ge_liver
+    longLabel gwas2eqtl GTEx_ge_liver
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Schwartzentruber_2018_ge_sensory_neuron
+    bigDataUrl Schwartzentruber_2018_ge_sensory_neuron.bigInteract
+    shortLabel Schwartzentruber_2018_ge_sensory_neuron
+    longLabel gwas2eqtl Schwartzentruber_2018_ge_sensory_neuron
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_colon_sigmoid
+    bigDataUrl GTEx_ge_colon_sigmoid.bigInteract
+    shortLabel GTEx_ge_colon_sigmoid
+    longLabel gwas2eqtl GTEx_ge_colon_sigmoid
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track FUSION_ge_muscle_naive
+    bigDataUrl FUSION_ge_muscle_naive.bigInteract
+    shortLabel FUSION_ge_muscle_naive
+    longLabel gwas2eqtl FUSION_ge_muscle_naive
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_muscle
+    bigDataUrl GTEx_ge_muscle.bigInteract
+    shortLabel GTEx_ge_muscle
+    longLabel gwas2eqtl GTEx_ge_muscle
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_skin_sun_exposed
+    bigDataUrl GTEx_ge_skin_sun_exposed.bigInteract
+    shortLabel GTEx_ge_skin_sun_exposed
+    longLabel gwas2eqtl GTEx_ge_skin_sun_exposed
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track TwinsUK_ge_skin
+    bigDataUrl TwinsUK_ge_skin.bigInteract
+    shortLabel TwinsUK_ge_skin
+    longLabel gwas2eqtl TwinsUK_ge_skin
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_spleen
+    bigDataUrl GTEx_ge_spleen.bigInteract
+    shortLabel GTEx_ge_spleen
+    longLabel gwas2eqtl GTEx_ge_spleen
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_stomach
+    bigDataUrl GTEx_ge_stomach.bigInteract
+    shortLabel GTEx_ge_stomach
+    longLabel gwas2eqtl GTEx_ge_stomach
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_brain_substantia_nigra
+    bigDataUrl GTEx_ge_brain_substantia_nigra.bigInteract
+    shortLabel GTEx_ge_brain_substantia_nigra
+    longLabel gwas2eqtl GTEx_ge_brain_substantia_nigra
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track Braineac2_ge_substantia_nigra
+    bigDataUrl Braineac2_ge_substantia_nigra.bigInteract
+    shortLabel Braineac2_ge_substantia_nigra
+    longLabel gwas2eqtl Braineac2_ge_substantia_nigra
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_skin_not_sun_exposed
+    bigDataUrl GTEx_ge_skin_not_sun_exposed.bigInteract
+    shortLabel GTEx_ge_skin_not_sun_exposed
+    longLabel gwas2eqtl GTEx_ge_skin_not_sun_exposed
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_testis
+    bigDataUrl GTEx_ge_testis.bigInteract
+    shortLabel GTEx_ge_testis
+    longLabel gwas2eqtl GTEx_ge_testis
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_thyroid
+    bigDataUrl GTEx_ge_thyroid.bigInteract
+    shortLabel GTEx_ge_thyroid
+    longLabel gwas2eqtl GTEx_ge_thyroid
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_artery_tibial
+    bigDataUrl GTEx_ge_artery_tibial.bigInteract
+    shortLabel GTEx_ge_artery_tibial
+    longLabel gwas2eqtl GTEx_ge_artery_tibial
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_nerve_tibial
+    bigDataUrl GTEx_ge_nerve_tibial.bigInteract
+    shortLabel GTEx_ge_nerve_tibial
+    longLabel gwas2eqtl GTEx_ge_nerve_tibial
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track CEDAR_microarray_transverse_colon
+    bigDataUrl CEDAR_microarray_transverse_colon.bigInteract
+    shortLabel CEDAR_microarray_transverse_colon
+    longLabel gwas2eqtl CEDAR_microarray_transverse_colon
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_colon_transverse
+    bigDataUrl GTEx_ge_colon_transverse.bigInteract
+    shortLabel GTEx_ge_colon_transverse
+    longLabel gwas2eqtl GTEx_ge_colon_transverse
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_lung
+    bigDataUrl GTEx_ge_lung.bigInteract
+    shortLabel GTEx_ge_lung
+    longLabel gwas2eqtl GTEx_ge_lung
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_uterus
+    bigDataUrl GTEx_ge_uterus.bigInteract
+    shortLabel GTEx_ge_uterus
+    longLabel gwas2eqtl GTEx_ge_uterus
+    type bigInteract
+    color 128,0,5
+    parent gwas2eqtl
+    visibility full
+
+    track GTEx_ge_vagina
+    bigDataUrl GTEx_ge_vagina.bigInteract
+    shortLabel GTEx_ge_vagina
+    longLabel gwas2eqtl GTEx_ge_vagina
     type bigInteract
     color 128,0,5
     parent gwas2eqtl
