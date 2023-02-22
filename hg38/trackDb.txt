@@ -1,1015 +1,1285 @@
-track GTExgebrainamygdalainterbb
-bigDataUrl GTExgebrainamygdalainterbb.bigInteract
-shortLabel GTExgebrainamygdalainterbb
-longLabel GTExgebrainamygdalainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgefibroblastinterbb
-bigDataUrl GTExgefibroblastinterbb.bigInteract
-shortLabel GTExgefibroblastinterbb
-longLabel GTExgefibroblastinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgecolonsigmoidinterbb
-bigDataUrl GTExgecolonsigmoidinterbb.bigInteract
-shortLabel GTExgecolonsigmoidinterbb
-longLabel GTExgecolonsigmoidinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Alasoo2018gemacrophageIFNgSalmonellainterbb
-bigDataUrl Alasoo2018gemacrophageIFNgSalmonellainterbb.bigInteract
-shortLabel Alasoo2018gemacrophageIFNgSalmonellainterbb
-longLabel Alasoo2018gemacrophageIFNgSalmonellainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track TwinsUKgeLCLinterbb
-bigDataUrl TwinsUKgeLCLinterbb.bigInteract
-shortLabel TwinsUKgeLCLinterbb
-longLabel TwinsUKgeLCLinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Quach2016gemonocytePam3CSK4interbb
-bigDataUrl Quach2016gemonocytePam3CSK4interbb.bigInteract
-shortLabel Quach2016gemonocytePam3CSK4interbb
-longLabel Quach2016gemonocytePam3CSK4interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebloodinterbb
-bigDataUrl GTExgebloodinterbb.bigInteract
-shortLabel GTExgebloodinterbb
-longLabel GTExgebloodinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgetestisinterbb
-bigDataUrl GTExgetestisinterbb.bigInteract
-shortLabel GTExgetestisinterbb
-longLabel GTExgetestisinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTh1memoryinterbb
-bigDataUrl Schmiedel2018geTh1memoryinterbb.bigInteract
-shortLabel Schmiedel2018geTh1memoryinterbb
-longLabel Schmiedel2018geTh1memoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Lepik2017gebloodinterbb
-bigDataUrl Lepik2017gebloodinterbb.bigInteract
-shortLabel Lepik2017gebloodinterbb
-longLabel Lepik2017gebloodinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018gemonocyteCD16naiveinterbb
-bigDataUrl Schmiedel2018gemonocyteCD16naiveinterbb.bigInteract
-shortLabel Schmiedel2018gemonocyteCD16naiveinterbb
-longLabel Schmiedel2018gemonocyteCD16naiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track FUSIONgeadiposenaiveinterbb
-bigDataUrl FUSIONgeadiposenaiveinterbb.bigInteract
-shortLabel FUSIONgeadiposenaiveinterbb
-longLabel FUSIONgeadiposenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeesophagusmucosainterbb
-bigDataUrl GTExgeesophagusmucosainterbb.bigInteract
-shortLabel GTExgeesophagusmucosainterbb
-longLabel GTExgeesophagusmucosainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track ROSMAPgebrainnaiveinterbb
-bigDataUrl ROSMAPgebrainnaiveinterbb.bigInteract
-shortLabel ROSMAPgebrainnaiveinterbb
-longLabel ROSMAPgebrainnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Fairfax2014microarraymonocyteLPS24interbb
-bigDataUrl Fairfax2014microarraymonocyteLPS24interbb.bigInteract
-shortLabel Fairfax2014microarraymonocyteLPS24interbb
-longLabel Fairfax2014microarraymonocyteLPS24interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainsubstantianigrainterbb
-bigDataUrl GTExgebrainsubstantianigrainterbb.bigInteract
-shortLabel GTExgebrainsubstantianigrainterbb
-longLabel GTExgebrainsubstantianigrainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgelunginterbb
-bigDataUrl GTExgelunginterbb.bigInteract
-shortLabel GTExgelunginterbb
-longLabel GTExgelunginterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track BrainSeqgebraininterbb
-bigDataUrl BrainSeqgebraininterbb.bigInteract
-shortLabel BrainSeqgebraininterbb
-longLabel BrainSeqgebraininterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Fairfax2014microarraymonocyteIFN24interbb
-bigDataUrl Fairfax2014microarraymonocyteIFN24interbb.bigInteract
-shortLabel Fairfax2014microarraymonocyteIFN24interbb
-longLabel Fairfax2014microarraymonocyteIFN24interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Quach2016gemonocyteLPSinterbb
-bigDataUrl Quach2016gemonocyteLPSinterbb.bigInteract
-shortLabel Quach2016gemonocyteLPSinterbb
-longLabel Quach2016gemonocyteLPSinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Nedelec2016gemacrophageSalmonellainterbb
-bigDataUrl Nedelec2016gemacrophageSalmonellainterbb.bigInteract
-shortLabel Nedelec2016gemacrophageSalmonellainterbb
-longLabel Nedelec2016gemacrophageSalmonellainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track iPSCOREgeiPSCinterbb
-bigDataUrl iPSCOREgeiPSCinterbb.bigInteract
-shortLabel iPSCOREgeiPSCinterbb
-longLabel iPSCOREgeiPSCinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CAPgeLCLstatininterbb
-bigDataUrl CAPgeLCLstatininterbb.bigInteract
-shortLabel CAPgeLCLstatininterbb
-longLabel CAPgeLCLstatininterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTfhmemoryinterbb
-bigDataUrl Schmiedel2018geTfhmemoryinterbb.bigInteract
-shortLabel Schmiedel2018geTfhmemoryinterbb
-longLabel Schmiedel2018geTfhmemoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track BLUEPRINTSEgeneutrophilinterbb
-bigDataUrl BLUEPRINTSEgeneutrophilinterbb.bigInteract
-shortLabel BLUEPRINTSEgeneutrophilinterbb
-longLabel BLUEPRINTSEgeneutrophilinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeesophagusgejinterbb
-bigDataUrl GTExgeesophagusgejinterbb.bigInteract
-shortLabel GTExgeesophagusgejinterbb
-longLabel GTExgeesophagusgejinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebraincerebellarhemisphereinterbb
-bigDataUrl GTExgebraincerebellarhemisphereinterbb.bigInteract
-shortLabel GTExgebraincerebellarhemisphereinterbb
-longLabel GTExgebraincerebellarhemisphereinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeovaryinterbb
-bigDataUrl GTExgeovaryinterbb.bigInteract
-shortLabel GTExgeovaryinterbb
-longLabel GTExgeovaryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainputameninterbb
-bigDataUrl GTExgebrainputameninterbb.bigInteract
-shortLabel GTExgebrainputameninterbb
-longLabel GTExgebrainputameninterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebreastinterbb
-bigDataUrl GTExgebreastinterbb.bigInteract
-shortLabel GTExgebreastinterbb
-longLabel GTExgebreastinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Steinberg2020gehighgradecartilagenaiveinterbb
-bigDataUrl Steinberg2020gehighgradecartilagenaiveinterbb.bigInteract
-shortLabel Steinberg2020gehighgradecartilagenaiveinterbb
-longLabel Steinberg2020gehighgradecartilagenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Fairfax2012microarrayBcellCD19interbb
-bigDataUrl Fairfax2012microarrayBcellCD19interbb.bigInteract
-shortLabel Fairfax2012microarrayBcellCD19interbb
-longLabel Fairfax2012microarrayBcellCD19interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainhypothalamusinterbb
-bigDataUrl GTExgebrainhypothalamusinterbb.bigInteract
-shortLabel GTExgebrainhypothalamusinterbb
-longLabel GTExgebrainhypothalamusinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayneutrophilCD15interbb
-bigDataUrl CEDARmicroarrayneutrophilCD15interbb.bigInteract
-shortLabel CEDARmicroarrayneutrophilCD15interbb
-longLabel CEDARmicroarrayneutrophilCD15interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Quach2016gemonocytenaiveinterbb
-bigDataUrl Quach2016gemonocytenaiveinterbb.bigInteract
-shortLabel Quach2016gemonocytenaiveinterbb
-longLabel Quach2016gemonocytenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Kasela2017microarrayTcellCD8interbb
-bigDataUrl Kasela2017microarrayTcellCD8interbb.bigInteract
-shortLabel Kasela2017microarrayTcellCD8interbb
-longLabel Kasela2017microarrayTcellCD8interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track BLUEPRINTSEgemonocyteinterbb
-bigDataUrl BLUEPRINTSEgemonocyteinterbb.bigInteract
-shortLabel BLUEPRINTSEgemonocyteinterbb
-longLabel BLUEPRINTSEgemonocyteinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgenervetibialinterbb
-bigDataUrl GTExgenervetibialinterbb.bigInteract
-shortLabel GTExgenervetibialinterbb
-longLabel GTExgenervetibialinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geCD8TcellantiCD3CD28interbb
-bigDataUrl Schmiedel2018geCD8TcellantiCD3CD28interbb.bigInteract
-shortLabel Schmiedel2018geCD8TcellantiCD3CD28interbb
-longLabel Schmiedel2018geCD8TcellantiCD3CD28interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgespleeninterbb
-bigDataUrl GTExgespleeninterbb.bigInteract
-shortLabel GTExgespleeninterbb
-longLabel GTExgespleeninterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgearterycoronaryinterbb
-bigDataUrl GTExgearterycoronaryinterbb.bigInteract
-shortLabel GTExgearterycoronaryinterbb
-longLabel GTExgearterycoronaryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgestomachinterbb
-bigDataUrl GTExgestomachinterbb.bigInteract
-shortLabel GTExgestomachinterbb
-longLabel GTExgestomachinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CommonMindgeDLPFCnaiveinterbb
-bigDataUrl CommonMindgeDLPFCnaiveinterbb.bigInteract
-shortLabel CommonMindgeDLPFCnaiveinterbb
-longLabel CommonMindgeDLPFCnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayileuminterbb
-bigDataUrl CEDARmicroarrayileuminterbb.bigInteract
-shortLabel CEDARmicroarrayileuminterbb
-longLabel CEDARmicroarrayileuminterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schwartzentruber2018gesensoryneuroninterbb
-bigDataUrl Schwartzentruber2018gesensoryneuroninterbb.bigInteract
-shortLabel Schwartzentruber2018gesensoryneuroninterbb
-longLabel Schwartzentruber2018gesensoryneuroninterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgekidneycortexinterbb
-bigDataUrl GTExgekidneycortexinterbb.bigInteract
-shortLabel GTExgekidneycortexinterbb
-longLabel GTExgekidneycortexinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Fairfax2014microarraymonocytenaiveinterbb
-bigDataUrl Fairfax2014microarraymonocytenaiveinterbb.bigInteract
-shortLabel Fairfax2014microarraymonocytenaiveinterbb
-longLabel Fairfax2014microarraymonocytenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeprostateinterbb
-bigDataUrl GTExgeprostateinterbb.bigInteract
-shortLabel GTExgeprostateinterbb
-longLabel GTExgeprostateinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeminorsalivaryglandinterbb
-bigDataUrl GTExgeminorsalivaryglandinterbb.bigInteract
-shortLabel GTExgeminorsalivaryglandinterbb
-longLabel GTExgeminorsalivaryglandinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GENCORDgefibroblastinterbb
-bigDataUrl GENCORDgefibroblastinterbb.bigInteract
-shortLabel GENCORDgefibroblastinterbb
-longLabel GENCORDgefibroblastinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayTcellCD8interbb
-bigDataUrl CEDARmicroarrayTcellCD8interbb.bigInteract
-shortLabel CEDARmicroarrayTcellCD8interbb
-longLabel CEDARmicroarrayTcellCD8interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Peng2018geplacentanaiveinterbb
-bigDataUrl Peng2018geplacentanaiveinterbb.bigInteract
-shortLabel Peng2018geplacentanaiveinterbb
-longLabel Peng2018geplacentanaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Nedelec2016gemacrophageListeriainterbb
-bigDataUrl Nedelec2016gemacrophageListeriainterbb.bigInteract
-shortLabel Nedelec2016gemacrophageListeriainterbb
-longLabel Nedelec2016gemacrophageListeriainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgepancreasinterbb
-bigDataUrl GTExgepancreasinterbb.bigInteract
-shortLabel GTExgepancreasinterbb
-longLabel GTExgepancreasinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geCD8Tcellnaiveinterbb
-bigDataUrl Schmiedel2018geCD8Tcellnaiveinterbb.bigInteract
-shortLabel Schmiedel2018geCD8Tcellnaiveinterbb
-longLabel Schmiedel2018geCD8Tcellnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GENCORDgeTcellinterbb
-bigDataUrl GENCORDgeTcellinterbb.bigInteract
-shortLabel GENCORDgeTcellinterbb
-longLabel GENCORDgeTcellinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Naranbhai2015microarrayneutrophilCD16interbb
-bigDataUrl Naranbhai2015microarrayneutrophilCD16interbb.bigInteract
-shortLabel Naranbhai2015microarrayneutrophilCD16interbb
-longLabel Naranbhai2015microarrayneutrophilCD16interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgearterytibialinterbb
-bigDataUrl GTExgearterytibialinterbb.bigInteract
-shortLabel GTExgearterytibialinterbb
-longLabel GTExgearterytibialinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebraincaudateinterbb
-bigDataUrl GTExgebraincaudateinterbb.bigInteract
-shortLabel GTExgebraincaudateinterbb
-longLabel GTExgebraincaudateinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track BossiniCastillo2019geTregnaiveinterbb
-bigDataUrl BossiniCastillo2019geTregnaiveinterbb.bigInteract
-shortLabel BossiniCastillo2019geTregnaiveinterbb
-longLabel BossiniCastillo2019geTregnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgemuscleinterbb
-bigDataUrl GTExgemuscleinterbb.bigInteract
-shortLabel GTExgemuscleinterbb
-longLabel GTExgemuscleinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track vandeBunt2015gepancreaticisletinterbb
-bigDataUrl vandeBunt2015gepancreaticisletinterbb.bigInteract
-shortLabel vandeBunt2015gepancreaticisletinterbb
-longLabel vandeBunt2015gepancreaticisletinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgepituitaryinterbb
-bigDataUrl GTExgepituitaryinterbb.bigInteract
-shortLabel GTExgepituitaryinterbb
-longLabel GTExgepituitaryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Gilchrist2021microarrayNKcellnaiveinterbb
-bigDataUrl Gilchrist2021microarrayNKcellnaiveinterbb.bigInteract
-shortLabel Gilchrist2021microarrayNKcellnaiveinterbb
-longLabel Gilchrist2021microarrayNKcellnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Steinberg2020gelowgradecartilagenaiveinterbb
-bigDataUrl Steinberg2020gelowgradecartilagenaiveinterbb.bigInteract
-shortLabel Steinberg2020gelowgradecartilagenaiveinterbb
-longLabel Steinberg2020gelowgradecartilagenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeskinnotsunexposedinterbb
-bigDataUrl GTExgeskinnotsunexposedinterbb.bigInteract
-shortLabel GTExgeskinnotsunexposedinterbb
-longLabel GTExgeskinnotsunexposedinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgevaginainterbb
-bigDataUrl GTExgevaginainterbb.bigInteract
-shortLabel GTExgevaginainterbb
-longLabel GTExgevaginainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgesmallintestineinterbb
-bigDataUrl GTExgesmallintestineinterbb.bigInteract
-shortLabel GTExgesmallintestineinterbb
-longLabel GTExgesmallintestineinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GEUVADISgeLCLinterbb
-bigDataUrl GEUVADISgeLCLinterbb.bigInteract
-shortLabel GEUVADISgeLCLinterbb
-longLabel GEUVADISgeLCLinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Alasoo2018gemacrophageIFNginterbb
-bigDataUrl Alasoo2018gemacrophageIFNginterbb.bigInteract
-shortLabel Alasoo2018gemacrophageIFNginterbb
-longLabel Alasoo2018gemacrophageIFNginterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgearteryaortainterbb
-bigDataUrl GTExgearteryaortainterbb.bigInteract
-shortLabel GTExgearteryaortainterbb
-longLabel GTExgearteryaortainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeliverinterbb
-bigDataUrl GTExgeliverinterbb.bigInteract
-shortLabel GTExgeliverinterbb
-longLabel GTExgeliverinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Braineac2gesubstantianigrainterbb
-bigDataUrl Braineac2gesubstantianigrainterbb.bigInteract
-shortLabel Braineac2gesubstantianigrainterbb
-longLabel Braineac2gesubstantianigrainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTh117memoryinterbb
-bigDataUrl Schmiedel2018geTh117memoryinterbb.bigInteract
-shortLabel Schmiedel2018geTh117memoryinterbb
-longLabel Schmiedel2018geTh117memoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Quach2016gemonocyteIAVinterbb
-bigDataUrl Quach2016gemonocyteIAVinterbb.bigInteract
-shortLabel Quach2016gemonocyteIAVinterbb
-longLabel Quach2016gemonocyteIAVinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Alasoo2018gemacrophagenaiveinterbb
-bigDataUrl Alasoo2018gemacrophagenaiveinterbb.bigInteract
-shortLabel Alasoo2018gemacrophagenaiveinterbb
-longLabel Alasoo2018gemacrophagenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CAPgeLCLnaiveinterbb
-bigDataUrl CAPgeLCLnaiveinterbb.bigInteract
-shortLabel CAPgeLCLnaiveinterbb
-longLabel CAPgeLCLnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayplateletinterbb
-bigDataUrl CEDARmicroarrayplateletinterbb.bigInteract
-shortLabel CEDARmicroarrayplateletinterbb
-longLabel CEDARmicroarrayplateletinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTregnaiveinterbb
-bigDataUrl Schmiedel2018geTregnaiveinterbb.bigInteract
-shortLabel Schmiedel2018geTregnaiveinterbb
-longLabel Schmiedel2018geTregnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeheartatrialappendageinterbb
-bigDataUrl GTExgeheartatrialappendageinterbb.bigInteract
-shortLabel GTExgeheartatrialappendageinterbb
-longLabel GTExgeheartatrialappendageinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Braineac2geputameninterbb
-bigDataUrl Braineac2geputameninterbb.bigInteract
-shortLabel Braineac2geputameninterbb
-longLabel Braineac2geputameninterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebraincerebelluminterbb
-bigDataUrl GTExgebraincerebelluminterbb.bigInteract
-shortLabel GTExgebraincerebelluminterbb
-longLabel GTExgebraincerebelluminterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTregmemoryinterbb
-bigDataUrl Schmiedel2018geTregmemoryinterbb.bigInteract
-shortLabel Schmiedel2018geTregmemoryinterbb
-longLabel Schmiedel2018geTregmemoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geBcellnaiveinterbb
-bigDataUrl Schmiedel2018geBcellnaiveinterbb.bigInteract
-shortLabel Schmiedel2018geBcellnaiveinterbb
-longLabel Schmiedel2018geBcellnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geNKcellnaiveinterbb
-bigDataUrl Schmiedel2018geNKcellnaiveinterbb.bigInteract
-shortLabel Schmiedel2018geNKcellnaiveinterbb
-longLabel Schmiedel2018geNKcellnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeesophagusmuscularisinterbb
-bigDataUrl GTExgeesophagusmuscularisinterbb.bigInteract
-shortLabel GTExgeesophagusmuscularisinterbb
-longLabel GTExgeesophagusmuscularisinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Quach2016gemonocyteR848interbb
-bigDataUrl Quach2016gemonocyteR848interbb.bigInteract
-shortLabel Quach2016gemonocyteR848interbb
-longLabel Quach2016gemonocyteR848interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geCD4TcellantiCD3CD28interbb
-bigDataUrl Schmiedel2018geCD4TcellantiCD3CD28interbb.bigInteract
-shortLabel Schmiedel2018geCD4TcellantiCD3CD28interbb
-longLabel Schmiedel2018geCD4TcellantiCD3CD28interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeadiposesubcutaneousinterbb
-bigDataUrl GTExgeadiposesubcutaneousinterbb.bigInteract
-shortLabel GTExgeadiposesubcutaneousinterbb
-longLabel GTExgeadiposesubcutaneousinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Young2019gemicroglianaiveinterbb
-bigDataUrl Young2019gemicroglianaiveinterbb.bigInteract
-shortLabel Young2019gemicroglianaiveinterbb
-longLabel Young2019gemicroglianaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarraymonocyteCD14interbb
-bigDataUrl CEDARmicroarraymonocyteCD14interbb.bigInteract
-shortLabel CEDARmicroarraymonocyteCD14interbb
-longLabel CEDARmicroarraymonocyteCD14interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track HipScigeiPSCinterbb
-bigDataUrl HipScigeiPSCinterbb.bigInteract
-shortLabel HipScigeiPSCinterbb
-longLabel HipScigeiPSCinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track TwinsUKgeskininterbb
-bigDataUrl TwinsUKgeskininterbb.bigInteract
-shortLabel TwinsUKgeskininterbb
-longLabel TwinsUKgeskininterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainnucleusaccumbensinterbb
-bigDataUrl GTExgebrainnucleusaccumbensinterbb.bigInteract
-shortLabel GTExgebrainnucleusaccumbensinterbb
-longLabel GTExgebrainnucleusaccumbensinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Kasela2017microarrayTcellCD4interbb
-bigDataUrl Kasela2017microarrayTcellCD4interbb.bigInteract
-shortLabel Kasela2017microarrayTcellCD4interbb
-longLabel Kasela2017microarrayTcellCD4interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeadrenalglandinterbb
-bigDataUrl GTExgeadrenalglandinterbb.bigInteract
-shortLabel GTExgeadrenalglandinterbb
-longLabel GTExgeadrenalglandinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayTcellCD4interbb
-bigDataUrl CEDARmicroarrayTcellCD4interbb.bigInteract
-shortLabel CEDARmicroarrayTcellCD4interbb
-longLabel CEDARmicroarrayTcellCD4interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeLCLinterbb
-bigDataUrl GTExgeLCLinterbb.bigInteract
-shortLabel GTExgeLCLinterbb
-longLabel GTExgeLCLinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geCD4Tcellnaiveinterbb
-bigDataUrl Schmiedel2018geCD4Tcellnaiveinterbb.bigInteract
-shortLabel Schmiedel2018geCD4Tcellnaiveinterbb
-longLabel Schmiedel2018geCD4Tcellnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track TwinsUKgefatinterbb
-bigDataUrl TwinsUKgefatinterbb.bigInteract
-shortLabel TwinsUKgefatinterbb
-longLabel TwinsUKgefatinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebraincortexinterbb
-bigDataUrl GTExgebraincortexinterbb.bigInteract
-shortLabel GTExgebraincortexinterbb
-longLabel GTExgebraincortexinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainspinalcordinterbb
-bigDataUrl GTExgebrainspinalcordinterbb.bigInteract
-shortLabel GTExgebrainspinalcordinterbb
-longLabel GTExgebrainspinalcordinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeskinsunexposedinterbb
-bigDataUrl GTExgeskinsunexposedinterbb.bigInteract
-shortLabel GTExgeskinsunexposedinterbb
-longLabel GTExgeskinsunexposedinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeadiposevisceralinterbb
-bigDataUrl GTExgeadiposevisceralinterbb.bigInteract
-shortLabel GTExgeadiposevisceralinterbb
-longLabel GTExgeadiposevisceralinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTh2memoryinterbb
-bigDataUrl Schmiedel2018geTh2memoryinterbb.bigInteract
-shortLabel Schmiedel2018geTh2memoryinterbb
-longLabel Schmiedel2018geTh2memoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgecolontransverseinterbb
-bigDataUrl GTExgecolontransverseinterbb.bigInteract
-shortLabel GTExgecolontransverseinterbb
-longLabel GTExgecolontransverseinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018gemonocytenaiveinterbb
-bigDataUrl Schmiedel2018gemonocytenaiveinterbb.bigInteract
-shortLabel Schmiedel2018gemonocytenaiveinterbb
-longLabel Schmiedel2018gemonocytenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgethyroidinterbb
-bigDataUrl GTExgethyroidinterbb.bigInteract
-shortLabel GTExgethyroidinterbb
-longLabel GTExgethyroidinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainhippocampusinterbb
-bigDataUrl GTExgebrainhippocampusinterbb.bigInteract
-shortLabel GTExgebrainhippocampusinterbb
-longLabel GTExgebrainhippocampusinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarraytransversecoloninterbb
-bigDataUrl CEDARmicroarraytransversecoloninterbb.bigInteract
-shortLabel CEDARmicroarraytransversecoloninterbb
-longLabel CEDARmicroarraytransversecoloninterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track TwinsUKgebloodinterbb
-bigDataUrl TwinsUKgebloodinterbb.bigInteract
-shortLabel TwinsUKgebloodinterbb
-longLabel TwinsUKgebloodinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Alasoo2018gemacrophageSalmonellainterbb
-bigDataUrl Alasoo2018gemacrophageSalmonellainterbb.bigInteract
-shortLabel Alasoo2018gemacrophageSalmonellainterbb
-longLabel Alasoo2018gemacrophageSalmonellainterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track PhLiPSgeHLCinterbb
-bigDataUrl PhLiPSgeHLCinterbb.bigInteract
-shortLabel PhLiPSgeHLCinterbb
-longLabel PhLiPSgeHLCinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayBcellCD19interbb
-bigDataUrl CEDARmicroarrayBcellCD19interbb.bigInteract
-shortLabel CEDARmicroarrayBcellCD19interbb
-longLabel CEDARmicroarrayBcellCD19interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Schmiedel2018geTh17memoryinterbb
-bigDataUrl Schmiedel2018geTh17memoryinterbb.bigInteract
-shortLabel Schmiedel2018geTh17memoryinterbb
-longLabel Schmiedel2018geTh17memoryinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainanteriorcingulatecortexinterbb
-bigDataUrl GTExgebrainanteriorcingulatecortexinterbb.bigInteract
-shortLabel GTExgebrainanteriorcingulatecortexinterbb
-longLabel GTExgebrainanteriorcingulatecortexinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track PhLiPSgeiPSCinterbb
-bigDataUrl PhLiPSgeiPSCinterbb.bigInteract
-shortLabel PhLiPSgeiPSCinterbb
-longLabel PhLiPSgeiPSCinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track BLUEPRINTPEgeTcellinterbb
-bigDataUrl BLUEPRINTPEgeTcellinterbb.bigInteract
-shortLabel BLUEPRINTPEgeTcellinterbb
-longLabel BLUEPRINTPEgeTcellinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track CEDARmicroarrayrectuminterbb
-bigDataUrl CEDARmicroarrayrectuminterbb.bigInteract
-shortLabel CEDARmicroarrayrectuminterbb
-longLabel CEDARmicroarrayrectuminterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeuterusinterbb
-bigDataUrl GTExgeuterusinterbb.bigInteract
-shortLabel GTExgeuterusinterbb
-longLabel GTExgeuterusinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track FUSIONgemusclenaiveinterbb
-bigDataUrl FUSIONgemusclenaiveinterbb.bigInteract
-shortLabel FUSIONgemusclenaiveinterbb
-longLabel FUSIONgemusclenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgebrainfrontalcortexinterbb
-bigDataUrl GTExgebrainfrontalcortexinterbb.bigInteract
-shortLabel GTExgebrainfrontalcortexinterbb
-longLabel GTExgebrainfrontalcortexinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Steinberg2020gesynoviumnaiveinterbb
-bigDataUrl Steinberg2020gesynoviumnaiveinterbb.bigInteract
-shortLabel Steinberg2020gesynoviumnaiveinterbb
-longLabel Steinberg2020gesynoviumnaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Nedelec2016gemacrophagenaiveinterbb
-bigDataUrl Nedelec2016gemacrophagenaiveinterbb.bigInteract
-shortLabel Nedelec2016gemacrophagenaiveinterbb
-longLabel Nedelec2016gemacrophagenaiveinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track Fairfax2014microarraymonocyteLPS2interbb
-bigDataUrl Fairfax2014microarraymonocyteLPS2interbb.bigInteract
-shortLabel Fairfax2014microarraymonocyteLPS2interbb
-longLabel Fairfax2014microarraymonocyteLPS2interbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GENCORDgeLCLinterbb
-bigDataUrl GENCORDgeLCLinterbb.bigInteract
-shortLabel GENCORDgeLCLinterbb
-longLabel GENCORDgeLCLinterbb
-type bigInteract
-color 128,0,5
-visibility full
-
-track GTExgeheartleftventricleinterbb
-bigDataUrl GTExgeheartleftventricleinterbb.bigInteract
-shortLabel GTExgeheartleftventricleinterbb
-longLabel GTExgeheartleftventricleinterbb
-type bigInteract
-color 128,0,5
-visibility full
+track composite
+shortLabel Group AutoScale
+longLabel Group AutoScale
+type bigInteract
+visibility full
+subGroup1 view Views group_view=group_view
+compositeTrack on
+
+    track group
+    shortLabel Signal
+    longLabel Signal
+    type bigInteract
+    parent composite
+    view group_view
+    visibility full
+
+        track GTExgebrainamygdalainterbb
+        bigDataUrl GTExgebrainamygdalainterbb.bigInteract
+        shortLabel GTExgebrainamygdalainterbb
+        longLabel GTExgebrainamygdalainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgefibroblastinterbb
+        bigDataUrl GTExgefibroblastinterbb.bigInteract
+        shortLabel GTExgefibroblastinterbb
+        longLabel GTExgefibroblastinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgecolonsigmoidinterbb
+        bigDataUrl GTExgecolonsigmoidinterbb.bigInteract
+        shortLabel GTExgecolonsigmoidinterbb
+        longLabel GTExgecolonsigmoidinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Alasoo2018gemacrophageIFNgSalmonellainterbb
+        bigDataUrl Alasoo2018gemacrophageIFNgSalmonellainterbb.bigInteract
+        shortLabel Alasoo2018gemacrophageIFNgSalmonellainterbb
+        longLabel Alasoo2018gemacrophageIFNgSalmonellainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track TwinsUKgeLCLinterbb
+        bigDataUrl TwinsUKgeLCLinterbb.bigInteract
+        shortLabel TwinsUKgeLCLinterbb
+        longLabel TwinsUKgeLCLinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Quach2016gemonocytePam3CSK4interbb
+        bigDataUrl Quach2016gemonocytePam3CSK4interbb.bigInteract
+        shortLabel Quach2016gemonocytePam3CSK4interbb
+        longLabel Quach2016gemonocytePam3CSK4interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebloodinterbb
+        bigDataUrl GTExgebloodinterbb.bigInteract
+        shortLabel GTExgebloodinterbb
+        longLabel GTExgebloodinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgetestisinterbb
+        bigDataUrl GTExgetestisinterbb.bigInteract
+        shortLabel GTExgetestisinterbb
+        longLabel GTExgetestisinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTh1memoryinterbb
+        bigDataUrl Schmiedel2018geTh1memoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTh1memoryinterbb
+        longLabel Schmiedel2018geTh1memoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Lepik2017gebloodinterbb
+        bigDataUrl Lepik2017gebloodinterbb.bigInteract
+        shortLabel Lepik2017gebloodinterbb
+        longLabel Lepik2017gebloodinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018gemonocyteCD16naiveinterbb
+        bigDataUrl Schmiedel2018gemonocyteCD16naiveinterbb.bigInteract
+        shortLabel Schmiedel2018gemonocyteCD16naiveinterbb
+        longLabel Schmiedel2018gemonocyteCD16naiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track FUSIONgeadiposenaiveinterbb
+        bigDataUrl FUSIONgeadiposenaiveinterbb.bigInteract
+        shortLabel FUSIONgeadiposenaiveinterbb
+        longLabel FUSIONgeadiposenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeesophagusmucosainterbb
+        bigDataUrl GTExgeesophagusmucosainterbb.bigInteract
+        shortLabel GTExgeesophagusmucosainterbb
+        longLabel GTExgeesophagusmucosainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track ROSMAPgebrainnaiveinterbb
+        bigDataUrl ROSMAPgebrainnaiveinterbb.bigInteract
+        shortLabel ROSMAPgebrainnaiveinterbb
+        longLabel ROSMAPgebrainnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Fairfax2014microarraymonocyteLPS24interbb
+        bigDataUrl Fairfax2014microarraymonocyteLPS24interbb.bigInteract
+        shortLabel Fairfax2014microarraymonocyteLPS24interbb
+        longLabel Fairfax2014microarraymonocyteLPS24interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainsubstantianigrainterbb
+        bigDataUrl GTExgebrainsubstantianigrainterbb.bigInteract
+        shortLabel GTExgebrainsubstantianigrainterbb
+        longLabel GTExgebrainsubstantianigrainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgelunginterbb
+        bigDataUrl GTExgelunginterbb.bigInteract
+        shortLabel GTExgelunginterbb
+        longLabel GTExgelunginterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track BrainSeqgebraininterbb
+        bigDataUrl BrainSeqgebraininterbb.bigInteract
+        shortLabel BrainSeqgebraininterbb
+        longLabel BrainSeqgebraininterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Fairfax2014microarraymonocyteIFN24interbb
+        bigDataUrl Fairfax2014microarraymonocyteIFN24interbb.bigInteract
+        shortLabel Fairfax2014microarraymonocyteIFN24interbb
+        longLabel Fairfax2014microarraymonocyteIFN24interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Quach2016gemonocyteLPSinterbb
+        bigDataUrl Quach2016gemonocyteLPSinterbb.bigInteract
+        shortLabel Quach2016gemonocyteLPSinterbb
+        longLabel Quach2016gemonocyteLPSinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Nedelec2016gemacrophageSalmonellainterbb
+        bigDataUrl Nedelec2016gemacrophageSalmonellainterbb.bigInteract
+        shortLabel Nedelec2016gemacrophageSalmonellainterbb
+        longLabel Nedelec2016gemacrophageSalmonellainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track iPSCOREgeiPSCinterbb
+        bigDataUrl iPSCOREgeiPSCinterbb.bigInteract
+        shortLabel iPSCOREgeiPSCinterbb
+        longLabel iPSCOREgeiPSCinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CAPgeLCLstatininterbb
+        bigDataUrl CAPgeLCLstatininterbb.bigInteract
+        shortLabel CAPgeLCLstatininterbb
+        longLabel CAPgeLCLstatininterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTfhmemoryinterbb
+        bigDataUrl Schmiedel2018geTfhmemoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTfhmemoryinterbb
+        longLabel Schmiedel2018geTfhmemoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track BLUEPRINTSEgeneutrophilinterbb
+        bigDataUrl BLUEPRINTSEgeneutrophilinterbb.bigInteract
+        shortLabel BLUEPRINTSEgeneutrophilinterbb
+        longLabel BLUEPRINTSEgeneutrophilinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeesophagusgejinterbb
+        bigDataUrl GTExgeesophagusgejinterbb.bigInteract
+        shortLabel GTExgeesophagusgejinterbb
+        longLabel GTExgeesophagusgejinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebraincerebellarhemisphereinterbb
+        bigDataUrl GTExgebraincerebellarhemisphereinterbb.bigInteract
+        shortLabel GTExgebraincerebellarhemisphereinterbb
+        longLabel GTExgebraincerebellarhemisphereinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeovaryinterbb
+        bigDataUrl GTExgeovaryinterbb.bigInteract
+        shortLabel GTExgeovaryinterbb
+        longLabel GTExgeovaryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainputameninterbb
+        bigDataUrl GTExgebrainputameninterbb.bigInteract
+        shortLabel GTExgebrainputameninterbb
+        longLabel GTExgebrainputameninterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebreastinterbb
+        bigDataUrl GTExgebreastinterbb.bigInteract
+        shortLabel GTExgebreastinterbb
+        longLabel GTExgebreastinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Steinberg2020gehighgradecartilagenaiveinterbb
+        bigDataUrl Steinberg2020gehighgradecartilagenaiveinterbb.bigInteract
+        shortLabel Steinberg2020gehighgradecartilagenaiveinterbb
+        longLabel Steinberg2020gehighgradecartilagenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Fairfax2012microarrayBcellCD19interbb
+        bigDataUrl Fairfax2012microarrayBcellCD19interbb.bigInteract
+        shortLabel Fairfax2012microarrayBcellCD19interbb
+        longLabel Fairfax2012microarrayBcellCD19interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainhypothalamusinterbb
+        bigDataUrl GTExgebrainhypothalamusinterbb.bigInteract
+        shortLabel GTExgebrainhypothalamusinterbb
+        longLabel GTExgebrainhypothalamusinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayneutrophilCD15interbb
+        bigDataUrl CEDARmicroarrayneutrophilCD15interbb.bigInteract
+        shortLabel CEDARmicroarrayneutrophilCD15interbb
+        longLabel CEDARmicroarrayneutrophilCD15interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Quach2016gemonocytenaiveinterbb
+        bigDataUrl Quach2016gemonocytenaiveinterbb.bigInteract
+        shortLabel Quach2016gemonocytenaiveinterbb
+        longLabel Quach2016gemonocytenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Kasela2017microarrayTcellCD8interbb
+        bigDataUrl Kasela2017microarrayTcellCD8interbb.bigInteract
+        shortLabel Kasela2017microarrayTcellCD8interbb
+        longLabel Kasela2017microarrayTcellCD8interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track BLUEPRINTSEgemonocyteinterbb
+        bigDataUrl BLUEPRINTSEgemonocyteinterbb.bigInteract
+        shortLabel BLUEPRINTSEgemonocyteinterbb
+        longLabel BLUEPRINTSEgemonocyteinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgenervetibialinterbb
+        bigDataUrl GTExgenervetibialinterbb.bigInteract
+        shortLabel GTExgenervetibialinterbb
+        longLabel GTExgenervetibialinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geCD8TcellantiCD3CD28interbb
+        bigDataUrl Schmiedel2018geCD8TcellantiCD3CD28interbb.bigInteract
+        shortLabel Schmiedel2018geCD8TcellantiCD3CD28interbb
+        longLabel Schmiedel2018geCD8TcellantiCD3CD28interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgespleeninterbb
+        bigDataUrl GTExgespleeninterbb.bigInteract
+        shortLabel GTExgespleeninterbb
+        longLabel GTExgespleeninterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgearterycoronaryinterbb
+        bigDataUrl GTExgearterycoronaryinterbb.bigInteract
+        shortLabel GTExgearterycoronaryinterbb
+        longLabel GTExgearterycoronaryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgestomachinterbb
+        bigDataUrl GTExgestomachinterbb.bigInteract
+        shortLabel GTExgestomachinterbb
+        longLabel GTExgestomachinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CommonMindgeDLPFCnaiveinterbb
+        bigDataUrl CommonMindgeDLPFCnaiveinterbb.bigInteract
+        shortLabel CommonMindgeDLPFCnaiveinterbb
+        longLabel CommonMindgeDLPFCnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayileuminterbb
+        bigDataUrl CEDARmicroarrayileuminterbb.bigInteract
+        shortLabel CEDARmicroarrayileuminterbb
+        longLabel CEDARmicroarrayileuminterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schwartzentruber2018gesensoryneuroninterbb
+        bigDataUrl Schwartzentruber2018gesensoryneuroninterbb.bigInteract
+        shortLabel Schwartzentruber2018gesensoryneuroninterbb
+        longLabel Schwartzentruber2018gesensoryneuroninterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgekidneycortexinterbb
+        bigDataUrl GTExgekidneycortexinterbb.bigInteract
+        shortLabel GTExgekidneycortexinterbb
+        longLabel GTExgekidneycortexinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Fairfax2014microarraymonocytenaiveinterbb
+        bigDataUrl Fairfax2014microarraymonocytenaiveinterbb.bigInteract
+        shortLabel Fairfax2014microarraymonocytenaiveinterbb
+        longLabel Fairfax2014microarraymonocytenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeprostateinterbb
+        bigDataUrl GTExgeprostateinterbb.bigInteract
+        shortLabel GTExgeprostateinterbb
+        longLabel GTExgeprostateinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeminorsalivaryglandinterbb
+        bigDataUrl GTExgeminorsalivaryglandinterbb.bigInteract
+        shortLabel GTExgeminorsalivaryglandinterbb
+        longLabel GTExgeminorsalivaryglandinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GENCORDgefibroblastinterbb
+        bigDataUrl GENCORDgefibroblastinterbb.bigInteract
+        shortLabel GENCORDgefibroblastinterbb
+        longLabel GENCORDgefibroblastinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayTcellCD8interbb
+        bigDataUrl CEDARmicroarrayTcellCD8interbb.bigInteract
+        shortLabel CEDARmicroarrayTcellCD8interbb
+        longLabel CEDARmicroarrayTcellCD8interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Peng2018geplacentanaiveinterbb
+        bigDataUrl Peng2018geplacentanaiveinterbb.bigInteract
+        shortLabel Peng2018geplacentanaiveinterbb
+        longLabel Peng2018geplacentanaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Nedelec2016gemacrophageListeriainterbb
+        bigDataUrl Nedelec2016gemacrophageListeriainterbb.bigInteract
+        shortLabel Nedelec2016gemacrophageListeriainterbb
+        longLabel Nedelec2016gemacrophageListeriainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgepancreasinterbb
+        bigDataUrl GTExgepancreasinterbb.bigInteract
+        shortLabel GTExgepancreasinterbb
+        longLabel GTExgepancreasinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geCD8Tcellnaiveinterbb
+        bigDataUrl Schmiedel2018geCD8Tcellnaiveinterbb.bigInteract
+        shortLabel Schmiedel2018geCD8Tcellnaiveinterbb
+        longLabel Schmiedel2018geCD8Tcellnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GENCORDgeTcellinterbb
+        bigDataUrl GENCORDgeTcellinterbb.bigInteract
+        shortLabel GENCORDgeTcellinterbb
+        longLabel GENCORDgeTcellinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Naranbhai2015microarrayneutrophilCD16interbb
+        bigDataUrl Naranbhai2015microarrayneutrophilCD16interbb.bigInteract
+        shortLabel Naranbhai2015microarrayneutrophilCD16interbb
+        longLabel Naranbhai2015microarrayneutrophilCD16interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgearterytibialinterbb
+        bigDataUrl GTExgearterytibialinterbb.bigInteract
+        shortLabel GTExgearterytibialinterbb
+        longLabel GTExgearterytibialinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebraincaudateinterbb
+        bigDataUrl GTExgebraincaudateinterbb.bigInteract
+        shortLabel GTExgebraincaudateinterbb
+        longLabel GTExgebraincaudateinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track BossiniCastillo2019geTregnaiveinterbb
+        bigDataUrl BossiniCastillo2019geTregnaiveinterbb.bigInteract
+        shortLabel BossiniCastillo2019geTregnaiveinterbb
+        longLabel BossiniCastillo2019geTregnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgemuscleinterbb
+        bigDataUrl GTExgemuscleinterbb.bigInteract
+        shortLabel GTExgemuscleinterbb
+        longLabel GTExgemuscleinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track vandeBunt2015gepancreaticisletinterbb
+        bigDataUrl vandeBunt2015gepancreaticisletinterbb.bigInteract
+        shortLabel vandeBunt2015gepancreaticisletinterbb
+        longLabel vandeBunt2015gepancreaticisletinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgepituitaryinterbb
+        bigDataUrl GTExgepituitaryinterbb.bigInteract
+        shortLabel GTExgepituitaryinterbb
+        longLabel GTExgepituitaryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Gilchrist2021microarrayNKcellnaiveinterbb
+        bigDataUrl Gilchrist2021microarrayNKcellnaiveinterbb.bigInteract
+        shortLabel Gilchrist2021microarrayNKcellnaiveinterbb
+        longLabel Gilchrist2021microarrayNKcellnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Steinberg2020gelowgradecartilagenaiveinterbb
+        bigDataUrl Steinberg2020gelowgradecartilagenaiveinterbb.bigInteract
+        shortLabel Steinberg2020gelowgradecartilagenaiveinterbb
+        longLabel Steinberg2020gelowgradecartilagenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeskinnotsunexposedinterbb
+        bigDataUrl GTExgeskinnotsunexposedinterbb.bigInteract
+        shortLabel GTExgeskinnotsunexposedinterbb
+        longLabel GTExgeskinnotsunexposedinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgevaginainterbb
+        bigDataUrl GTExgevaginainterbb.bigInteract
+        shortLabel GTExgevaginainterbb
+        longLabel GTExgevaginainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgesmallintestineinterbb
+        bigDataUrl GTExgesmallintestineinterbb.bigInteract
+        shortLabel GTExgesmallintestineinterbb
+        longLabel GTExgesmallintestineinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GEUVADISgeLCLinterbb
+        bigDataUrl GEUVADISgeLCLinterbb.bigInteract
+        shortLabel GEUVADISgeLCLinterbb
+        longLabel GEUVADISgeLCLinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Alasoo2018gemacrophageIFNginterbb
+        bigDataUrl Alasoo2018gemacrophageIFNginterbb.bigInteract
+        shortLabel Alasoo2018gemacrophageIFNginterbb
+        longLabel Alasoo2018gemacrophageIFNginterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgearteryaortainterbb
+        bigDataUrl GTExgearteryaortainterbb.bigInteract
+        shortLabel GTExgearteryaortainterbb
+        longLabel GTExgearteryaortainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeliverinterbb
+        bigDataUrl GTExgeliverinterbb.bigInteract
+        shortLabel GTExgeliverinterbb
+        longLabel GTExgeliverinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Braineac2gesubstantianigrainterbb
+        bigDataUrl Braineac2gesubstantianigrainterbb.bigInteract
+        shortLabel Braineac2gesubstantianigrainterbb
+        longLabel Braineac2gesubstantianigrainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTh117memoryinterbb
+        bigDataUrl Schmiedel2018geTh117memoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTh117memoryinterbb
+        longLabel Schmiedel2018geTh117memoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Quach2016gemonocyteIAVinterbb
+        bigDataUrl Quach2016gemonocyteIAVinterbb.bigInteract
+        shortLabel Quach2016gemonocyteIAVinterbb
+        longLabel Quach2016gemonocyteIAVinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Alasoo2018gemacrophagenaiveinterbb
+        bigDataUrl Alasoo2018gemacrophagenaiveinterbb.bigInteract
+        shortLabel Alasoo2018gemacrophagenaiveinterbb
+        longLabel Alasoo2018gemacrophagenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CAPgeLCLnaiveinterbb
+        bigDataUrl CAPgeLCLnaiveinterbb.bigInteract
+        shortLabel CAPgeLCLnaiveinterbb
+        longLabel CAPgeLCLnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayplateletinterbb
+        bigDataUrl CEDARmicroarrayplateletinterbb.bigInteract
+        shortLabel CEDARmicroarrayplateletinterbb
+        longLabel CEDARmicroarrayplateletinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTregnaiveinterbb
+        bigDataUrl Schmiedel2018geTregnaiveinterbb.bigInteract
+        shortLabel Schmiedel2018geTregnaiveinterbb
+        longLabel Schmiedel2018geTregnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeheartatrialappendageinterbb
+        bigDataUrl GTExgeheartatrialappendageinterbb.bigInteract
+        shortLabel GTExgeheartatrialappendageinterbb
+        longLabel GTExgeheartatrialappendageinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Braineac2geputameninterbb
+        bigDataUrl Braineac2geputameninterbb.bigInteract
+        shortLabel Braineac2geputameninterbb
+        longLabel Braineac2geputameninterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebraincerebelluminterbb
+        bigDataUrl GTExgebraincerebelluminterbb.bigInteract
+        shortLabel GTExgebraincerebelluminterbb
+        longLabel GTExgebraincerebelluminterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTregmemoryinterbb
+        bigDataUrl Schmiedel2018geTregmemoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTregmemoryinterbb
+        longLabel Schmiedel2018geTregmemoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geBcellnaiveinterbb
+        bigDataUrl Schmiedel2018geBcellnaiveinterbb.bigInteract
+        shortLabel Schmiedel2018geBcellnaiveinterbb
+        longLabel Schmiedel2018geBcellnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geNKcellnaiveinterbb
+        bigDataUrl Schmiedel2018geNKcellnaiveinterbb.bigInteract
+        shortLabel Schmiedel2018geNKcellnaiveinterbb
+        longLabel Schmiedel2018geNKcellnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeesophagusmuscularisinterbb
+        bigDataUrl GTExgeesophagusmuscularisinterbb.bigInteract
+        shortLabel GTExgeesophagusmuscularisinterbb
+        longLabel GTExgeesophagusmuscularisinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Quach2016gemonocyteR848interbb
+        bigDataUrl Quach2016gemonocyteR848interbb.bigInteract
+        shortLabel Quach2016gemonocyteR848interbb
+        longLabel Quach2016gemonocyteR848interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geCD4TcellantiCD3CD28interbb
+        bigDataUrl Schmiedel2018geCD4TcellantiCD3CD28interbb.bigInteract
+        shortLabel Schmiedel2018geCD4TcellantiCD3CD28interbb
+        longLabel Schmiedel2018geCD4TcellantiCD3CD28interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeadiposesubcutaneousinterbb
+        bigDataUrl GTExgeadiposesubcutaneousinterbb.bigInteract
+        shortLabel GTExgeadiposesubcutaneousinterbb
+        longLabel GTExgeadiposesubcutaneousinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Young2019gemicroglianaiveinterbb
+        bigDataUrl Young2019gemicroglianaiveinterbb.bigInteract
+        shortLabel Young2019gemicroglianaiveinterbb
+        longLabel Young2019gemicroglianaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarraymonocyteCD14interbb
+        bigDataUrl CEDARmicroarraymonocyteCD14interbb.bigInteract
+        shortLabel CEDARmicroarraymonocyteCD14interbb
+        longLabel CEDARmicroarraymonocyteCD14interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track HipScigeiPSCinterbb
+        bigDataUrl HipScigeiPSCinterbb.bigInteract
+        shortLabel HipScigeiPSCinterbb
+        longLabel HipScigeiPSCinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track TwinsUKgeskininterbb
+        bigDataUrl TwinsUKgeskininterbb.bigInteract
+        shortLabel TwinsUKgeskininterbb
+        longLabel TwinsUKgeskininterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainnucleusaccumbensinterbb
+        bigDataUrl GTExgebrainnucleusaccumbensinterbb.bigInteract
+        shortLabel GTExgebrainnucleusaccumbensinterbb
+        longLabel GTExgebrainnucleusaccumbensinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Kasela2017microarrayTcellCD4interbb
+        bigDataUrl Kasela2017microarrayTcellCD4interbb.bigInteract
+        shortLabel Kasela2017microarrayTcellCD4interbb
+        longLabel Kasela2017microarrayTcellCD4interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeadrenalglandinterbb
+        bigDataUrl GTExgeadrenalglandinterbb.bigInteract
+        shortLabel GTExgeadrenalglandinterbb
+        longLabel GTExgeadrenalglandinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayTcellCD4interbb
+        bigDataUrl CEDARmicroarrayTcellCD4interbb.bigInteract
+        shortLabel CEDARmicroarrayTcellCD4interbb
+        longLabel CEDARmicroarrayTcellCD4interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeLCLinterbb
+        bigDataUrl GTExgeLCLinterbb.bigInteract
+        shortLabel GTExgeLCLinterbb
+        longLabel GTExgeLCLinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geCD4Tcellnaiveinterbb
+        bigDataUrl Schmiedel2018geCD4Tcellnaiveinterbb.bigInteract
+        shortLabel Schmiedel2018geCD4Tcellnaiveinterbb
+        longLabel Schmiedel2018geCD4Tcellnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track TwinsUKgefatinterbb
+        bigDataUrl TwinsUKgefatinterbb.bigInteract
+        shortLabel TwinsUKgefatinterbb
+        longLabel TwinsUKgefatinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebraincortexinterbb
+        bigDataUrl GTExgebraincortexinterbb.bigInteract
+        shortLabel GTExgebraincortexinterbb
+        longLabel GTExgebraincortexinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainspinalcordinterbb
+        bigDataUrl GTExgebrainspinalcordinterbb.bigInteract
+        shortLabel GTExgebrainspinalcordinterbb
+        longLabel GTExgebrainspinalcordinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeskinsunexposedinterbb
+        bigDataUrl GTExgeskinsunexposedinterbb.bigInteract
+        shortLabel GTExgeskinsunexposedinterbb
+        longLabel GTExgeskinsunexposedinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeadiposevisceralinterbb
+        bigDataUrl GTExgeadiposevisceralinterbb.bigInteract
+        shortLabel GTExgeadiposevisceralinterbb
+        longLabel GTExgeadiposevisceralinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTh2memoryinterbb
+        bigDataUrl Schmiedel2018geTh2memoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTh2memoryinterbb
+        longLabel Schmiedel2018geTh2memoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgecolontransverseinterbb
+        bigDataUrl GTExgecolontransverseinterbb.bigInteract
+        shortLabel GTExgecolontransverseinterbb
+        longLabel GTExgecolontransverseinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018gemonocytenaiveinterbb
+        bigDataUrl Schmiedel2018gemonocytenaiveinterbb.bigInteract
+        shortLabel Schmiedel2018gemonocytenaiveinterbb
+        longLabel Schmiedel2018gemonocytenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgethyroidinterbb
+        bigDataUrl GTExgethyroidinterbb.bigInteract
+        shortLabel GTExgethyroidinterbb
+        longLabel GTExgethyroidinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainhippocampusinterbb
+        bigDataUrl GTExgebrainhippocampusinterbb.bigInteract
+        shortLabel GTExgebrainhippocampusinterbb
+        longLabel GTExgebrainhippocampusinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarraytransversecoloninterbb
+        bigDataUrl CEDARmicroarraytransversecoloninterbb.bigInteract
+        shortLabel CEDARmicroarraytransversecoloninterbb
+        longLabel CEDARmicroarraytransversecoloninterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track TwinsUKgebloodinterbb
+        bigDataUrl TwinsUKgebloodinterbb.bigInteract
+        shortLabel TwinsUKgebloodinterbb
+        longLabel TwinsUKgebloodinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Alasoo2018gemacrophageSalmonellainterbb
+        bigDataUrl Alasoo2018gemacrophageSalmonellainterbb.bigInteract
+        shortLabel Alasoo2018gemacrophageSalmonellainterbb
+        longLabel Alasoo2018gemacrophageSalmonellainterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track PhLiPSgeHLCinterbb
+        bigDataUrl PhLiPSgeHLCinterbb.bigInteract
+        shortLabel PhLiPSgeHLCinterbb
+        longLabel PhLiPSgeHLCinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayBcellCD19interbb
+        bigDataUrl CEDARmicroarrayBcellCD19interbb.bigInteract
+        shortLabel CEDARmicroarrayBcellCD19interbb
+        longLabel CEDARmicroarrayBcellCD19interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Schmiedel2018geTh17memoryinterbb
+        bigDataUrl Schmiedel2018geTh17memoryinterbb.bigInteract
+        shortLabel Schmiedel2018geTh17memoryinterbb
+        longLabel Schmiedel2018geTh17memoryinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainanteriorcingulatecortexinterbb
+        bigDataUrl GTExgebrainanteriorcingulatecortexinterbb.bigInteract
+        shortLabel GTExgebrainanteriorcingulatecortexinterbb
+        longLabel GTExgebrainanteriorcingulatecortexinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track PhLiPSgeiPSCinterbb
+        bigDataUrl PhLiPSgeiPSCinterbb.bigInteract
+        shortLabel PhLiPSgeiPSCinterbb
+        longLabel PhLiPSgeiPSCinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track BLUEPRINTPEgeTcellinterbb
+        bigDataUrl BLUEPRINTPEgeTcellinterbb.bigInteract
+        shortLabel BLUEPRINTPEgeTcellinterbb
+        longLabel BLUEPRINTPEgeTcellinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track CEDARmicroarrayrectuminterbb
+        bigDataUrl CEDARmicroarrayrectuminterbb.bigInteract
+        shortLabel CEDARmicroarrayrectuminterbb
+        longLabel CEDARmicroarrayrectuminterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeuterusinterbb
+        bigDataUrl GTExgeuterusinterbb.bigInteract
+        shortLabel GTExgeuterusinterbb
+        longLabel GTExgeuterusinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track FUSIONgemusclenaiveinterbb
+        bigDataUrl FUSIONgemusclenaiveinterbb.bigInteract
+        shortLabel FUSIONgemusclenaiveinterbb
+        longLabel FUSIONgemusclenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgebrainfrontalcortexinterbb
+        bigDataUrl GTExgebrainfrontalcortexinterbb.bigInteract
+        shortLabel GTExgebrainfrontalcortexinterbb
+        longLabel GTExgebrainfrontalcortexinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Steinberg2020gesynoviumnaiveinterbb
+        bigDataUrl Steinberg2020gesynoviumnaiveinterbb.bigInteract
+        shortLabel Steinberg2020gesynoviumnaiveinterbb
+        longLabel Steinberg2020gesynoviumnaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Nedelec2016gemacrophagenaiveinterbb
+        bigDataUrl Nedelec2016gemacrophagenaiveinterbb.bigInteract
+        shortLabel Nedelec2016gemacrophagenaiveinterbb
+        longLabel Nedelec2016gemacrophagenaiveinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track Fairfax2014microarraymonocyteLPS2interbb
+        bigDataUrl Fairfax2014microarraymonocyteLPS2interbb.bigInteract
+        shortLabel Fairfax2014microarraymonocyteLPS2interbb
+        longLabel Fairfax2014microarraymonocyteLPS2interbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GENCORDgeLCLinterbb
+        bigDataUrl GENCORDgeLCLinterbb.bigInteract
+        shortLabel GENCORDgeLCLinterbb
+        longLabel GENCORDgeLCLinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view
+
+        track GTExgeheartleftventricleinterbb
+        bigDataUrl GTExgeheartleftventricleinterbb.bigInteract
+        shortLabel GTExgeheartleftventricleinterbb
+        longLabel GTExgeheartleftventricleinterbb
+        type bigInteract
+        color 128,0,5
+        parent group
+        visibility full
+        subGroups view=group_view

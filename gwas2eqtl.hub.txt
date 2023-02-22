@@ -1,5 +1,5 @@
 hub hub
-shortLabel GWAS/eQTL colocalization
-longLabel Colocalization analysis of IEU OpenGWAS and EBI eQTL Catalogue
+shortLabel groupAutoScale
+longLabel groupAutoScale
 genomesFile gwas2eqtl.genomes.txt
-email aitor.gonzalez@univ-amu.fr
+email eva.jason@nih.gov
