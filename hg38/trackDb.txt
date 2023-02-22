@@ -7,7 +7,7 @@ compositeTrack on
 
     track Ammonshorn_GTExgebrainhippocampus
     bigDataUrl Ammonshorn_GTExgebrainhippocampus.bigInteract
-    shortLabel GTEx_ge_brain_hippocampus
+    shortLabel Ammon's horn_GTEx_ge_brain_hippocampus
     longLabel Ammon's horn GTEx_ge_brain_hippocampus
     type bigInteract
     color 128,0,5
@@ -16,7 +16,7 @@ compositeTrack on
 
     track Bcell_CEDARmicroarrayBcellCD19
     bigDataUrl Bcell_CEDARmicroarrayBcellCD19.bigInteract
-    shortLabel CEDAR_microarray_B-cell_CD19
+    shortLabel B cell_CEDAR_microarray_B-cell_CD19
     longLabel B cell CEDAR_microarray_B-cell_CD19
     type bigInteract
     color 128,0,5
@@ -25,7 +25,7 @@ compositeTrack on
 
     track Bcell_Fairfax2012microarrayBcellCD19
     bigDataUrl Bcell_Fairfax2012microarrayBcellCD19.bigInteract
-    shortLabel Fairfax_2012_microarray_B-cell_CD19
+    shortLabel B cell_Fairfax_2012_microarray_B-cell_CD19
     longLabel B cell Fairfax_2012_microarray_B-cell_CD19
     type bigInteract
     color 128,0,5
@@ -34,7 +34,7 @@ compositeTrack on
 
     track Bcell_Schmiedel2018geBcellnaive
     bigDataUrl Bcell_Schmiedel2018geBcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_B-cell_naive
+    shortLabel B cell_Schmiedel_2018_ge_B-cell_naive
     longLabel B cell Schmiedel_2018_ge_B-cell_naive
     type bigInteract
     color 128,0,5
@@ -43,7 +43,7 @@ compositeTrack on
 
     track C1segmentofcervicalspinalcord_GTExgebrainspinalcord
     bigDataUrl C1segmentofcervicalspinalcord_GTExgebrainspinalcord.bigInteract
-    shortLabel GTEx_ge_brain_spinal_cord
+    shortLabel C1 segment of cervical spinal cord_GTEx_ge_brain_spinal_cord
     longLabel C1 segment of cervical spinal cord GTEx_ge_brain_spinal_cord
     type bigInteract
     color 128,0,5
@@ -52,7 +52,7 @@ compositeTrack on
 
     track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive
     bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive.bigInteract
-    shortLabel Schmiedel_2018_ge_monocyte_CD16_naive
+    shortLabel CD14-low, CD16-positive monocyte_Schmiedel_2018_ge_monocyte_CD16_naive
     longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive
     type bigInteract
     color 128,0,5
@@ -61,7 +61,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte.bigInteract
-    shortLabel BLUEPRINT_SE_ge_monocyte
+    shortLabel CD14-positive, CD16-negative classical monocyte_BLUEPRINT_SE_ge_monocyte
     longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte
     type bigInteract
     color 128,0,5
@@ -70,7 +70,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14.bigInteract
-    shortLabel CEDAR_microarray_monocyte_CD14
+    shortLabel CD14-positive, CD16-negative classical monocyte_CEDAR_microarray_monocyte_CD14
     longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14
     type bigInteract
     color 128,0,5
@@ -79,7 +79,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_naive
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_naive
     longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive
     type bigInteract
     color 128,0,5
@@ -88,7 +88,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_IFN24
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_IFN24
     longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24
     type bigInteract
     color 128,0,5
@@ -97,7 +97,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_LPS2
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS2
     longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2
     type bigInteract
     color 128,0,5
@@ -106,7 +106,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24.bigInteract
-    shortLabel Fairfax_2014_microarray_monocyte_LPS24
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS24
     longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24
     type bigInteract
     color 128,0,5
@@ -115,7 +115,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive.bigInteract
-    shortLabel Quach_2016_ge_monocyte_naive
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_naive
     longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive
     type bigInteract
     color 128,0,5
@@ -124,7 +124,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS.bigInteract
-    shortLabel Quach_2016_ge_monocyte_LPS
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_LPS
     longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS
     type bigInteract
     color 128,0,5
@@ -133,7 +133,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4.bigInteract
-    shortLabel Quach_2016_ge_monocyte_Pam3CSK4
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_Pam3CSK4
     longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4
     type bigInteract
     color 128,0,5
@@ -142,7 +142,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848.bigInteract
-    shortLabel Quach_2016_ge_monocyte_R848
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_R848
     longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848
     type bigInteract
     color 128,0,5
@@ -151,7 +151,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV.bigInteract
-    shortLabel Quach_2016_ge_monocyte_IAV
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_IAV
     longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV
     type bigInteract
     color 128,0,5
@@ -160,7 +160,7 @@ compositeTrack on
 
     track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive
     bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive.bigInteract
-    shortLabel Schmiedel_2018_ge_monocyte_naive
+    shortLabel CD14-positive, CD16-negative classical monocyte_Schmiedel_2018_ge_monocyte_naive
     longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive
     type bigInteract
     color 128,0,5
@@ -169,7 +169,7 @@ compositeTrack on
 
     track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell
     bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell.bigInteract
-    shortLabel BLUEPRINT_PE_ge_T-cell
+    shortLabel CD4-positive, alpha-beta T cell_BLUEPRINT_PE_ge_T-cell
     longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell
     type bigInteract
     color 128,0,5
@@ -178,7 +178,7 @@ compositeTrack on
 
     track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4
     bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4.bigInteract
-    shortLabel CEDAR_microarray_T-cell_CD4
+    shortLabel CD4-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD4
     longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4
     type bigInteract
     color 128,0,5
@@ -187,7 +187,7 @@ compositeTrack on
 
     track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4
     bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4.bigInteract
-    shortLabel Kasela_2017_microarray_T-cell_CD4
+    shortLabel CD4-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD4
     longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4
     type bigInteract
     color 128,0,5
@@ -196,7 +196,7 @@ compositeTrack on
 
     track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive
     bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_CD4_T-cell_naive
+    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_naive
     longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive
     type bigInteract
     color 128,0,5
@@ -205,7 +205,7 @@ compositeTrack on
 
     track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28
     bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28.bigInteract
-    shortLabel Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
+    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
     longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28
     type bigInteract
     color 128,0,5
@@ -214,7 +214,7 @@ compositeTrack on
 
     track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8
     bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8.bigInteract
-    shortLabel CEDAR_microarray_T-cell_CD8
+    shortLabel CD8-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD8
     longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8
     type bigInteract
     color 128,0,5
@@ -223,7 +223,7 @@ compositeTrack on
 
     track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8
     bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8.bigInteract
-    shortLabel Kasela_2017_microarray_T-cell_CD8
+    shortLabel CD8-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD8
     longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8
     type bigInteract
     color 128,0,5
@@ -232,7 +232,7 @@ compositeTrack on
 
     track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive
     bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_CD8_T-cell_naive
+    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_naive
     longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive
     type bigInteract
     color 128,0,5
@@ -241,7 +241,7 @@ compositeTrack on
 
     track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28
     bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28.bigInteract
-    shortLabel Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
+    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
     longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28
     type bigInteract
     color 128,0,5
@@ -250,7 +250,7 @@ compositeTrack on
 
     track HLC_PhLiPSgeHLC
     bigDataUrl HLC_PhLiPSgeHLC.bigInteract
-    shortLabel PhLiPS_ge_HLC
+    shortLabel HLC_PhLiPS_ge_HLC
     longLabel HLC PhLiPS_ge_HLC
     type bigInteract
     color 128,0,5
@@ -259,7 +259,7 @@ compositeTrack on
 
     track Peyerspatch_GTExgesmallintestine
     bigDataUrl Peyerspatch_GTExgesmallintestine.bigInteract
-    shortLabel GTEx_ge_small_intestine
+    shortLabel Peyer's patch_GTEx_ge_small_intestine
     longLabel Peyer's patch GTEx_ge_small_intestine
     type bigInteract
     color 128,0,5
@@ -268,7 +268,7 @@ compositeTrack on
 
     track Tcell_GENCORDgeTcell
     bigDataUrl Tcell_GENCORDgeTcell.bigInteract
-    shortLabel GENCORD_ge_T-cell
+    shortLabel T cell_GENCORD_ge_T-cell
     longLabel T cell GENCORD_ge_T-cell
     type bigInteract
     color 128,0,5
@@ -277,7 +277,7 @@ compositeTrack on
 
     track Tfollicularhelpercell_Schmiedel2018geTfhmemory
     bigDataUrl Tfollicularhelpercell_Schmiedel2018geTfhmemory.bigInteract
-    shortLabel Schmiedel_2018_ge_Tfh_memory
+    shortLabel T follicular helper cell_Schmiedel_2018_ge_Tfh_memory
     longLabel T follicular helper cell Schmiedel_2018_ge_Tfh_memory
     type bigInteract
     color 128,0,5
@@ -286,7 +286,7 @@ compositeTrack on
 
     track Thelper1cell_Schmiedel2018geTh1memory
     bigDataUrl Thelper1cell_Schmiedel2018geTh1memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th1_memory
+    shortLabel T-helper 1 cell_Schmiedel_2018_ge_Th1_memory
     longLabel T-helper 1 cell Schmiedel_2018_ge_Th1_memory
     type bigInteract
     color 128,0,5
@@ -295,7 +295,7 @@ compositeTrack on
 
     track Thelper17cell_Schmiedel2018geTh17memory
     bigDataUrl Thelper17cell_Schmiedel2018geTh17memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th17_memory
+    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th17_memory
     longLabel T-helper 17 cell Schmiedel_2018_ge_Th17_memory
     type bigInteract
     color 128,0,5
@@ -304,7 +304,7 @@ compositeTrack on
 
     track Thelper17cell_Schmiedel2018geTh117memory
     bigDataUrl Thelper17cell_Schmiedel2018geTh117memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th1-17_memory
+    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th1-17_memory
     longLabel T-helper 17 cell Schmiedel_2018_ge_Th1-17_memory
     type bigInteract
     color 128,0,5
@@ -313,7 +313,7 @@ compositeTrack on
 
     track Thelper2cell_Schmiedel2018geTh2memory
     bigDataUrl Thelper2cell_Schmiedel2018geTh2memory.bigInteract
-    shortLabel Schmiedel_2018_ge_Th2_memory
+    shortLabel T-helper 2 cell_Schmiedel_2018_ge_Th2_memory
     longLabel T-helper 2 cell Schmiedel_2018_ge_Th2_memory
     type bigInteract
     color 128,0,5
@@ -322,7 +322,7 @@ compositeTrack on
 
     track adiposetissue_FUSIONgeadiposenaive
     bigDataUrl adiposetissue_FUSIONgeadiposenaive.bigInteract
-    shortLabel FUSION_ge_adipose_naive
+    shortLabel adipose tissue_FUSION_ge_adipose_naive
     longLabel adipose tissue FUSION_ge_adipose_naive
     type bigInteract
     color 128,0,5
@@ -331,7 +331,7 @@ compositeTrack on
 
     track adiposetissue_GTExgeadiposesubcutaneous
     bigDataUrl adiposetissue_GTExgeadiposesubcutaneous.bigInteract
-    shortLabel GTEx_ge_adipose_subcutaneous
+    shortLabel adipose tissue_GTEx_ge_adipose_subcutaneous
     longLabel adipose tissue GTEx_ge_adipose_subcutaneous
     type bigInteract
     color 128,0,5
@@ -340,7 +340,7 @@ compositeTrack on
 
     track adiposetissue_TwinsUKgefat
     bigDataUrl adiposetissue_TwinsUKgefat.bigInteract
-    shortLabel TwinsUK_ge_fat
+    shortLabel adipose tissue_TwinsUK_ge_fat
     longLabel adipose tissue TwinsUK_ge_fat
     type bigInteract
     color 128,0,5
@@ -349,7 +349,7 @@ compositeTrack on
 
     track adrenalgland_GTExgeadrenalgland
     bigDataUrl adrenalgland_GTExgeadrenalgland.bigInteract
-    shortLabel GTEx_ge_adrenal_gland
+    shortLabel adrenal gland_GTEx_ge_adrenal_gland
     longLabel adrenal gland GTEx_ge_adrenal_gland
     type bigInteract
     color 128,0,5
@@ -358,7 +358,7 @@ compositeTrack on
 
     track amygdala_GTExgebrainamygdala
     bigDataUrl amygdala_GTExgebrainamygdala.bigInteract
-    shortLabel GTEx_ge_brain_amygdala
+    shortLabel amygdala_GTEx_ge_brain_amygdala
     longLabel amygdala GTEx_ge_brain_amygdala
     type bigInteract
     color 128,0,5
@@ -367,7 +367,7 @@ compositeTrack on
 
     track anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex
     bigDataUrl anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex.bigInteract
-    shortLabel GTEx_ge_brain_anterior_cingulate_cortex
+    shortLabel anterior cingulate cortex_GTEx_ge_brain_anterior_cingulate_cortex
     longLabel anterior cingulate cortex GTEx_ge_brain_anterior_cingulate_cortex
     type bigInteract
     color 128,0,5
@@ -376,7 +376,7 @@ compositeTrack on
 
     track anteriorlingualgland_GTExgeminorsalivarygland
     bigDataUrl anteriorlingualgland_GTExgeminorsalivarygland.bigInteract
-    shortLabel GTEx_ge_minor_salivary_gland
+    shortLabel anterior lingual gland_GTEx_ge_minor_salivary_gland
     longLabel anterior lingual gland GTEx_ge_minor_salivary_gland
     type bigInteract
     color 128,0,5
@@ -385,7 +385,7 @@ compositeTrack on
 
     track ascendingaorta_GTExgearteryaorta
     bigDataUrl ascendingaorta_GTExgearteryaorta.bigInteract
-    shortLabel GTEx_ge_artery_aorta
+    shortLabel ascending aorta_GTEx_ge_artery_aorta
     longLabel ascending aorta GTEx_ge_artery_aorta
     type bigInteract
     color 128,0,5
@@ -394,7 +394,7 @@ compositeTrack on
 
     track blood_GTExgeblood
     bigDataUrl blood_GTExgeblood.bigInteract
-    shortLabel GTEx_ge_blood
+    shortLabel blood_GTEx_ge_blood
     longLabel blood GTEx_ge_blood
     type bigInteract
     color 128,0,5
@@ -403,7 +403,7 @@ compositeTrack on
 
     track blood_Lepik2017geblood
     bigDataUrl blood_Lepik2017geblood.bigInteract
-    shortLabel Lepik_2017_ge_blood
+    shortLabel blood_Lepik_2017_ge_blood
     longLabel blood Lepik_2017_ge_blood
     type bigInteract
     color 128,0,5
@@ -412,7 +412,7 @@ compositeTrack on
 
     track blood_TwinsUKgeblood
     bigDataUrl blood_TwinsUKgeblood.bigInteract
-    shortLabel TwinsUK_ge_blood
+    shortLabel blood_TwinsUK_ge_blood
     longLabel blood TwinsUK_ge_blood
     type bigInteract
     color 128,0,5
@@ -421,7 +421,7 @@ compositeTrack on
 
     track bodyofpancreas_GTExgepancreas
     bigDataUrl bodyofpancreas_GTExgepancreas.bigInteract
-    shortLabel GTEx_ge_pancreas
+    shortLabel body of pancreas_GTEx_ge_pancreas
     longLabel body of pancreas GTEx_ge_pancreas
     type bigInteract
     color 128,0,5
@@ -430,7 +430,7 @@ compositeTrack on
 
     track breastepithelium_GTExgebreast
     bigDataUrl breastepithelium_GTExgebreast.bigInteract
-    shortLabel GTEx_ge_breast
+    shortLabel breast epithelium_GTEx_ge_breast
     longLabel breast epithelium GTEx_ge_breast
     type bigInteract
     color 128,0,5
@@ -439,7 +439,7 @@ compositeTrack on
 
     track cartilagetissue_Steinberg2020gelowgradecartilagenaive
     bigDataUrl cartilagetissue_Steinberg2020gelowgradecartilagenaive.bigInteract
-    shortLabel Steinberg_2020_ge_low_grade_cartilage_naive
+    shortLabel cartilage tissue_Steinberg_2020_ge_low_grade_cartilage_naive
     longLabel cartilage tissue Steinberg_2020_ge_low_grade_cartilage_naive
     type bigInteract
     color 128,0,5
@@ -448,7 +448,7 @@ compositeTrack on
 
     track cartilagetissue_Steinberg2020gehighgradecartilagenaive
     bigDataUrl cartilagetissue_Steinberg2020gehighgradecartilagenaive.bigInteract
-    shortLabel Steinberg_2020_ge_high_grade_cartilage_naive
+    shortLabel cartilage tissue_Steinberg_2020_ge_high_grade_cartilage_naive
     longLabel cartilage tissue Steinberg_2020_ge_high_grade_cartilage_naive
     type bigInteract
     color 128,0,5
@@ -457,7 +457,7 @@ compositeTrack on
 
     track caudatenucleus_GTExgebraincaudate
     bigDataUrl caudatenucleus_GTExgebraincaudate.bigInteract
-    shortLabel GTEx_ge_brain_caudate
+    shortLabel caudate nucleus_GTEx_ge_brain_caudate
     longLabel caudate nucleus GTEx_ge_brain_caudate
     type bigInteract
     color 128,0,5
@@ -466,7 +466,7 @@ compositeTrack on
 
     track cerebellum_GTExgebraincerebellarhemisphere
     bigDataUrl cerebellum_GTExgebraincerebellarhemisphere.bigInteract
-    shortLabel GTEx_ge_brain_cerebellar_hemisphere
+    shortLabel cerebellum_GTEx_ge_brain_cerebellar_hemisphere
     longLabel cerebellum GTEx_ge_brain_cerebellar_hemisphere
     type bigInteract
     color 128,0,5
@@ -475,7 +475,7 @@ compositeTrack on
 
     track cerebellum_GTExgebraincerebellum
     bigDataUrl cerebellum_GTExgebraincerebellum.bigInteract
-    shortLabel GTEx_ge_brain_cerebellum
+    shortLabel cerebellum_GTEx_ge_brain_cerebellum
     longLabel cerebellum GTEx_ge_brain_cerebellum
     type bigInteract
     color 128,0,5
@@ -484,7 +484,7 @@ compositeTrack on
 
     track coronaryartery_GTExgearterycoronary
     bigDataUrl coronaryartery_GTExgearterycoronary.bigInteract
-    shortLabel GTEx_ge_artery_coronary
+    shortLabel coronary artery_GTEx_ge_artery_coronary
     longLabel coronary artery GTEx_ge_artery_coronary
     type bigInteract
     color 128,0,5
@@ -493,7 +493,7 @@ compositeTrack on
 
     track cortexofkidney_GTExgekidneycortex
     bigDataUrl cortexofkidney_GTExgekidneycortex.bigInteract
-    shortLabel GTEx_ge_kidney_cortex
+    shortLabel cortex of kidney_GTEx_ge_kidney_cortex
     longLabel cortex of kidney GTEx_ge_kidney_cortex
     type bigInteract
     color 128,0,5
@@ -502,7 +502,7 @@ compositeTrack on
 
     track dorsolateralprefrontalcortex_BrainSeqgebrain
     bigDataUrl dorsolateralprefrontalcortex_BrainSeqgebrain.bigInteract
-    shortLabel BrainSeq_ge_brain
+    shortLabel dorsolateral prefrontal cortex_BrainSeq_ge_brain
     longLabel dorsolateral prefrontal cortex BrainSeq_ge_brain
     type bigInteract
     color 128,0,5
@@ -511,7 +511,7 @@ compositeTrack on
 
     track dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive
     bigDataUrl dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive.bigInteract
-    shortLabel CommonMind_ge_DLPFC_naive
+    shortLabel dorsolateral prefrontal cortex_CommonMind_ge_DLPFC_naive
     longLabel dorsolateral prefrontal cortex CommonMind_ge_DLPFC_naive
     type bigInteract
     color 128,0,5
@@ -520,7 +520,7 @@ compositeTrack on
 
     track dorsolateralprefrontalcortex_GTExgebrainfrontalcortex
     bigDataUrl dorsolateralprefrontalcortex_GTExgebrainfrontalcortex.bigInteract
-    shortLabel GTEx_ge_brain_frontal_cortex
+    shortLabel dorsolateral prefrontal cortex_GTEx_ge_brain_frontal_cortex
     longLabel dorsolateral prefrontal cortex GTEx_ge_brain_frontal_cortex
     type bigInteract
     color 128,0,5
@@ -529,7 +529,7 @@ compositeTrack on
 
     track dorsolateralprefrontalcortex_ROSMAPgebrainnaive
     bigDataUrl dorsolateralprefrontalcortex_ROSMAPgebrainnaive.bigInteract
-    shortLabel ROSMAP_ge_brain_naive
+    shortLabel dorsolateral prefrontal cortex_ROSMAP_ge_brain_naive
     longLabel dorsolateral prefrontal cortex ROSMAP_ge_brain_naive
     type bigInteract
     color 128,0,5
@@ -538,7 +538,7 @@ compositeTrack on
 
     track esophagusmuscularismucosa_GTExgeesophagusmuscularis
     bigDataUrl esophagusmuscularismucosa_GTExgeesophagusmuscularis.bigInteract
-    shortLabel GTEx_ge_esophagus_muscularis
+    shortLabel esophagus muscularis mucosa_GTEx_ge_esophagus_muscularis
     longLabel esophagus muscularis mucosa GTEx_ge_esophagus_muscularis
     type bigInteract
     color 128,0,5
@@ -547,7 +547,7 @@ compositeTrack on
 
     track esophagussquamousepithelium_GTExgeesophagusmucosa
     bigDataUrl esophagussquamousepithelium_GTExgeesophagusmucosa.bigInteract
-    shortLabel GTEx_ge_esophagus_mucosa
+    shortLabel esophagus squamous epithelium_GTEx_ge_esophagus_mucosa
     longLabel esophagus squamous epithelium GTEx_ge_esophagus_mucosa
     type bigInteract
     color 128,0,5
@@ -556,7 +556,7 @@ compositeTrack on
 
     track femalegonad_GTExgeovary
     bigDataUrl femalegonad_GTExgeovary.bigInteract
-    shortLabel GTEx_ge_ovary
+    shortLabel female gonad_GTEx_ge_ovary
     longLabel female gonad GTEx_ge_ovary
     type bigInteract
     color 128,0,5
@@ -565,7 +565,7 @@ compositeTrack on
 
     track fibroblast_GENCORDgefibroblast
     bigDataUrl fibroblast_GENCORDgefibroblast.bigInteract
-    shortLabel GENCORD_ge_fibroblast
+    shortLabel fibroblast_GENCORD_ge_fibroblast
     longLabel fibroblast GENCORD_ge_fibroblast
     type bigInteract
     color 128,0,5
@@ -574,7 +574,7 @@ compositeTrack on
 
     track fibroblast_GTExgefibroblast
     bigDataUrl fibroblast_GTExgefibroblast.bigInteract
-    shortLabel GTEx_ge_fibroblast
+    shortLabel fibroblast_GTEx_ge_fibroblast
     longLabel fibroblast GTEx_ge_fibroblast
     type bigInteract
     color 128,0,5
@@ -583,7 +583,7 @@ compositeTrack on
 
     track frontalcortex_GTExgebraincortex
     bigDataUrl frontalcortex_GTExgebraincortex.bigInteract
-    shortLabel GTEx_ge_brain_cortex
+    shortLabel frontal cortex_GTEx_ge_brain_cortex
     longLabel frontal cortex GTEx_ge_brain_cortex
     type bigInteract
     color 128,0,5
@@ -592,7 +592,7 @@ compositeTrack on
 
     track gastroesophagealsphincter_GTExgeesophagusgej
     bigDataUrl gastroesophagealsphincter_GTExgeesophagusgej.bigInteract
-    shortLabel GTEx_ge_esophagus_gej
+    shortLabel gastroesophageal sphincter_GTEx_ge_esophagus_gej
     longLabel gastroesophageal sphincter GTEx_ge_esophagus_gej
     type bigInteract
     color 128,0,5
@@ -601,7 +601,7 @@ compositeTrack on
 
     track hypothalamus_GTExgebrainhypothalamus
     bigDataUrl hypothalamus_GTExgebrainhypothalamus.bigInteract
-    shortLabel GTEx_ge_brain_hypothalamus
+    shortLabel hypothalamus_GTEx_ge_brain_hypothalamus
     longLabel hypothalamus GTEx_ge_brain_hypothalamus
     type bigInteract
     color 128,0,5
@@ -610,7 +610,7 @@ compositeTrack on
 
     track ileum_CEDARmicroarrayileum
     bigDataUrl ileum_CEDARmicroarrayileum.bigInteract
-    shortLabel CEDAR_microarray_ileum
+    shortLabel ileum_CEDAR_microarray_ileum
     longLabel ileum CEDAR_microarray_ileum
     type bigInteract
     color 128,0,5
@@ -619,7 +619,7 @@ compositeTrack on
 
     track inducedpluripotentstemcell_HipScigeiPSC
     bigDataUrl inducedpluripotentstemcell_HipScigeiPSC.bigInteract
-    shortLabel HipSci_ge_iPSC
+    shortLabel induced pluripotent stem cell_HipSci_ge_iPSC
     longLabel induced pluripotent stem cell HipSci_ge_iPSC
     type bigInteract
     color 128,0,5
@@ -628,7 +628,7 @@ compositeTrack on
 
     track inducedpluripotentstemcell_PhLiPSgeiPSC
     bigDataUrl inducedpluripotentstemcell_PhLiPSgeiPSC.bigInteract
-    shortLabel PhLiPS_ge_iPSC
+    shortLabel induced pluripotent stem cell_PhLiPS_ge_iPSC
     longLabel induced pluripotent stem cell PhLiPS_ge_iPSC
     type bigInteract
     color 128,0,5
@@ -637,7 +637,7 @@ compositeTrack on
 
     track inducedpluripotentstemcell_iPSCOREgeiPSC
     bigDataUrl inducedpluripotentstemcell_iPSCOREgeiPSC.bigInteract
-    shortLabel iPSCORE_ge_iPSC
+    shortLabel induced pluripotent stem cell_iPSCORE_ge_iPSC
     longLabel induced pluripotent stem cell iPSCORE_ge_iPSC
     type bigInteract
     color 128,0,5
@@ -646,7 +646,7 @@ compositeTrack on
 
     track isletofLangerhans_vandeBunt2015gepancreaticislet
     bigDataUrl isletofLangerhans_vandeBunt2015gepancreaticislet.bigInteract
-    shortLabel van_de_Bunt_2015_ge_pancreatic_islet
+    shortLabel islet of Langerhans_van_de_Bunt_2015_ge_pancreatic_islet
     longLabel islet of Langerhans van_de_Bunt_2015_ge_pancreatic_islet
     type bigInteract
     color 128,0,5
@@ -655,7 +655,7 @@ compositeTrack on
 
     track layerofsynovialtissue_Steinberg2020gesynoviumnaive
     bigDataUrl layerofsynovialtissue_Steinberg2020gesynoviumnaive.bigInteract
-    shortLabel Steinberg_2020_ge_synovium_naive
+    shortLabel layer of synovial tissue_Steinberg_2020_ge_synovium_naive
     longLabel layer of synovial tissue Steinberg_2020_ge_synovium_naive
     type bigInteract
     color 128,0,5
@@ -664,7 +664,7 @@ compositeTrack on
 
     track leftventriclemyocardium_GTExgeheartleftventricle
     bigDataUrl leftventriclemyocardium_GTExgeheartleftventricle.bigInteract
-    shortLabel GTEx_ge_heart_left_ventricle
+    shortLabel left ventricle myocardium_GTEx_ge_heart_left_ventricle
     longLabel left ventricle myocardium GTEx_ge_heart_left_ventricle
     type bigInteract
     color 128,0,5
@@ -673,7 +673,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_CAPgeLCLnaive
     bigDataUrl lymphoblastoidcellline_CAPgeLCLnaive.bigInteract
-    shortLabel CAP_ge_LCL_naive
+    shortLabel lymphoblastoid cell line_CAP_ge_LCL_naive
     longLabel lymphoblastoid cell line CAP_ge_LCL_naive
     type bigInteract
     color 128,0,5
@@ -682,7 +682,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_CAPgeLCLstatin
     bigDataUrl lymphoblastoidcellline_CAPgeLCLstatin.bigInteract
-    shortLabel CAP_ge_LCL_statin
+    shortLabel lymphoblastoid cell line_CAP_ge_LCL_statin
     longLabel lymphoblastoid cell line CAP_ge_LCL_statin
     type bigInteract
     color 128,0,5
@@ -691,7 +691,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_GENCORDgeLCL
     bigDataUrl lymphoblastoidcellline_GENCORDgeLCL.bigInteract
-    shortLabel GENCORD_ge_LCL
+    shortLabel lymphoblastoid cell line_GENCORD_ge_LCL
     longLabel lymphoblastoid cell line GENCORD_ge_LCL
     type bigInteract
     color 128,0,5
@@ -700,7 +700,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_GEUVADISgeLCL
     bigDataUrl lymphoblastoidcellline_GEUVADISgeLCL.bigInteract
-    shortLabel GEUVADIS_ge_LCL
+    shortLabel lymphoblastoid cell line_GEUVADIS_ge_LCL
     longLabel lymphoblastoid cell line GEUVADIS_ge_LCL
     type bigInteract
     color 128,0,5
@@ -709,7 +709,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_GTExgeLCL
     bigDataUrl lymphoblastoidcellline_GTExgeLCL.bigInteract
-    shortLabel GTEx_ge_LCL
+    shortLabel lymphoblastoid cell line_GTEx_ge_LCL
     longLabel lymphoblastoid cell line GTEx_ge_LCL
     type bigInteract
     color 128,0,5
@@ -718,7 +718,7 @@ compositeTrack on
 
     track lymphoblastoidcellline_TwinsUKgeLCL
     bigDataUrl lymphoblastoidcellline_TwinsUKgeLCL.bigInteract
-    shortLabel TwinsUK_ge_LCL
+    shortLabel lymphoblastoid cell line_TwinsUK_ge_LCL
     longLabel lymphoblastoid cell line TwinsUK_ge_LCL
     type bigInteract
     color 128,0,5
@@ -727,7 +727,7 @@ compositeTrack on
 
     track macrophage_Alasoo2018gemacrophagenaive
     bigDataUrl macrophage_Alasoo2018gemacrophagenaive.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_naive
+    shortLabel macrophage_Alasoo_2018_ge_macrophage_naive
     longLabel macrophage Alasoo_2018_ge_macrophage_naive
     type bigInteract
     color 128,0,5
@@ -736,7 +736,7 @@ compositeTrack on
 
     track macrophage_Alasoo2018gemacrophageIFNg
     bigDataUrl macrophage_Alasoo2018gemacrophageIFNg.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_IFNg
+    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg
     longLabel macrophage Alasoo_2018_ge_macrophage_IFNg
     type bigInteract
     color 128,0,5
@@ -745,7 +745,7 @@ compositeTrack on
 
     track macrophage_Alasoo2018gemacrophageSalmonella
     bigDataUrl macrophage_Alasoo2018gemacrophageSalmonella.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_Salmonella
+    shortLabel macrophage_Alasoo_2018_ge_macrophage_Salmonella
     longLabel macrophage Alasoo_2018_ge_macrophage_Salmonella
     type bigInteract
     color 128,0,5
@@ -754,7 +754,7 @@ compositeTrack on
 
     track macrophage_Alasoo2018gemacrophageIFNgSalmonella
     bigDataUrl macrophage_Alasoo2018gemacrophageIFNgSalmonella.bigInteract
-    shortLabel Alasoo_2018_ge_macrophage_IFNg+Salmonella
+    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg+Salmonella
     longLabel macrophage Alasoo_2018_ge_macrophage_IFNg+Salmonella
     type bigInteract
     color 128,0,5
@@ -763,7 +763,7 @@ compositeTrack on
 
     track macrophage_Nedelec2016gemacrophageListeria
     bigDataUrl macrophage_Nedelec2016gemacrophageListeria.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_Listeria
+    shortLabel macrophage_Nedelec_2016_ge_macrophage_Listeria
     longLabel macrophage Nedelec_2016_ge_macrophage_Listeria
     type bigInteract
     color 128,0,5
@@ -772,7 +772,7 @@ compositeTrack on
 
     track macrophage_Nedelec2016gemacrophagenaive
     bigDataUrl macrophage_Nedelec2016gemacrophagenaive.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_naive
+    shortLabel macrophage_Nedelec_2016_ge_macrophage_naive
     longLabel macrophage Nedelec_2016_ge_macrophage_naive
     type bigInteract
     color 128,0,5
@@ -781,7 +781,7 @@ compositeTrack on
 
     track macrophage_Nedelec2016gemacrophageSalmonella
     bigDataUrl macrophage_Nedelec2016gemacrophageSalmonella.bigInteract
-    shortLabel Nedelec_2016_ge_macrophage_Salmonella
+    shortLabel macrophage_Nedelec_2016_ge_macrophage_Salmonella
     longLabel macrophage Nedelec_2016_ge_macrophage_Salmonella
     type bigInteract
     color 128,0,5
@@ -790,7 +790,7 @@ compositeTrack on
 
     track memoryregulatoryTcell_Schmiedel2018geTregmemory
     bigDataUrl memoryregulatoryTcell_Schmiedel2018geTregmemory.bigInteract
-    shortLabel Schmiedel_2018_ge_Treg_memory
+    shortLabel memory regulatory T cell_Schmiedel_2018_ge_Treg_memory
     longLabel memory regulatory T cell Schmiedel_2018_ge_Treg_memory
     type bigInteract
     color 128,0,5
@@ -799,7 +799,7 @@ compositeTrack on
 
     track microglialcell_Young2019gemicroglianaive
     bigDataUrl microglialcell_Young2019gemicroglianaive.bigInteract
-    shortLabel Young_2019_ge_microglia_naive
+    shortLabel microglial cell_Young_2019_ge_microglia_naive
     longLabel microglial cell Young_2019_ge_microglia_naive
     type bigInteract
     color 128,0,5
@@ -808,7 +808,7 @@ compositeTrack on
 
     track naiveregulatoryTcell_BossiniCastillo2019geTregnaive
     bigDataUrl naiveregulatoryTcell_BossiniCastillo2019geTregnaive.bigInteract
-    shortLabel Bossini-Castillo_2019_ge_Treg_naive
+    shortLabel naive regulatory T cell_Bossini-Castillo_2019_ge_Treg_naive
     longLabel naive regulatory T cell Bossini-Castillo_2019_ge_Treg_naive
     type bigInteract
     color 128,0,5
@@ -817,7 +817,7 @@ compositeTrack on
 
     track naiveregulatoryTcell_Schmiedel2018geTregnaive
     bigDataUrl naiveregulatoryTcell_Schmiedel2018geTregnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_Treg_naive
+    shortLabel naive regulatory T cell_Schmiedel_2018_ge_Treg_naive
     longLabel naive regulatory T cell Schmiedel_2018_ge_Treg_naive
     type bigInteract
     color 128,0,5
@@ -826,7 +826,7 @@ compositeTrack on
 
     track naturalkillercell_Gilchrist2021microarrayNKcellnaive
     bigDataUrl naturalkillercell_Gilchrist2021microarrayNKcellnaive.bigInteract
-    shortLabel Gilchrist_2021_microarray_NK-cell_naive
+    shortLabel natural killer cell_Gilchrist_2021_microarray_NK-cell_naive
     longLabel natural killer cell Gilchrist_2021_microarray_NK-cell_naive
     type bigInteract
     color 128,0,5
@@ -835,7 +835,7 @@ compositeTrack on
 
     track naturalkillercell_Schmiedel2018geNKcellnaive
     bigDataUrl naturalkillercell_Schmiedel2018geNKcellnaive.bigInteract
-    shortLabel Schmiedel_2018_ge_NK-cell_naive
+    shortLabel natural killer cell_Schmiedel_2018_ge_NK-cell_naive
     longLabel natural killer cell Schmiedel_2018_ge_NK-cell_naive
     type bigInteract
     color 128,0,5
@@ -844,7 +844,7 @@ compositeTrack on
 
     track neutrophil_BLUEPRINTSEgeneutrophil
     bigDataUrl neutrophil_BLUEPRINTSEgeneutrophil.bigInteract
-    shortLabel BLUEPRINT_SE_ge_neutrophil
+    shortLabel neutrophil_BLUEPRINT_SE_ge_neutrophil
     longLabel neutrophil BLUEPRINT_SE_ge_neutrophil
     type bigInteract
     color 128,0,5
@@ -853,7 +853,7 @@ compositeTrack on
 
     track neutrophil_CEDARmicroarrayneutrophilCD15
     bigDataUrl neutrophil_CEDARmicroarrayneutrophilCD15.bigInteract
-    shortLabel CEDAR_microarray_neutrophil_CD15
+    shortLabel neutrophil_CEDAR_microarray_neutrophil_CD15
     longLabel neutrophil CEDAR_microarray_neutrophil_CD15
     type bigInteract
     color 128,0,5
@@ -862,7 +862,7 @@ compositeTrack on
 
     track neutrophil_Naranbhai2015microarrayneutrophilCD16
     bigDataUrl neutrophil_Naranbhai2015microarrayneutrophilCD16.bigInteract
-    shortLabel Naranbhai_2015_microarray_neutrophil_CD16
+    shortLabel neutrophil_Naranbhai_2015_microarray_neutrophil_CD16
     longLabel neutrophil Naranbhai_2015_microarray_neutrophil_CD16
     type bigInteract
     color 128,0,5
@@ -871,7 +871,7 @@ compositeTrack on
 
     track nucleusaccumbens_GTExgebrainnucleusaccumbens
     bigDataUrl nucleusaccumbens_GTExgebrainnucleusaccumbens.bigInteract
-    shortLabel GTEx_ge_brain_nucleus_accumbens
+    shortLabel nucleus accumbens_GTEx_ge_brain_nucleus_accumbens
     longLabel nucleus accumbens GTEx_ge_brain_nucleus_accumbens
     type bigInteract
     color 128,0,5
@@ -880,7 +880,7 @@ compositeTrack on
 
     track omentalfatpad_GTExgeadiposevisceral
     bigDataUrl omentalfatpad_GTExgeadiposevisceral.bigInteract
-    shortLabel GTEx_ge_adipose_visceral
+    shortLabel omental fat pad_GTEx_ge_adipose_visceral
     longLabel omental fat pad GTEx_ge_adipose_visceral
     type bigInteract
     color 128,0,5
@@ -889,7 +889,7 @@ compositeTrack on
 
     track pituitarygland_GTExgepituitary
     bigDataUrl pituitarygland_GTExgepituitary.bigInteract
-    shortLabel GTEx_ge_pituitary
+    shortLabel pituitary gland_GTEx_ge_pituitary
     longLabel pituitary gland GTEx_ge_pituitary
     type bigInteract
     color 128,0,5
@@ -898,7 +898,7 @@ compositeTrack on
 
     track placenta_Peng2018geplacentanaive
     bigDataUrl placenta_Peng2018geplacentanaive.bigInteract
-    shortLabel Peng_2018_ge_placenta_naive
+    shortLabel placenta_Peng_2018_ge_placenta_naive
     longLabel placenta Peng_2018_ge_placenta_naive
     type bigInteract
     color 128,0,5
@@ -907,7 +907,7 @@ compositeTrack on
 
     track platelet_CEDARmicroarrayplatelet
     bigDataUrl platelet_CEDARmicroarrayplatelet.bigInteract
-    shortLabel CEDAR_microarray_platelet
+    shortLabel platelet_CEDAR_microarray_platelet
     longLabel platelet CEDAR_microarray_platelet
     type bigInteract
     color 128,0,5
@@ -916,7 +916,7 @@ compositeTrack on
 
     track prostategland_GTExgeprostate
     bigDataUrl prostategland_GTExgeprostate.bigInteract
-    shortLabel GTEx_ge_prostate
+    shortLabel prostate gland_GTEx_ge_prostate
     longLabel prostate gland GTEx_ge_prostate
     type bigInteract
     color 128,0,5
@@ -925,7 +925,7 @@ compositeTrack on
 
     track putamen_Braineac2geputamen
     bigDataUrl putamen_Braineac2geputamen.bigInteract
-    shortLabel Braineac2_ge_putamen
+    shortLabel putamen_Braineac2_ge_putamen
     longLabel putamen Braineac2_ge_putamen
     type bigInteract
     color 128,0,5
@@ -934,7 +934,7 @@ compositeTrack on
 
     track putamen_GTExgebrainputamen
     bigDataUrl putamen_GTExgebrainputamen.bigInteract
-    shortLabel GTEx_ge_brain_putamen
+    shortLabel putamen_GTEx_ge_brain_putamen
     longLabel putamen GTEx_ge_brain_putamen
     type bigInteract
     color 128,0,5
@@ -943,7 +943,7 @@ compositeTrack on
 
     track rectum_CEDARmicroarrayrectum
     bigDataUrl rectum_CEDARmicroarrayrectum.bigInteract
-    shortLabel CEDAR_microarray_rectum
+    shortLabel rectum_CEDAR_microarray_rectum
     longLabel rectum CEDAR_microarray_rectum
     type bigInteract
     color 128,0,5
@@ -952,7 +952,7 @@ compositeTrack on
 
     track rightatriumauricularregion_GTExgeheartatrialappendage
     bigDataUrl rightatriumauricularregion_GTExgeheartatrialappendage.bigInteract
-    shortLabel GTEx_ge_heart_atrial_appendage
+    shortLabel right atrium auricular region_GTEx_ge_heart_atrial_appendage
     longLabel right atrium auricular region GTEx_ge_heart_atrial_appendage
     type bigInteract
     color 128,0,5
@@ -961,7 +961,7 @@ compositeTrack on
 
     track rightlobeofliver_GTExgeliver
     bigDataUrl rightlobeofliver_GTExgeliver.bigInteract
-    shortLabel GTEx_ge_liver
+    shortLabel right lobe of liver_GTEx_ge_liver
     longLabel right lobe of liver GTEx_ge_liver
     type bigInteract
     color 128,0,5
@@ -970,7 +970,7 @@ compositeTrack on
 
     track sensoryneuron_Schwartzentruber2018gesensoryneuron
     bigDataUrl sensoryneuron_Schwartzentruber2018gesensoryneuron.bigInteract
-    shortLabel Schwartzentruber_2018_ge_sensory_neuron
+    shortLabel sensory neuron_Schwartzentruber_2018_ge_sensory_neuron
     longLabel sensory neuron Schwartzentruber_2018_ge_sensory_neuron
     type bigInteract
     color 128,0,5
@@ -979,7 +979,7 @@ compositeTrack on
 
     track sigmoidcolon_GTExgecolonsigmoid
     bigDataUrl sigmoidcolon_GTExgecolonsigmoid.bigInteract
-    shortLabel GTEx_ge_colon_sigmoid
+    shortLabel sigmoid colon_GTEx_ge_colon_sigmoid
     longLabel sigmoid colon GTEx_ge_colon_sigmoid
     type bigInteract
     color 128,0,5
@@ -988,7 +988,7 @@ compositeTrack on
 
     track skeletalmuscletissue_FUSIONgemusclenaive
     bigDataUrl skeletalmuscletissue_FUSIONgemusclenaive.bigInteract
-    shortLabel FUSION_ge_muscle_naive
+    shortLabel skeletal muscle tissue_FUSION_ge_muscle_naive
     longLabel skeletal muscle tissue FUSION_ge_muscle_naive
     type bigInteract
     color 128,0,5
@@ -997,7 +997,7 @@ compositeTrack on
 
     track skeletalmuscletissue_GTExgemuscle
     bigDataUrl skeletalmuscletissue_GTExgemuscle.bigInteract
-    shortLabel GTEx_ge_muscle
+    shortLabel skeletal muscle tissue_GTEx_ge_muscle
     longLabel skeletal muscle tissue GTEx_ge_muscle
     type bigInteract
     color 128,0,5
@@ -1006,7 +1006,7 @@ compositeTrack on
 
     track skinofbody_GTExgeskinsunexposed
     bigDataUrl skinofbody_GTExgeskinsunexposed.bigInteract
-    shortLabel GTEx_ge_skin_sun_exposed
+    shortLabel skin of body_GTEx_ge_skin_sun_exposed
     longLabel skin of body GTEx_ge_skin_sun_exposed
     type bigInteract
     color 128,0,5
@@ -1015,7 +1015,7 @@ compositeTrack on
 
     track skinofbody_TwinsUKgeskin
     bigDataUrl skinofbody_TwinsUKgeskin.bigInteract
-    shortLabel TwinsUK_ge_skin
+    shortLabel skin of body_TwinsUK_ge_skin
     longLabel skin of body TwinsUK_ge_skin
     type bigInteract
     color 128,0,5
@@ -1024,7 +1024,7 @@ compositeTrack on
 
     track spleen_GTExgespleen
     bigDataUrl spleen_GTExgespleen.bigInteract
-    shortLabel GTEx_ge_spleen
+    shortLabel spleen_GTEx_ge_spleen
     longLabel spleen GTEx_ge_spleen
     type bigInteract
     color 128,0,5
@@ -1033,7 +1033,7 @@ compositeTrack on
 
     track stomach_GTExgestomach
     bigDataUrl stomach_GTExgestomach.bigInteract
-    shortLabel GTEx_ge_stomach
+    shortLabel stomach_GTEx_ge_stomach
     longLabel stomach GTEx_ge_stomach
     type bigInteract
     color 128,0,5
@@ -1042,7 +1042,7 @@ compositeTrack on
 
     track substantianigra_GTExgebrainsubstantianigra
     bigDataUrl substantianigra_GTExgebrainsubstantianigra.bigInteract
-    shortLabel GTEx_ge_brain_substantia_nigra
+    shortLabel substantia nigra_GTEx_ge_brain_substantia_nigra
     longLabel substantia nigra GTEx_ge_brain_substantia_nigra
     type bigInteract
     color 128,0,5
@@ -1051,7 +1051,7 @@ compositeTrack on
 
     track substantianigra_Braineac2gesubstantianigra
     bigDataUrl substantianigra_Braineac2gesubstantianigra.bigInteract
-    shortLabel Braineac2_ge_substantia_nigra
+    shortLabel substantia_nigra_Braineac2_ge_substantia_nigra
     longLabel substantia_nigra Braineac2_ge_substantia_nigra
     type bigInteract
     color 128,0,5
@@ -1060,7 +1060,7 @@ compositeTrack on
 
     track suprapubicskin_GTExgeskinnotsunexposed
     bigDataUrl suprapubicskin_GTExgeskinnotsunexposed.bigInteract
-    shortLabel GTEx_ge_skin_not_sun_exposed
+    shortLabel suprapubic skin_GTEx_ge_skin_not_sun_exposed
     longLabel suprapubic skin GTEx_ge_skin_not_sun_exposed
     type bigInteract
     color 128,0,5
@@ -1069,7 +1069,7 @@ compositeTrack on
 
     track testis_GTExgetestis
     bigDataUrl testis_GTExgetestis.bigInteract
-    shortLabel GTEx_ge_testis
+    shortLabel testis_GTEx_ge_testis
     longLabel testis GTEx_ge_testis
     type bigInteract
     color 128,0,5
@@ -1078,7 +1078,7 @@ compositeTrack on
 
     track thyroidgland_GTExgethyroid
     bigDataUrl thyroidgland_GTExgethyroid.bigInteract
-    shortLabel GTEx_ge_thyroid
+    shortLabel thyroid gland_GTEx_ge_thyroid
     longLabel thyroid gland GTEx_ge_thyroid
     type bigInteract
     color 128,0,5
@@ -1087,7 +1087,7 @@ compositeTrack on
 
     track tibialartery_GTExgearterytibial
     bigDataUrl tibialartery_GTExgearterytibial.bigInteract
-    shortLabel GTEx_ge_artery_tibial
+    shortLabel tibial artery_GTEx_ge_artery_tibial
     longLabel tibial artery GTEx_ge_artery_tibial
     type bigInteract
     color 128,0,5
@@ -1096,7 +1096,7 @@ compositeTrack on
 
     track tibialnerve_GTExgenervetibial
     bigDataUrl tibialnerve_GTExgenervetibial.bigInteract
-    shortLabel GTEx_ge_nerve_tibial
+    shortLabel tibial nerve_GTEx_ge_nerve_tibial
     longLabel tibial nerve GTEx_ge_nerve_tibial
     type bigInteract
     color 128,0,5
@@ -1105,7 +1105,7 @@ compositeTrack on
 
     track transversecolon_CEDARmicroarraytransversecolon
     bigDataUrl transversecolon_CEDARmicroarraytransversecolon.bigInteract
-    shortLabel CEDAR_microarray_transverse_colon
+    shortLabel transverse colon_CEDAR_microarray_transverse_colon
     longLabel transverse colon CEDAR_microarray_transverse_colon
     type bigInteract
     color 128,0,5
@@ -1114,7 +1114,7 @@ compositeTrack on
 
     track transversecolon_GTExgecolontransverse
     bigDataUrl transversecolon_GTExgecolontransverse.bigInteract
-    shortLabel GTEx_ge_colon_transverse
+    shortLabel transverse colon_GTEx_ge_colon_transverse
     longLabel transverse colon GTEx_ge_colon_transverse
     type bigInteract
     color 128,0,5
@@ -1123,7 +1123,7 @@ compositeTrack on
 
     track upperlobeofleftlung_GTExgelung
     bigDataUrl upperlobeofleftlung_GTExgelung.bigInteract
-    shortLabel GTEx_ge_lung
+    shortLabel upper lobe of left lung_GTEx_ge_lung
     longLabel upper lobe of left lung GTEx_ge_lung
     type bigInteract
     color 128,0,5
@@ -1132,7 +1132,7 @@ compositeTrack on
 
     track uterus_GTExgeuterus
     bigDataUrl uterus_GTExgeuterus.bigInteract
-    shortLabel GTEx_ge_uterus
+    shortLabel uterus_GTEx_ge_uterus
     longLabel uterus GTEx_ge_uterus
     type bigInteract
     color 128,0,5
@@ -1141,7 +1141,7 @@ compositeTrack on
 
     track vagina_GTExgevagina
     bigDataUrl vagina_GTExgevagina.bigInteract
-    shortLabel GTEx_ge_vagina
+    shortLabel vagina_GTEx_ge_vagina
     longLabel vagina GTEx_ge_vagina
     type bigInteract
     color 128,0,5
