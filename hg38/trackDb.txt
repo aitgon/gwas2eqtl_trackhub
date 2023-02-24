@@ -1,3 +1,10 @@
+track pleiotropic_eqtl
+shortLabel Pleiotropic eQTLs
+longLabel Pleiotropic eQTLs
+type bigBed
+visibility pack
+bigDataUrl eqtl_pleio.bb
+
 track gwas2eqtl
 shortLabel gwas2eqtl colocalization
 longLabel gwas2eqtl colocalization
