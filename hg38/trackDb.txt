@@ -2302,6 +2302,6 @@ track pleioeqtl
 bigDataUrl pleioeqtl.bigBed
 shortLabel pleioeqtl
 longLabel pleioeqtl
-type bigBed
+type bigBed 5
 color 0,0,0
 visibility pack
