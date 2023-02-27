@@ -1,0 +1,5 @@
+hub hub
+shortLabel gwas2eqtl colocalization
+longLabel gwas2eqtl: colocalization analysis of IEU OpenGWAS and EBI eQTL Catalogue
+genomesFile gwas2eqtl.genomes.txt
+email aitor.gonzalez@univ-amu.fr
