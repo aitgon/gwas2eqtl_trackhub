@@ -1,0 +1,1345 @@
+track gwas2eqtl_beta_same_sign
+shortLabel eQTL/GWAS coloc.: Same direction of effect (beta)
+longLabel eQTL/GWAS coloc.: Same direction of effect (beta)
+type bigInteract
+visibility pack
+compositeTrack on
+
+    track Ammonshorn_GTExgebrainhippocampus_beta_same_sign
+    bigDataUrl Ammonshorn_GTExgebrainhippocampus_beta_same_sign.bigInteract
+    shortLabel Coloc. between Ammon's horn and GTEx_ge_brain_hippocampus with opposite effect direction (beta)
+    longLabel Ammon's horn GTEx_ge_brain_hippocampus beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_same_sign
+    bigDataUrl C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_same_sign.bigInteract
+    shortLabel Coloc. between C1 segment of cervical spinal cord and GTEx_ge_brain_spinal_cord with opposite effect direction (beta)
+    longLabel C1 segment of cervical spinal cord GTEx_ge_brain_spinal_cord beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track HLC_PhLiPSgeHLC_beta_same_sign
+    bigDataUrl HLC_PhLiPSgeHLC_beta_same_sign.bigInteract
+    shortLabel Coloc. between HLC and PhLiPS_ge_HLC with opposite effect direction (beta)
+    longLabel HLC PhLiPS_ge_HLC beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track Peyerspatch_GTExgesmallintestine_beta_same_sign
+    bigDataUrl Peyerspatch_GTExgesmallintestine_beta_same_sign.bigInteract
+    shortLabel Coloc. between Peyer's patch and GTEx_ge_small_intestine with opposite effect direction (beta)
+    longLabel Peyer's patch GTEx_ge_small_intestine beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track adiposetissue_FUSIONgeadiposenaive_beta_same_sign
+    bigDataUrl adiposetissue_FUSIONgeadiposenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and FUSION_ge_adipose_naive with opposite effect direction (beta)
+    longLabel adipose tissue FUSION_ge_adipose_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track adiposetissue_GTExgeadiposesubcutaneous_beta_same_sign
+    bigDataUrl adiposetissue_GTExgeadiposesubcutaneous_beta_same_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and GTEx_ge_adipose_subcutaneous with opposite effect direction (beta)
+    longLabel adipose tissue GTEx_ge_adipose_subcutaneous beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track adiposetissue_TwinsUKgefat_beta_same_sign
+    bigDataUrl adiposetissue_TwinsUKgefat_beta_same_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and TwinsUK_ge_fat with opposite effect direction (beta)
+    longLabel adipose tissue TwinsUK_ge_fat beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track adrenalgland_GTExgeadrenalgland_beta_same_sign
+    bigDataUrl adrenalgland_GTExgeadrenalgland_beta_same_sign.bigInteract
+    shortLabel Coloc. between adrenal gland and GTEx_ge_adrenal_gland with opposite effect direction (beta)
+    longLabel adrenal gland GTEx_ge_adrenal_gland beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track amygdala_GTExgebrainamygdala_beta_same_sign
+    bigDataUrl amygdala_GTExgebrainamygdala_beta_same_sign.bigInteract
+    shortLabel Coloc. between amygdala and GTEx_ge_brain_amygdala with opposite effect direction (beta)
+    longLabel amygdala GTEx_ge_brain_amygdala beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex_beta_same_sign
+    bigDataUrl anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex_beta_same_sign.bigInteract
+    shortLabel Coloc. between anterior cingulate cortex and GTEx_ge_brain_anterior_cingulate_cortex with opposite effect direction (beta)
+    longLabel anterior cingulate cortex GTEx_ge_brain_anterior_cingulate_cortex beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track anteriorlingualgland_GTExgeminorsalivarygland_beta_same_sign
+    bigDataUrl anteriorlingualgland_GTExgeminorsalivarygland_beta_same_sign.bigInteract
+    shortLabel Coloc. between anterior lingual gland and GTEx_ge_minor_salivary_gland with opposite effect direction (beta)
+    longLabel anterior lingual gland GTEx_ge_minor_salivary_gland beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track ascendingaorta_GTExgearteryaorta_beta_same_sign
+    bigDataUrl ascendingaorta_GTExgearteryaorta_beta_same_sign.bigInteract
+    shortLabel Coloc. between ascending aorta and GTEx_ge_artery_aorta with opposite effect direction (beta)
+    longLabel ascending aorta GTEx_ge_artery_aorta beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track blood_GTExgeblood_beta_same_sign
+    bigDataUrl blood_GTExgeblood_beta_same_sign.bigInteract
+    shortLabel Coloc. between blood and GTEx_ge_blood with opposite effect direction (beta)
+    longLabel blood GTEx_ge_blood beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track blood_Lepik2017geblood_beta_same_sign
+    bigDataUrl blood_Lepik2017geblood_beta_same_sign.bigInteract
+    shortLabel Coloc. between blood and Lepik_2017_ge_blood with opposite effect direction (beta)
+    longLabel blood Lepik_2017_ge_blood beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track blood_TwinsUKgeblood_beta_same_sign
+    bigDataUrl blood_TwinsUKgeblood_beta_same_sign.bigInteract
+    shortLabel Coloc. between blood and TwinsUK_ge_blood with opposite effect direction (beta)
+    longLabel blood TwinsUK_ge_blood beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track bodyofpancreas_GTExgepancreas_beta_same_sign
+    bigDataUrl bodyofpancreas_GTExgepancreas_beta_same_sign.bigInteract
+    shortLabel Coloc. between body of pancreas and GTEx_ge_pancreas with opposite effect direction (beta)
+    longLabel body of pancreas GTEx_ge_pancreas beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track breastepithelium_GTExgebreast_beta_same_sign
+    bigDataUrl breastepithelium_GTExgebreast_beta_same_sign.bigInteract
+    shortLabel Coloc. between breast epithelium and GTEx_ge_breast with opposite effect direction (beta)
+    longLabel breast epithelium GTEx_ge_breast beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track cartilagetissue_Steinberg2020gelowgradecartilagenaive_beta_same_sign
+    bigDataUrl cartilagetissue_Steinberg2020gelowgradecartilagenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between cartilage tissue and Steinberg_2020_ge_low_grade_cartilage_naive with opposite effect direction (beta)
+    longLabel cartilage tissue Steinberg_2020_ge_low_grade_cartilage_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track cartilagetissue_Steinberg2020gehighgradecartilagenaive_beta_same_sign
+    bigDataUrl cartilagetissue_Steinberg2020gehighgradecartilagenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between cartilage tissue and Steinberg_2020_ge_high_grade_cartilage_naive with opposite effect direction (beta)
+    longLabel cartilage tissue Steinberg_2020_ge_high_grade_cartilage_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track caudatenucleus_GTExgebraincaudate_beta_same_sign
+    bigDataUrl caudatenucleus_GTExgebraincaudate_beta_same_sign.bigInteract
+    shortLabel Coloc. between caudate nucleus and GTEx_ge_brain_caudate with opposite effect direction (beta)
+    longLabel caudate nucleus GTEx_ge_brain_caudate beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track cerebellum_GTExgebraincerebellarhemisphere_beta_same_sign
+    bigDataUrl cerebellum_GTExgebraincerebellarhemisphere_beta_same_sign.bigInteract
+    shortLabel Coloc. between cerebellum and GTEx_ge_brain_cerebellar_hemisphere with opposite effect direction (beta)
+    longLabel cerebellum GTEx_ge_brain_cerebellar_hemisphere beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track cerebellum_GTExgebraincerebellum_beta_same_sign
+    bigDataUrl cerebellum_GTExgebraincerebellum_beta_same_sign.bigInteract
+    shortLabel Coloc. between cerebellum and GTEx_ge_brain_cerebellum with opposite effect direction (beta)
+    longLabel cerebellum GTEx_ge_brain_cerebellum beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track coronaryartery_GTExgearterycoronary_beta_same_sign
+    bigDataUrl coronaryartery_GTExgearterycoronary_beta_same_sign.bigInteract
+    shortLabel Coloc. between coronary artery and GTEx_ge_artery_coronary with opposite effect direction (beta)
+    longLabel coronary artery GTEx_ge_artery_coronary beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track cortexofkidney_GTExgekidneycortex_beta_same_sign
+    bigDataUrl cortexofkidney_GTExgekidneycortex_beta_same_sign.bigInteract
+    shortLabel Coloc. between cortex of kidney and GTEx_ge_kidney_cortex with opposite effect direction (beta)
+    longLabel cortex of kidney GTEx_ge_kidney_cortex beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_BrainSeqgebrain_beta_same_sign
+    bigDataUrl dorsolateralprefrontalcortex_BrainSeqgebrain_beta_same_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and BrainSeq_ge_brain with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex BrainSeq_ge_brain beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive_beta_same_sign
+    bigDataUrl dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and CommonMind_ge_DLPFC_naive with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex CommonMind_ge_DLPFC_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_GTExgebrainfrontalcortex_beta_same_sign
+    bigDataUrl dorsolateralprefrontalcortex_GTExgebrainfrontalcortex_beta_same_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and GTEx_ge_brain_frontal_cortex with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex GTEx_ge_brain_frontal_cortex beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_ROSMAPgebrainnaive_beta_same_sign
+    bigDataUrl dorsolateralprefrontalcortex_ROSMAPgebrainnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and ROSMAP_ge_brain_naive with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex ROSMAP_ge_brain_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track esophagusmuscularismucosa_GTExgeesophagusmuscularis_beta_same_sign
+    bigDataUrl esophagusmuscularismucosa_GTExgeesophagusmuscularis_beta_same_sign.bigInteract
+    shortLabel Coloc. between esophagus muscularis mucosa and GTEx_ge_esophagus_muscularis with opposite effect direction (beta)
+    longLabel esophagus muscularis mucosa GTEx_ge_esophagus_muscularis beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track esophagussquamousepithelium_GTExgeesophagusmucosa_beta_same_sign
+    bigDataUrl esophagussquamousepithelium_GTExgeesophagusmucosa_beta_same_sign.bigInteract
+    shortLabel Coloc. between esophagus squamous epithelium and GTEx_ge_esophagus_mucosa with opposite effect direction (beta)
+    longLabel esophagus squamous epithelium GTEx_ge_esophagus_mucosa beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track femalegonad_GTExgeovary_beta_same_sign
+    bigDataUrl femalegonad_GTExgeovary_beta_same_sign.bigInteract
+    shortLabel Coloc. between female gonad and GTEx_ge_ovary with opposite effect direction (beta)
+    longLabel female gonad GTEx_ge_ovary beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track fibroblast_GENCORDgefibroblast_beta_same_sign
+    bigDataUrl fibroblast_GENCORDgefibroblast_beta_same_sign.bigInteract
+    shortLabel Coloc. between fibroblast and GENCORD_ge_fibroblast with opposite effect direction (beta)
+    longLabel fibroblast GENCORD_ge_fibroblast beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track fibroblast_GTExgefibroblast_beta_same_sign
+    bigDataUrl fibroblast_GTExgefibroblast_beta_same_sign.bigInteract
+    shortLabel Coloc. between fibroblast and GTEx_ge_fibroblast with opposite effect direction (beta)
+    longLabel fibroblast GTEx_ge_fibroblast beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track frontalcortex_GTExgebraincortex_beta_same_sign
+    bigDataUrl frontalcortex_GTExgebraincortex_beta_same_sign.bigInteract
+    shortLabel Coloc. between frontal cortex and GTEx_ge_brain_cortex with opposite effect direction (beta)
+    longLabel frontal cortex GTEx_ge_brain_cortex beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track gastroesophagealsphincter_GTExgeesophagusgej_beta_same_sign
+    bigDataUrl gastroesophagealsphincter_GTExgeesophagusgej_beta_same_sign.bigInteract
+    shortLabel Coloc. between gastroesophageal sphincter and GTEx_ge_esophagus_gej with opposite effect direction (beta)
+    longLabel gastroesophageal sphincter GTEx_ge_esophagus_gej beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track hypothalamus_GTExgebrainhypothalamus_beta_same_sign
+    bigDataUrl hypothalamus_GTExgebrainhypothalamus_beta_same_sign.bigInteract
+    shortLabel Coloc. between hypothalamus and GTEx_ge_brain_hypothalamus with opposite effect direction (beta)
+    longLabel hypothalamus GTEx_ge_brain_hypothalamus beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track ileum_CEDARmicroarrayileum_beta_same_sign
+    bigDataUrl ileum_CEDARmicroarrayileum_beta_same_sign.bigInteract
+    shortLabel Coloc. between ileum and CEDAR_microarray_ileum with opposite effect direction (beta)
+    longLabel ileum CEDAR_microarray_ileum beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_HipScigeiPSC_beta_same_sign
+    bigDataUrl inducedpluripotentstemcell_HipScigeiPSC_beta_same_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and HipSci_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell HipSci_ge_iPSC beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_PhLiPSgeiPSC_beta_same_sign
+    bigDataUrl inducedpluripotentstemcell_PhLiPSgeiPSC_beta_same_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and PhLiPS_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell PhLiPS_ge_iPSC beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_iPSCOREgeiPSC_beta_same_sign
+    bigDataUrl inducedpluripotentstemcell_iPSCOREgeiPSC_beta_same_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and iPSCORE_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell iPSCORE_ge_iPSC beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track isletofLangerhans_vandeBunt2015gepancreaticislet_beta_same_sign
+    bigDataUrl isletofLangerhans_vandeBunt2015gepancreaticislet_beta_same_sign.bigInteract
+    shortLabel Coloc. between islet of Langerhans and van_de_Bunt_2015_ge_pancreatic_islet with opposite effect direction (beta)
+    longLabel islet of Langerhans van_de_Bunt_2015_ge_pancreatic_islet beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track layerofsynovialtissue_Steinberg2020gesynoviumnaive_beta_same_sign
+    bigDataUrl layerofsynovialtissue_Steinberg2020gesynoviumnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between layer of synovial tissue and Steinberg_2020_ge_synovium_naive with opposite effect direction (beta)
+    longLabel layer of synovial tissue Steinberg_2020_ge_synovium_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track leftventriclemyocardium_GTExgeheartleftventricle_beta_same_sign
+    bigDataUrl leftventriclemyocardium_GTExgeheartleftventricle_beta_same_sign.bigInteract
+    shortLabel Coloc. between left ventricle myocardium and GTEx_ge_heart_left_ventricle with opposite effect direction (beta)
+    longLabel left ventricle myocardium GTEx_ge_heart_left_ventricle beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track microglialcell_Young2019gemicroglianaive_beta_same_sign
+    bigDataUrl microglialcell_Young2019gemicroglianaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between microglial cell and Young_2019_ge_microglia_naive with opposite effect direction (beta)
+    longLabel microglial cell Young_2019_ge_microglia_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track nucleusaccumbens_GTExgebrainnucleusaccumbens_beta_same_sign
+    bigDataUrl nucleusaccumbens_GTExgebrainnucleusaccumbens_beta_same_sign.bigInteract
+    shortLabel Coloc. between nucleus accumbens and GTEx_ge_brain_nucleus_accumbens with opposite effect direction (beta)
+    longLabel nucleus accumbens GTEx_ge_brain_nucleus_accumbens beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track omentalfatpad_GTExgeadiposevisceral_beta_same_sign
+    bigDataUrl omentalfatpad_GTExgeadiposevisceral_beta_same_sign.bigInteract
+    shortLabel Coloc. between omental fat pad and GTEx_ge_adipose_visceral with opposite effect direction (beta)
+    longLabel omental fat pad GTEx_ge_adipose_visceral beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track pituitarygland_GTExgepituitary_beta_same_sign
+    bigDataUrl pituitarygland_GTExgepituitary_beta_same_sign.bigInteract
+    shortLabel Coloc. between pituitary gland and GTEx_ge_pituitary with opposite effect direction (beta)
+    longLabel pituitary gland GTEx_ge_pituitary beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track placenta_Peng2018geplacentanaive_beta_same_sign
+    bigDataUrl placenta_Peng2018geplacentanaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between placenta and Peng_2018_ge_placenta_naive with opposite effect direction (beta)
+    longLabel placenta Peng_2018_ge_placenta_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track platelet_CEDARmicroarrayplatelet_beta_same_sign
+    bigDataUrl platelet_CEDARmicroarrayplatelet_beta_same_sign.bigInteract
+    shortLabel Coloc. between platelet and CEDAR_microarray_platelet with opposite effect direction (beta)
+    longLabel platelet CEDAR_microarray_platelet beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track prostategland_GTExgeprostate_beta_same_sign
+    bigDataUrl prostategland_GTExgeprostate_beta_same_sign.bigInteract
+    shortLabel Coloc. between prostate gland and GTEx_ge_prostate with opposite effect direction (beta)
+    longLabel prostate gland GTEx_ge_prostate beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track putamen_Braineac2geputamen_beta_same_sign
+    bigDataUrl putamen_Braineac2geputamen_beta_same_sign.bigInteract
+    shortLabel Coloc. between putamen and Braineac2_ge_putamen with opposite effect direction (beta)
+    longLabel putamen Braineac2_ge_putamen beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track putamen_GTExgebrainputamen_beta_same_sign
+    bigDataUrl putamen_GTExgebrainputamen_beta_same_sign.bigInteract
+    shortLabel Coloc. between putamen and GTEx_ge_brain_putamen with opposite effect direction (beta)
+    longLabel putamen GTEx_ge_brain_putamen beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track rectum_CEDARmicroarrayrectum_beta_same_sign
+    bigDataUrl rectum_CEDARmicroarrayrectum_beta_same_sign.bigInteract
+    shortLabel Coloc. between rectum and CEDAR_microarray_rectum with opposite effect direction (beta)
+    longLabel rectum CEDAR_microarray_rectum beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track rightatriumauricularregion_GTExgeheartatrialappendage_beta_same_sign
+    bigDataUrl rightatriumauricularregion_GTExgeheartatrialappendage_beta_same_sign.bigInteract
+    shortLabel Coloc. between right atrium auricular region and GTEx_ge_heart_atrial_appendage with opposite effect direction (beta)
+    longLabel right atrium auricular region GTEx_ge_heart_atrial_appendage beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track rightlobeofliver_GTExgeliver_beta_same_sign
+    bigDataUrl rightlobeofliver_GTExgeliver_beta_same_sign.bigInteract
+    shortLabel Coloc. between right lobe of liver and GTEx_ge_liver with opposite effect direction (beta)
+    longLabel right lobe of liver GTEx_ge_liver beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track sensoryneuron_Schwartzentruber2018gesensoryneuron_beta_same_sign
+    bigDataUrl sensoryneuron_Schwartzentruber2018gesensoryneuron_beta_same_sign.bigInteract
+    shortLabel Coloc. between sensory neuron and Schwartzentruber_2018_ge_sensory_neuron with opposite effect direction (beta)
+    longLabel sensory neuron Schwartzentruber_2018_ge_sensory_neuron beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track sigmoidcolon_GTExgecolonsigmoid_beta_same_sign
+    bigDataUrl sigmoidcolon_GTExgecolonsigmoid_beta_same_sign.bigInteract
+    shortLabel Coloc. between sigmoid colon and GTEx_ge_colon_sigmoid with opposite effect direction (beta)
+    longLabel sigmoid colon GTEx_ge_colon_sigmoid beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track skeletalmuscletissue_FUSIONgemusclenaive_beta_same_sign
+    bigDataUrl skeletalmuscletissue_FUSIONgemusclenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between skeletal muscle tissue and FUSION_ge_muscle_naive with opposite effect direction (beta)
+    longLabel skeletal muscle tissue FUSION_ge_muscle_naive beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track skeletalmuscletissue_GTExgemuscle_beta_same_sign
+    bigDataUrl skeletalmuscletissue_GTExgemuscle_beta_same_sign.bigInteract
+    shortLabel Coloc. between skeletal muscle tissue and GTEx_ge_muscle with opposite effect direction (beta)
+    longLabel skeletal muscle tissue GTEx_ge_muscle beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track skinofbody_GTExgeskinsunexposed_beta_same_sign
+    bigDataUrl skinofbody_GTExgeskinsunexposed_beta_same_sign.bigInteract
+    shortLabel Coloc. between skin of body and GTEx_ge_skin_sun_exposed with opposite effect direction (beta)
+    longLabel skin of body GTEx_ge_skin_sun_exposed beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track skinofbody_TwinsUKgeskin_beta_same_sign
+    bigDataUrl skinofbody_TwinsUKgeskin_beta_same_sign.bigInteract
+    shortLabel Coloc. between skin of body and TwinsUK_ge_skin with opposite effect direction (beta)
+    longLabel skin of body TwinsUK_ge_skin beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track stomach_GTExgestomach_beta_same_sign
+    bigDataUrl stomach_GTExgestomach_beta_same_sign.bigInteract
+    shortLabel Coloc. between stomach and GTEx_ge_stomach with opposite effect direction (beta)
+    longLabel stomach GTEx_ge_stomach beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track substantianigra_GTExgebrainsubstantianigra_beta_same_sign
+    bigDataUrl substantianigra_GTExgebrainsubstantianigra_beta_same_sign.bigInteract
+    shortLabel Coloc. between substantia nigra and GTEx_ge_brain_substantia_nigra with opposite effect direction (beta)
+    longLabel substantia nigra GTEx_ge_brain_substantia_nigra beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track substantianigra_Braineac2gesubstantianigra_beta_same_sign
+    bigDataUrl substantianigra_Braineac2gesubstantianigra_beta_same_sign.bigInteract
+    shortLabel Coloc. between substantia_nigra and Braineac2_ge_substantia_nigra with opposite effect direction (beta)
+    longLabel substantia_nigra Braineac2_ge_substantia_nigra beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track suprapubicskin_GTExgeskinnotsunexposed_beta_same_sign
+    bigDataUrl suprapubicskin_GTExgeskinnotsunexposed_beta_same_sign.bigInteract
+    shortLabel Coloc. between suprapubic skin and GTEx_ge_skin_not_sun_exposed with opposite effect direction (beta)
+    longLabel suprapubic skin GTEx_ge_skin_not_sun_exposed beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track testis_GTExgetestis_beta_same_sign
+    bigDataUrl testis_GTExgetestis_beta_same_sign.bigInteract
+    shortLabel Coloc. between testis and GTEx_ge_testis with opposite effect direction (beta)
+    longLabel testis GTEx_ge_testis beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track thyroidgland_GTExgethyroid_beta_same_sign
+    bigDataUrl thyroidgland_GTExgethyroid_beta_same_sign.bigInteract
+    shortLabel Coloc. between thyroid gland and GTEx_ge_thyroid with opposite effect direction (beta)
+    longLabel thyroid gland GTEx_ge_thyroid beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track tibialartery_GTExgearterytibial_beta_same_sign
+    bigDataUrl tibialartery_GTExgearterytibial_beta_same_sign.bigInteract
+    shortLabel Coloc. between tibial artery and GTEx_ge_artery_tibial with opposite effect direction (beta)
+    longLabel tibial artery GTEx_ge_artery_tibial beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track tibialnerve_GTExgenervetibial_beta_same_sign
+    bigDataUrl tibialnerve_GTExgenervetibial_beta_same_sign.bigInteract
+    shortLabel Coloc. between tibial nerve and GTEx_ge_nerve_tibial with opposite effect direction (beta)
+    longLabel tibial nerve GTEx_ge_nerve_tibial beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track transversecolon_CEDARmicroarraytransversecolon_beta_same_sign
+    bigDataUrl transversecolon_CEDARmicroarraytransversecolon_beta_same_sign.bigInteract
+    shortLabel Coloc. between transverse colon and CEDAR_microarray_transverse_colon with opposite effect direction (beta)
+    longLabel transverse colon CEDAR_microarray_transverse_colon beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track transversecolon_GTExgecolontransverse_beta_same_sign
+    bigDataUrl transversecolon_GTExgecolontransverse_beta_same_sign.bigInteract
+    shortLabel Coloc. between transverse colon and GTEx_ge_colon_transverse with opposite effect direction (beta)
+    longLabel transverse colon GTEx_ge_colon_transverse beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track upperlobeofleftlung_GTExgelung_beta_same_sign
+    bigDataUrl upperlobeofleftlung_GTExgelung_beta_same_sign.bigInteract
+    shortLabel Coloc. between upper lobe of left lung and GTEx_ge_lung with opposite effect direction (beta)
+    longLabel upper lobe of left lung GTEx_ge_lung beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track uterus_GTExgeuterus_beta_same_sign
+    bigDataUrl uterus_GTExgeuterus_beta_same_sign.bigInteract
+    shortLabel Coloc. between uterus and GTEx_ge_uterus with opposite effect direction (beta)
+    longLabel uterus GTEx_ge_uterus beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+    track vagina_GTExgevagina_beta_same_sign
+    bigDataUrl vagina_GTExgevagina_beta_same_sign.bigInteract
+    shortLabel Coloc. between vagina and GTEx_ge_vagina with opposite effect direction (beta)
+    longLabel vagina GTEx_ge_vagina beta_same_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_same_sign
+    visibility pack
+
+track gwas2eqtl_beta_different_sign
+shortLabel eQTL/GWAS coloc.: Opposition direction of effect (beta)
+longLabel eQTL/GWAS coloc.: Opposition direction of effect (beta)
+type bigInteract
+visibility pack
+compositeTrack on
+
+    track Ammonshorn_GTExgebrainhippocampus_beta_different_sign
+    bigDataUrl Ammonshorn_GTExgebrainhippocampus_beta_different_sign.bigInteract
+    shortLabel Coloc. between Ammon's horn and GTEx_ge_brain_hippocampus with opposite effect direction (beta)
+    longLabel Ammon's horn GTEx_ge_brain_hippocampus beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_different_sign
+    bigDataUrl C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_different_sign.bigInteract
+    shortLabel Coloc. between C1 segment of cervical spinal cord and GTEx_ge_brain_spinal_cord with opposite effect direction (beta)
+    longLabel C1 segment of cervical spinal cord GTEx_ge_brain_spinal_cord beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track HLC_PhLiPSgeHLC_beta_different_sign
+    bigDataUrl HLC_PhLiPSgeHLC_beta_different_sign.bigInteract
+    shortLabel Coloc. between HLC and PhLiPS_ge_HLC with opposite effect direction (beta)
+    longLabel HLC PhLiPS_ge_HLC beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track Peyerspatch_GTExgesmallintestine_beta_different_sign
+    bigDataUrl Peyerspatch_GTExgesmallintestine_beta_different_sign.bigInteract
+    shortLabel Coloc. between Peyer's patch and GTEx_ge_small_intestine with opposite effect direction (beta)
+    longLabel Peyer's patch GTEx_ge_small_intestine beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track adiposetissue_FUSIONgeadiposenaive_beta_different_sign
+    bigDataUrl adiposetissue_FUSIONgeadiposenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and FUSION_ge_adipose_naive with opposite effect direction (beta)
+    longLabel adipose tissue FUSION_ge_adipose_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track adiposetissue_GTExgeadiposesubcutaneous_beta_different_sign
+    bigDataUrl adiposetissue_GTExgeadiposesubcutaneous_beta_different_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and GTEx_ge_adipose_subcutaneous with opposite effect direction (beta)
+    longLabel adipose tissue GTEx_ge_adipose_subcutaneous beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track adiposetissue_TwinsUKgefat_beta_different_sign
+    bigDataUrl adiposetissue_TwinsUKgefat_beta_different_sign.bigInteract
+    shortLabel Coloc. between adipose tissue and TwinsUK_ge_fat with opposite effect direction (beta)
+    longLabel adipose tissue TwinsUK_ge_fat beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track adrenalgland_GTExgeadrenalgland_beta_different_sign
+    bigDataUrl adrenalgland_GTExgeadrenalgland_beta_different_sign.bigInteract
+    shortLabel Coloc. between adrenal gland and GTEx_ge_adrenal_gland with opposite effect direction (beta)
+    longLabel adrenal gland GTEx_ge_adrenal_gland beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track amygdala_GTExgebrainamygdala_beta_different_sign
+    bigDataUrl amygdala_GTExgebrainamygdala_beta_different_sign.bigInteract
+    shortLabel Coloc. between amygdala and GTEx_ge_brain_amygdala with opposite effect direction (beta)
+    longLabel amygdala GTEx_ge_brain_amygdala beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex_beta_different_sign
+    bigDataUrl anteriorcingulatecortex_GTExgebrainanteriorcingulatecortex_beta_different_sign.bigInteract
+    shortLabel Coloc. between anterior cingulate cortex and GTEx_ge_brain_anterior_cingulate_cortex with opposite effect direction (beta)
+    longLabel anterior cingulate cortex GTEx_ge_brain_anterior_cingulate_cortex beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track anteriorlingualgland_GTExgeminorsalivarygland_beta_different_sign
+    bigDataUrl anteriorlingualgland_GTExgeminorsalivarygland_beta_different_sign.bigInteract
+    shortLabel Coloc. between anterior lingual gland and GTEx_ge_minor_salivary_gland with opposite effect direction (beta)
+    longLabel anterior lingual gland GTEx_ge_minor_salivary_gland beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track ascendingaorta_GTExgearteryaorta_beta_different_sign
+    bigDataUrl ascendingaorta_GTExgearteryaorta_beta_different_sign.bigInteract
+    shortLabel Coloc. between ascending aorta and GTEx_ge_artery_aorta with opposite effect direction (beta)
+    longLabel ascending aorta GTEx_ge_artery_aorta beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track blood_GTExgeblood_beta_different_sign
+    bigDataUrl blood_GTExgeblood_beta_different_sign.bigInteract
+    shortLabel Coloc. between blood and GTEx_ge_blood with opposite effect direction (beta)
+    longLabel blood GTEx_ge_blood beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track blood_Lepik2017geblood_beta_different_sign
+    bigDataUrl blood_Lepik2017geblood_beta_different_sign.bigInteract
+    shortLabel Coloc. between blood and Lepik_2017_ge_blood with opposite effect direction (beta)
+    longLabel blood Lepik_2017_ge_blood beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track blood_TwinsUKgeblood_beta_different_sign
+    bigDataUrl blood_TwinsUKgeblood_beta_different_sign.bigInteract
+    shortLabel Coloc. between blood and TwinsUK_ge_blood with opposite effect direction (beta)
+    longLabel blood TwinsUK_ge_blood beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track bodyofpancreas_GTExgepancreas_beta_different_sign
+    bigDataUrl bodyofpancreas_GTExgepancreas_beta_different_sign.bigInteract
+    shortLabel Coloc. between body of pancreas and GTEx_ge_pancreas with opposite effect direction (beta)
+    longLabel body of pancreas GTEx_ge_pancreas beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track breastepithelium_GTExgebreast_beta_different_sign
+    bigDataUrl breastepithelium_GTExgebreast_beta_different_sign.bigInteract
+    shortLabel Coloc. between breast epithelium and GTEx_ge_breast with opposite effect direction (beta)
+    longLabel breast epithelium GTEx_ge_breast beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track cartilagetissue_Steinberg2020gelowgradecartilagenaive_beta_different_sign
+    bigDataUrl cartilagetissue_Steinberg2020gelowgradecartilagenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between cartilage tissue and Steinberg_2020_ge_low_grade_cartilage_naive with opposite effect direction (beta)
+    longLabel cartilage tissue Steinberg_2020_ge_low_grade_cartilage_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track cartilagetissue_Steinberg2020gehighgradecartilagenaive_beta_different_sign
+    bigDataUrl cartilagetissue_Steinberg2020gehighgradecartilagenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between cartilage tissue and Steinberg_2020_ge_high_grade_cartilage_naive with opposite effect direction (beta)
+    longLabel cartilage tissue Steinberg_2020_ge_high_grade_cartilage_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track caudatenucleus_GTExgebraincaudate_beta_different_sign
+    bigDataUrl caudatenucleus_GTExgebraincaudate_beta_different_sign.bigInteract
+    shortLabel Coloc. between caudate nucleus and GTEx_ge_brain_caudate with opposite effect direction (beta)
+    longLabel caudate nucleus GTEx_ge_brain_caudate beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track cerebellum_GTExgebraincerebellarhemisphere_beta_different_sign
+    bigDataUrl cerebellum_GTExgebraincerebellarhemisphere_beta_different_sign.bigInteract
+    shortLabel Coloc. between cerebellum and GTEx_ge_brain_cerebellar_hemisphere with opposite effect direction (beta)
+    longLabel cerebellum GTEx_ge_brain_cerebellar_hemisphere beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track cerebellum_GTExgebraincerebellum_beta_different_sign
+    bigDataUrl cerebellum_GTExgebraincerebellum_beta_different_sign.bigInteract
+    shortLabel Coloc. between cerebellum and GTEx_ge_brain_cerebellum with opposite effect direction (beta)
+    longLabel cerebellum GTEx_ge_brain_cerebellum beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track coronaryartery_GTExgearterycoronary_beta_different_sign
+    bigDataUrl coronaryartery_GTExgearterycoronary_beta_different_sign.bigInteract
+    shortLabel Coloc. between coronary artery and GTEx_ge_artery_coronary with opposite effect direction (beta)
+    longLabel coronary artery GTEx_ge_artery_coronary beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track cortexofkidney_GTExgekidneycortex_beta_different_sign
+    bigDataUrl cortexofkidney_GTExgekidneycortex_beta_different_sign.bigInteract
+    shortLabel Coloc. between cortex of kidney and GTEx_ge_kidney_cortex with opposite effect direction (beta)
+    longLabel cortex of kidney GTEx_ge_kidney_cortex beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_BrainSeqgebrain_beta_different_sign
+    bigDataUrl dorsolateralprefrontalcortex_BrainSeqgebrain_beta_different_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and BrainSeq_ge_brain with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex BrainSeq_ge_brain beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive_beta_different_sign
+    bigDataUrl dorsolateralprefrontalcortex_CommonMindgeDLPFCnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and CommonMind_ge_DLPFC_naive with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex CommonMind_ge_DLPFC_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_GTExgebrainfrontalcortex_beta_different_sign
+    bigDataUrl dorsolateralprefrontalcortex_GTExgebrainfrontalcortex_beta_different_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and GTEx_ge_brain_frontal_cortex with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex GTEx_ge_brain_frontal_cortex beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track dorsolateralprefrontalcortex_ROSMAPgebrainnaive_beta_different_sign
+    bigDataUrl dorsolateralprefrontalcortex_ROSMAPgebrainnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between dorsolateral prefrontal cortex and ROSMAP_ge_brain_naive with opposite effect direction (beta)
+    longLabel dorsolateral prefrontal cortex ROSMAP_ge_brain_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track esophagusmuscularismucosa_GTExgeesophagusmuscularis_beta_different_sign
+    bigDataUrl esophagusmuscularismucosa_GTExgeesophagusmuscularis_beta_different_sign.bigInteract
+    shortLabel Coloc. between esophagus muscularis mucosa and GTEx_ge_esophagus_muscularis with opposite effect direction (beta)
+    longLabel esophagus muscularis mucosa GTEx_ge_esophagus_muscularis beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track esophagussquamousepithelium_GTExgeesophagusmucosa_beta_different_sign
+    bigDataUrl esophagussquamousepithelium_GTExgeesophagusmucosa_beta_different_sign.bigInteract
+    shortLabel Coloc. between esophagus squamous epithelium and GTEx_ge_esophagus_mucosa with opposite effect direction (beta)
+    longLabel esophagus squamous epithelium GTEx_ge_esophagus_mucosa beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track femalegonad_GTExgeovary_beta_different_sign
+    bigDataUrl femalegonad_GTExgeovary_beta_different_sign.bigInteract
+    shortLabel Coloc. between female gonad and GTEx_ge_ovary with opposite effect direction (beta)
+    longLabel female gonad GTEx_ge_ovary beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track fibroblast_GENCORDgefibroblast_beta_different_sign
+    bigDataUrl fibroblast_GENCORDgefibroblast_beta_different_sign.bigInteract
+    shortLabel Coloc. between fibroblast and GENCORD_ge_fibroblast with opposite effect direction (beta)
+    longLabel fibroblast GENCORD_ge_fibroblast beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track fibroblast_GTExgefibroblast_beta_different_sign
+    bigDataUrl fibroblast_GTExgefibroblast_beta_different_sign.bigInteract
+    shortLabel Coloc. between fibroblast and GTEx_ge_fibroblast with opposite effect direction (beta)
+    longLabel fibroblast GTEx_ge_fibroblast beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track frontalcortex_GTExgebraincortex_beta_different_sign
+    bigDataUrl frontalcortex_GTExgebraincortex_beta_different_sign.bigInteract
+    shortLabel Coloc. between frontal cortex and GTEx_ge_brain_cortex with opposite effect direction (beta)
+    longLabel frontal cortex GTEx_ge_brain_cortex beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track gastroesophagealsphincter_GTExgeesophagusgej_beta_different_sign
+    bigDataUrl gastroesophagealsphincter_GTExgeesophagusgej_beta_different_sign.bigInteract
+    shortLabel Coloc. between gastroesophageal sphincter and GTEx_ge_esophagus_gej with opposite effect direction (beta)
+    longLabel gastroesophageal sphincter GTEx_ge_esophagus_gej beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track hypothalamus_GTExgebrainhypothalamus_beta_different_sign
+    bigDataUrl hypothalamus_GTExgebrainhypothalamus_beta_different_sign.bigInteract
+    shortLabel Coloc. between hypothalamus and GTEx_ge_brain_hypothalamus with opposite effect direction (beta)
+    longLabel hypothalamus GTEx_ge_brain_hypothalamus beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track ileum_CEDARmicroarrayileum_beta_different_sign
+    bigDataUrl ileum_CEDARmicroarrayileum_beta_different_sign.bigInteract
+    shortLabel Coloc. between ileum and CEDAR_microarray_ileum with opposite effect direction (beta)
+    longLabel ileum CEDAR_microarray_ileum beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_HipScigeiPSC_beta_different_sign
+    bigDataUrl inducedpluripotentstemcell_HipScigeiPSC_beta_different_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and HipSci_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell HipSci_ge_iPSC beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_PhLiPSgeiPSC_beta_different_sign
+    bigDataUrl inducedpluripotentstemcell_PhLiPSgeiPSC_beta_different_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and PhLiPS_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell PhLiPS_ge_iPSC beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track inducedpluripotentstemcell_iPSCOREgeiPSC_beta_different_sign
+    bigDataUrl inducedpluripotentstemcell_iPSCOREgeiPSC_beta_different_sign.bigInteract
+    shortLabel Coloc. between induced pluripotent stem cell and iPSCORE_ge_iPSC with opposite effect direction (beta)
+    longLabel induced pluripotent stem cell iPSCORE_ge_iPSC beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track isletofLangerhans_vandeBunt2015gepancreaticislet_beta_different_sign
+    bigDataUrl isletofLangerhans_vandeBunt2015gepancreaticislet_beta_different_sign.bigInteract
+    shortLabel Coloc. between islet of Langerhans and van_de_Bunt_2015_ge_pancreatic_islet with opposite effect direction (beta)
+    longLabel islet of Langerhans van_de_Bunt_2015_ge_pancreatic_islet beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track layerofsynovialtissue_Steinberg2020gesynoviumnaive_beta_different_sign
+    bigDataUrl layerofsynovialtissue_Steinberg2020gesynoviumnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between layer of synovial tissue and Steinberg_2020_ge_synovium_naive with opposite effect direction (beta)
+    longLabel layer of synovial tissue Steinberg_2020_ge_synovium_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track leftventriclemyocardium_GTExgeheartleftventricle_beta_different_sign
+    bigDataUrl leftventriclemyocardium_GTExgeheartleftventricle_beta_different_sign.bigInteract
+    shortLabel Coloc. between left ventricle myocardium and GTEx_ge_heart_left_ventricle with opposite effect direction (beta)
+    longLabel left ventricle myocardium GTEx_ge_heart_left_ventricle beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track microglialcell_Young2019gemicroglianaive_beta_different_sign
+    bigDataUrl microglialcell_Young2019gemicroglianaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between microglial cell and Young_2019_ge_microglia_naive with opposite effect direction (beta)
+    longLabel microglial cell Young_2019_ge_microglia_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track nucleusaccumbens_GTExgebrainnucleusaccumbens_beta_different_sign
+    bigDataUrl nucleusaccumbens_GTExgebrainnucleusaccumbens_beta_different_sign.bigInteract
+    shortLabel Coloc. between nucleus accumbens and GTEx_ge_brain_nucleus_accumbens with opposite effect direction (beta)
+    longLabel nucleus accumbens GTEx_ge_brain_nucleus_accumbens beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track omentalfatpad_GTExgeadiposevisceral_beta_different_sign
+    bigDataUrl omentalfatpad_GTExgeadiposevisceral_beta_different_sign.bigInteract
+    shortLabel Coloc. between omental fat pad and GTEx_ge_adipose_visceral with opposite effect direction (beta)
+    longLabel omental fat pad GTEx_ge_adipose_visceral beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track pituitarygland_GTExgepituitary_beta_different_sign
+    bigDataUrl pituitarygland_GTExgepituitary_beta_different_sign.bigInteract
+    shortLabel Coloc. between pituitary gland and GTEx_ge_pituitary with opposite effect direction (beta)
+    longLabel pituitary gland GTEx_ge_pituitary beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track placenta_Peng2018geplacentanaive_beta_different_sign
+    bigDataUrl placenta_Peng2018geplacentanaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between placenta and Peng_2018_ge_placenta_naive with opposite effect direction (beta)
+    longLabel placenta Peng_2018_ge_placenta_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track platelet_CEDARmicroarrayplatelet_beta_different_sign
+    bigDataUrl platelet_CEDARmicroarrayplatelet_beta_different_sign.bigInteract
+    shortLabel Coloc. between platelet and CEDAR_microarray_platelet with opposite effect direction (beta)
+    longLabel platelet CEDAR_microarray_platelet beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track prostategland_GTExgeprostate_beta_different_sign
+    bigDataUrl prostategland_GTExgeprostate_beta_different_sign.bigInteract
+    shortLabel Coloc. between prostate gland and GTEx_ge_prostate with opposite effect direction (beta)
+    longLabel prostate gland GTEx_ge_prostate beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track putamen_Braineac2geputamen_beta_different_sign
+    bigDataUrl putamen_Braineac2geputamen_beta_different_sign.bigInteract
+    shortLabel Coloc. between putamen and Braineac2_ge_putamen with opposite effect direction (beta)
+    longLabel putamen Braineac2_ge_putamen beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track putamen_GTExgebrainputamen_beta_different_sign
+    bigDataUrl putamen_GTExgebrainputamen_beta_different_sign.bigInteract
+    shortLabel Coloc. between putamen and GTEx_ge_brain_putamen with opposite effect direction (beta)
+    longLabel putamen GTEx_ge_brain_putamen beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track rectum_CEDARmicroarrayrectum_beta_different_sign
+    bigDataUrl rectum_CEDARmicroarrayrectum_beta_different_sign.bigInteract
+    shortLabel Coloc. between rectum and CEDAR_microarray_rectum with opposite effect direction (beta)
+    longLabel rectum CEDAR_microarray_rectum beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track rightatriumauricularregion_GTExgeheartatrialappendage_beta_different_sign
+    bigDataUrl rightatriumauricularregion_GTExgeheartatrialappendage_beta_different_sign.bigInteract
+    shortLabel Coloc. between right atrium auricular region and GTEx_ge_heart_atrial_appendage with opposite effect direction (beta)
+    longLabel right atrium auricular region GTEx_ge_heart_atrial_appendage beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track rightlobeofliver_GTExgeliver_beta_different_sign
+    bigDataUrl rightlobeofliver_GTExgeliver_beta_different_sign.bigInteract
+    shortLabel Coloc. between right lobe of liver and GTEx_ge_liver with opposite effect direction (beta)
+    longLabel right lobe of liver GTEx_ge_liver beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track sensoryneuron_Schwartzentruber2018gesensoryneuron_beta_different_sign
+    bigDataUrl sensoryneuron_Schwartzentruber2018gesensoryneuron_beta_different_sign.bigInteract
+    shortLabel Coloc. between sensory neuron and Schwartzentruber_2018_ge_sensory_neuron with opposite effect direction (beta)
+    longLabel sensory neuron Schwartzentruber_2018_ge_sensory_neuron beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track sigmoidcolon_GTExgecolonsigmoid_beta_different_sign
+    bigDataUrl sigmoidcolon_GTExgecolonsigmoid_beta_different_sign.bigInteract
+    shortLabel Coloc. between sigmoid colon and GTEx_ge_colon_sigmoid with opposite effect direction (beta)
+    longLabel sigmoid colon GTEx_ge_colon_sigmoid beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track skeletalmuscletissue_FUSIONgemusclenaive_beta_different_sign
+    bigDataUrl skeletalmuscletissue_FUSIONgemusclenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between skeletal muscle tissue and FUSION_ge_muscle_naive with opposite effect direction (beta)
+    longLabel skeletal muscle tissue FUSION_ge_muscle_naive beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track skeletalmuscletissue_GTExgemuscle_beta_different_sign
+    bigDataUrl skeletalmuscletissue_GTExgemuscle_beta_different_sign.bigInteract
+    shortLabel Coloc. between skeletal muscle tissue and GTEx_ge_muscle with opposite effect direction (beta)
+    longLabel skeletal muscle tissue GTEx_ge_muscle beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track skinofbody_GTExgeskinsunexposed_beta_different_sign
+    bigDataUrl skinofbody_GTExgeskinsunexposed_beta_different_sign.bigInteract
+    shortLabel Coloc. between skin of body and GTEx_ge_skin_sun_exposed with opposite effect direction (beta)
+    longLabel skin of body GTEx_ge_skin_sun_exposed beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track skinofbody_TwinsUKgeskin_beta_different_sign
+    bigDataUrl skinofbody_TwinsUKgeskin_beta_different_sign.bigInteract
+    shortLabel Coloc. between skin of body and TwinsUK_ge_skin with opposite effect direction (beta)
+    longLabel skin of body TwinsUK_ge_skin beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track stomach_GTExgestomach_beta_different_sign
+    bigDataUrl stomach_GTExgestomach_beta_different_sign.bigInteract
+    shortLabel Coloc. between stomach and GTEx_ge_stomach with opposite effect direction (beta)
+    longLabel stomach GTEx_ge_stomach beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track substantianigra_GTExgebrainsubstantianigra_beta_different_sign
+    bigDataUrl substantianigra_GTExgebrainsubstantianigra_beta_different_sign.bigInteract
+    shortLabel Coloc. between substantia nigra and GTEx_ge_brain_substantia_nigra with opposite effect direction (beta)
+    longLabel substantia nigra GTEx_ge_brain_substantia_nigra beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track substantianigra_Braineac2gesubstantianigra_beta_different_sign
+    bigDataUrl substantianigra_Braineac2gesubstantianigra_beta_different_sign.bigInteract
+    shortLabel Coloc. between substantia_nigra and Braineac2_ge_substantia_nigra with opposite effect direction (beta)
+    longLabel substantia_nigra Braineac2_ge_substantia_nigra beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track suprapubicskin_GTExgeskinnotsunexposed_beta_different_sign
+    bigDataUrl suprapubicskin_GTExgeskinnotsunexposed_beta_different_sign.bigInteract
+    shortLabel Coloc. between suprapubic skin and GTEx_ge_skin_not_sun_exposed with opposite effect direction (beta)
+    longLabel suprapubic skin GTEx_ge_skin_not_sun_exposed beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track testis_GTExgetestis_beta_different_sign
+    bigDataUrl testis_GTExgetestis_beta_different_sign.bigInteract
+    shortLabel Coloc. between testis and GTEx_ge_testis with opposite effect direction (beta)
+    longLabel testis GTEx_ge_testis beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track thyroidgland_GTExgethyroid_beta_different_sign
+    bigDataUrl thyroidgland_GTExgethyroid_beta_different_sign.bigInteract
+    shortLabel Coloc. between thyroid gland and GTEx_ge_thyroid with opposite effect direction (beta)
+    longLabel thyroid gland GTEx_ge_thyroid beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track tibialartery_GTExgearterytibial_beta_different_sign
+    bigDataUrl tibialartery_GTExgearterytibial_beta_different_sign.bigInteract
+    shortLabel Coloc. between tibial artery and GTEx_ge_artery_tibial with opposite effect direction (beta)
+    longLabel tibial artery GTEx_ge_artery_tibial beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track tibialnerve_GTExgenervetibial_beta_different_sign
+    bigDataUrl tibialnerve_GTExgenervetibial_beta_different_sign.bigInteract
+    shortLabel Coloc. between tibial nerve and GTEx_ge_nerve_tibial with opposite effect direction (beta)
+    longLabel tibial nerve GTEx_ge_nerve_tibial beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track transversecolon_CEDARmicroarraytransversecolon_beta_different_sign
+    bigDataUrl transversecolon_CEDARmicroarraytransversecolon_beta_different_sign.bigInteract
+    shortLabel Coloc. between transverse colon and CEDAR_microarray_transverse_colon with opposite effect direction (beta)
+    longLabel transverse colon CEDAR_microarray_transverse_colon beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track transversecolon_GTExgecolontransverse_beta_different_sign
+    bigDataUrl transversecolon_GTExgecolontransverse_beta_different_sign.bigInteract
+    shortLabel Coloc. between transverse colon and GTEx_ge_colon_transverse with opposite effect direction (beta)
+    longLabel transverse colon GTEx_ge_colon_transverse beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track upperlobeofleftlung_GTExgelung_beta_different_sign
+    bigDataUrl upperlobeofleftlung_GTExgelung_beta_different_sign.bigInteract
+    shortLabel Coloc. between upper lobe of left lung and GTEx_ge_lung with opposite effect direction (beta)
+    longLabel upper lobe of left lung GTEx_ge_lung beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track uterus_GTExgeuterus_beta_different_sign
+    bigDataUrl uterus_GTExgeuterus_beta_different_sign.bigInteract
+    shortLabel Coloc. between uterus and GTEx_ge_uterus with opposite effect direction (beta)
+    longLabel uterus GTEx_ge_uterus beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
+
+    track vagina_GTExgevagina_beta_different_sign
+    bigDataUrl vagina_GTExgevagina_beta_different_sign.bigInteract
+    shortLabel Coloc. between vagina and GTEx_ge_vagina with opposite effect direction (beta)
+    longLabel vagina GTEx_ge_vagina beta_different_sign
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_different_sign
+    visibility pack
