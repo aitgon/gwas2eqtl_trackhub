@@ -1,0 +1,33 @@
+track gwas2eqtl_eqtl_pleio
+shortLabel Pleiotropic eQTLs
+longLabel Pleiotropic eQTLs
+type bigBed
+visibility pack
+compositeTrack on
+
+    track eqtl_pleitropy_1
+    bigDataUrl eqtl_pleitropy_1.bigBed
+    shortLabel eqtl_pleitropy_1
+    longLabel eqtl_pleitropy_1
+    type bigBed 5
+    color 0,0,255
+    parent gwas2eqtl_eqtl_pleio
+    visibility pack
+
+    track eqtl_pleitropy_2
+    bigDataUrl eqtl_pleitropy_2.bigBed
+    shortLabel eqtl_pleitropy_2
+    longLabel eqtl_pleitropy_2
+    type bigBed 5
+    color 0,255,0
+    parent gwas2eqtl_eqtl_pleio
+    visibility pack
+
+    track eqtl_pleitropy_3
+    bigDataUrl eqtl_pleitropy_3.bigBed
+    shortLabel eqtl_pleitropy_3
+    longLabel eqtl_pleitropy_3
+    type bigBed 5
+    color 255,0,0
+    parent gwas2eqtl_eqtl_pleio
+    visibility pack
