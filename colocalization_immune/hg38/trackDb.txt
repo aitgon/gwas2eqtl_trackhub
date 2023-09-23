@@ -1,967 +1,967 @@
-track gwas2eqtl_coloc_immune_beta_equal
-shortLabel gwas2eqtl: beta equal
-longLabel gwas2eqtl: beta equal
+track gwas2eqtl_immune_beta_same_sign
+shortLabel eQTL/GWAS coloc.: Same direction of effect (beta)
+longLabel eQTL/GWAS coloc.: Same direction of effect (beta)
 type bigInteract
 visibility pack
 compositeTrack on
 
-    track Bcell_CEDARmicroarrayBcellCD19_beta_equal
-    bigDataUrl Bcell_CEDARmicroarrayBcellCD19_beta_equal.bigInteract
-    shortLabel B cell_CEDAR_microarray_B-cell_CD19_beta_equal
-    longLabel B cell CEDAR_microarray_B-cell_CD19 beta_equal
+    track Bcell_CEDARmicroarrayBcellCD19_beta_same_sign
+    bigDataUrl Bcell_CEDARmicroarrayBcellCD19_beta_same_sign.bigInteract
+    shortLabel Coloc. between B cell and CEDAR_microarray_B-cell_CD19 with opposite effect direction (beta)
+    longLabel B cell CEDAR_microarray_B-cell_CD19 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Bcell_Fairfax2012microarrayBcellCD19_beta_equal
-    bigDataUrl Bcell_Fairfax2012microarrayBcellCD19_beta_equal.bigInteract
-    shortLabel B cell_Fairfax_2012_microarray_B-cell_CD19_beta_equal
-    longLabel B cell Fairfax_2012_microarray_B-cell_CD19 beta_equal
+    track Bcell_Fairfax2012microarrayBcellCD19_beta_same_sign
+    bigDataUrl Bcell_Fairfax2012microarrayBcellCD19_beta_same_sign.bigInteract
+    shortLabel Coloc. between B cell and Fairfax_2012_microarray_B-cell_CD19 with opposite effect direction (beta)
+    longLabel B cell Fairfax_2012_microarray_B-cell_CD19 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Bcell_Schmiedel2018geBcellnaive_beta_equal
-    bigDataUrl Bcell_Schmiedel2018geBcellnaive_beta_equal.bigInteract
-    shortLabel B cell_Schmiedel_2018_ge_B-cell_naive_beta_equal
-    longLabel B cell Schmiedel_2018_ge_B-cell_naive beta_equal
+    track Bcell_Schmiedel2018geBcellnaive_beta_same_sign
+    bigDataUrl Bcell_Schmiedel2018geBcellnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between B cell and Schmiedel_2018_ge_B-cell_naive with opposite effect direction (beta)
+    longLabel B cell Schmiedel_2018_ge_B-cell_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_equal
-    bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_equal.bigInteract
-    shortLabel CD14-low, CD16-positive monocyte_Schmiedel_2018_ge_monocyte_CD16_naive_beta_equal
-    longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive beta_equal
+    track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_same_sign
+    bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-low, CD16-positive monocyte and Schmiedel_2018_ge_monocyte_CD16_naive with opposite effect direction (beta)
+    longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_BLUEPRINT_SE_ge_monocyte_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and BLUEPRINT_SE_ge_monocyte with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_CEDAR_microarray_monocyte_CD14_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and CEDAR_microarray_monocyte_CD14 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_naive_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_IFN24_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_IFN24 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS2_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_LPS2 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS24_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_LPS24 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_naive_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_LPS_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_LPS with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_Pam3CSK4_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_Pam3CSK4 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_R848_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848 beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_R848 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_IAV_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_IAV with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_equal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_equal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Schmiedel_2018_ge_monocyte_naive_beta_equal
-    longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive beta_equal
+    track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_same_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Schmiedel_2018_ge_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_equal
-    bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_equal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_BLUEPRINT_PE_ge_T-cell_beta_equal
-    longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell beta_equal
+    track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_same_sign
+    bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and BLUEPRINT_PE_ge_T-cell with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_equal
-    bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_equal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD4_beta_equal
-    longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4 beta_equal
+    track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_same_sign
+    bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and CEDAR_microarray_T-cell_CD4 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_equal
-    bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_equal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD4_beta_equal
-    longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4 beta_equal
+    track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_same_sign
+    bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Kasela_2017_microarray_T-cell_CD4 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_equal
-    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_equal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_naive_beta_equal
-    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive beta_equal
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_same_sign
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Schmiedel_2018_ge_CD4_T-cell_naive with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_equal
-    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_equal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28_beta_equal
-    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 beta_equal
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_same_sign
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_equal
-    bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_equal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD8_beta_equal
-    longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8 beta_equal
+    track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_same_sign
+    bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and CEDAR_microarray_T-cell_CD8 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_equal
-    bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_equal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD8_beta_equal
-    longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8 beta_equal
+    track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_same_sign
+    bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Kasela_2017_microarray_T-cell_CD8 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_equal
-    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_equal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_naive_beta_equal
-    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive beta_equal
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_same_sign
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Schmiedel_2018_ge_CD8_T-cell_naive with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_equal
-    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_equal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28_beta_equal
-    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 beta_equal
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_same_sign
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_same_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Tcell_GENCORDgeTcell_beta_equal
-    bigDataUrl Tcell_GENCORDgeTcell_beta_equal.bigInteract
-    shortLabel T cell_GENCORD_ge_T-cell_beta_equal
-    longLabel T cell GENCORD_ge_T-cell beta_equal
+    track Tcell_GENCORDgeTcell_beta_same_sign
+    bigDataUrl Tcell_GENCORDgeTcell_beta_same_sign.bigInteract
+    shortLabel Coloc. between T cell and GENCORD_ge_T-cell with opposite effect direction (beta)
+    longLabel T cell GENCORD_ge_T-cell beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_equal
-    bigDataUrl Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_equal.bigInteract
-    shortLabel T follicular helper cell_Schmiedel_2018_ge_Tfh_memory_beta_equal
-    longLabel T follicular helper cell Schmiedel_2018_ge_Tfh_memory beta_equal
+    track Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_same_sign
+    bigDataUrl Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_same_sign.bigInteract
+    shortLabel Coloc. between T follicular helper cell and Schmiedel_2018_ge_Tfh_memory with opposite effect direction (beta)
+    longLabel T follicular helper cell Schmiedel_2018_ge_Tfh_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Thelper1cell_Schmiedel2018geTh1memory_beta_equal
-    bigDataUrl Thelper1cell_Schmiedel2018geTh1memory_beta_equal.bigInteract
-    shortLabel T-helper 1 cell_Schmiedel_2018_ge_Th1_memory_beta_equal
-    longLabel T-helper 1 cell Schmiedel_2018_ge_Th1_memory beta_equal
+    track Thelper1cell_Schmiedel2018geTh1memory_beta_same_sign
+    bigDataUrl Thelper1cell_Schmiedel2018geTh1memory_beta_same_sign.bigInteract
+    shortLabel Coloc. between T-helper 1 cell and Schmiedel_2018_ge_Th1_memory with opposite effect direction (beta)
+    longLabel T-helper 1 cell Schmiedel_2018_ge_Th1_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Thelper17cell_Schmiedel2018geTh17memory_beta_equal
-    bigDataUrl Thelper17cell_Schmiedel2018geTh17memory_beta_equal.bigInteract
-    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th17_memory_beta_equal
-    longLabel T-helper 17 cell Schmiedel_2018_ge_Th17_memory beta_equal
+    track Thelper17cell_Schmiedel2018geTh17memory_beta_same_sign
+    bigDataUrl Thelper17cell_Schmiedel2018geTh17memory_beta_same_sign.bigInteract
+    shortLabel Coloc. between T-helper 17 cell and Schmiedel_2018_ge_Th17_memory with opposite effect direction (beta)
+    longLabel T-helper 17 cell Schmiedel_2018_ge_Th17_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Thelper17cell_Schmiedel2018geTh117memory_beta_equal
-    bigDataUrl Thelper17cell_Schmiedel2018geTh117memory_beta_equal.bigInteract
-    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th1-17_memory_beta_equal
-    longLabel T-helper 17 cell Schmiedel_2018_ge_Th1-17_memory beta_equal
+    track Thelper17cell_Schmiedel2018geTh117memory_beta_same_sign
+    bigDataUrl Thelper17cell_Schmiedel2018geTh117memory_beta_same_sign.bigInteract
+    shortLabel Coloc. between T-helper 17 cell and Schmiedel_2018_ge_Th1-17_memory with opposite effect direction (beta)
+    longLabel T-helper 17 cell Schmiedel_2018_ge_Th1-17_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track Thelper2cell_Schmiedel2018geTh2memory_beta_equal
-    bigDataUrl Thelper2cell_Schmiedel2018geTh2memory_beta_equal.bigInteract
-    shortLabel T-helper 2 cell_Schmiedel_2018_ge_Th2_memory_beta_equal
-    longLabel T-helper 2 cell Schmiedel_2018_ge_Th2_memory beta_equal
+    track Thelper2cell_Schmiedel2018geTh2memory_beta_same_sign
+    bigDataUrl Thelper2cell_Schmiedel2018geTh2memory_beta_same_sign.bigInteract
+    shortLabel Coloc. between T-helper 2 cell and Schmiedel_2018_ge_Th2_memory with opposite effect direction (beta)
+    longLabel T-helper 2 cell Schmiedel_2018_ge_Th2_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_CAPgeLCLnaive_beta_equal
-    bigDataUrl lymphoblastoidcellline_CAPgeLCLnaive_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_CAP_ge_LCL_naive_beta_equal
-    longLabel lymphoblastoid cell line CAP_ge_LCL_naive beta_equal
+    track lymphoblastoidcellline_CAPgeLCLnaive_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_CAPgeLCLnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and CAP_ge_LCL_naive with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line CAP_ge_LCL_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_CAPgeLCLstatin_beta_equal
-    bigDataUrl lymphoblastoidcellline_CAPgeLCLstatin_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_CAP_ge_LCL_statin_beta_equal
-    longLabel lymphoblastoid cell line CAP_ge_LCL_statin beta_equal
+    track lymphoblastoidcellline_CAPgeLCLstatin_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_CAPgeLCLstatin_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and CAP_ge_LCL_statin with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line CAP_ge_LCL_statin beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_GENCORDgeLCL_beta_equal
-    bigDataUrl lymphoblastoidcellline_GENCORDgeLCL_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_GENCORD_ge_LCL_beta_equal
-    longLabel lymphoblastoid cell line GENCORD_ge_LCL beta_equal
+    track lymphoblastoidcellline_GENCORDgeLCL_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_GENCORDgeLCL_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GENCORD_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GENCORD_ge_LCL beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_GEUVADISgeLCL_beta_equal
-    bigDataUrl lymphoblastoidcellline_GEUVADISgeLCL_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_GEUVADIS_ge_LCL_beta_equal
-    longLabel lymphoblastoid cell line GEUVADIS_ge_LCL beta_equal
+    track lymphoblastoidcellline_GEUVADISgeLCL_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_GEUVADISgeLCL_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GEUVADIS_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GEUVADIS_ge_LCL beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_GTExgeLCL_beta_equal
-    bigDataUrl lymphoblastoidcellline_GTExgeLCL_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_GTEx_ge_LCL_beta_equal
-    longLabel lymphoblastoid cell line GTEx_ge_LCL beta_equal
+    track lymphoblastoidcellline_GTExgeLCL_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_GTExgeLCL_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GTEx_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GTEx_ge_LCL beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track lymphoblastoidcellline_TwinsUKgeLCL_beta_equal
-    bigDataUrl lymphoblastoidcellline_TwinsUKgeLCL_beta_equal.bigInteract
-    shortLabel lymphoblastoid cell line_TwinsUK_ge_LCL_beta_equal
-    longLabel lymphoblastoid cell line TwinsUK_ge_LCL beta_equal
+    track lymphoblastoidcellline_TwinsUKgeLCL_beta_same_sign
+    bigDataUrl lymphoblastoidcellline_TwinsUKgeLCL_beta_same_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and TwinsUK_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line TwinsUK_ge_LCL beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophagenaive_beta_equal
-    bigDataUrl macrophage_Alasoo2018gemacrophagenaive_beta_equal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_naive_beta_equal
-    longLabel macrophage Alasoo_2018_ge_macrophage_naive beta_equal
+    track macrophage_Alasoo2018gemacrophagenaive_beta_same_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophagenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_naive with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageIFNg_beta_equal
-    bigDataUrl macrophage_Alasoo2018gemacrophageIFNg_beta_equal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg_beta_equal
-    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg beta_equal
+    track macrophage_Alasoo2018gemacrophageIFNg_beta_same_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageIFNg_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_IFNg with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageSalmonella_beta_equal
-    bigDataUrl macrophage_Alasoo2018gemacrophageSalmonella_beta_equal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_Salmonella_beta_equal
-    longLabel macrophage Alasoo_2018_ge_macrophage_Salmonella beta_equal
+    track macrophage_Alasoo2018gemacrophageSalmonella_beta_same_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageSalmonella_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_Salmonella with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_Salmonella beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_equal
-    bigDataUrl macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_equal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg+Salmonella_beta_equal
-    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg+Salmonella beta_equal
+    track macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_same_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_IFNg+Salmonella with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg+Salmonella beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophageListeria_beta_equal
-    bigDataUrl macrophage_Nedelec2016gemacrophageListeria_beta_equal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_Listeria_beta_equal
-    longLabel macrophage Nedelec_2016_ge_macrophage_Listeria beta_equal
+    track macrophage_Nedelec2016gemacrophageListeria_beta_same_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophageListeria_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_Listeria with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_Listeria beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophagenaive_beta_equal
-    bigDataUrl macrophage_Nedelec2016gemacrophagenaive_beta_equal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_naive_beta_equal
-    longLabel macrophage Nedelec_2016_ge_macrophage_naive beta_equal
+    track macrophage_Nedelec2016gemacrophagenaive_beta_same_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophagenaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_naive with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophageSalmonella_beta_equal
-    bigDataUrl macrophage_Nedelec2016gemacrophageSalmonella_beta_equal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_Salmonella_beta_equal
-    longLabel macrophage Nedelec_2016_ge_macrophage_Salmonella beta_equal
+    track macrophage_Nedelec2016gemacrophageSalmonella_beta_same_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophageSalmonella_beta_same_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_Salmonella with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_Salmonella beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_equal
-    bigDataUrl memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_equal.bigInteract
-    shortLabel memory regulatory T cell_Schmiedel_2018_ge_Treg_memory_beta_equal
-    longLabel memory regulatory T cell Schmiedel_2018_ge_Treg_memory beta_equal
+    track memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_same_sign
+    bigDataUrl memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_same_sign.bigInteract
+    shortLabel Coloc. between memory regulatory T cell and Schmiedel_2018_ge_Treg_memory with opposite effect direction (beta)
+    longLabel memory regulatory T cell Schmiedel_2018_ge_Treg_memory beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_equal
-    bigDataUrl naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_equal.bigInteract
-    shortLabel naive regulatory T cell_Bossini-Castillo_2019_ge_Treg_naive_beta_equal
-    longLabel naive regulatory T cell Bossini-Castillo_2019_ge_Treg_naive beta_equal
+    track naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_same_sign
+    bigDataUrl naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between naive regulatory T cell and Bossini-Castillo_2019_ge_Treg_naive with opposite effect direction (beta)
+    longLabel naive regulatory T cell Bossini-Castillo_2019_ge_Treg_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_equal
-    bigDataUrl naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_equal.bigInteract
-    shortLabel naive regulatory T cell_Schmiedel_2018_ge_Treg_naive_beta_equal
-    longLabel naive regulatory T cell Schmiedel_2018_ge_Treg_naive beta_equal
+    track naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_same_sign
+    bigDataUrl naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between naive regulatory T cell and Schmiedel_2018_ge_Treg_naive with opposite effect direction (beta)
+    longLabel naive regulatory T cell Schmiedel_2018_ge_Treg_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_equal
-    bigDataUrl naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_equal.bigInteract
-    shortLabel natural killer cell_Gilchrist_2021_microarray_NK-cell_naive_beta_equal
-    longLabel natural killer cell Gilchrist_2021_microarray_NK-cell_naive beta_equal
+    track naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_same_sign
+    bigDataUrl naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between natural killer cell and Gilchrist_2021_microarray_NK-cell_naive with opposite effect direction (beta)
+    longLabel natural killer cell Gilchrist_2021_microarray_NK-cell_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track naturalkillercell_Schmiedel2018geNKcellnaive_beta_equal
-    bigDataUrl naturalkillercell_Schmiedel2018geNKcellnaive_beta_equal.bigInteract
-    shortLabel natural killer cell_Schmiedel_2018_ge_NK-cell_naive_beta_equal
-    longLabel natural killer cell Schmiedel_2018_ge_NK-cell_naive beta_equal
+    track naturalkillercell_Schmiedel2018geNKcellnaive_beta_same_sign
+    bigDataUrl naturalkillercell_Schmiedel2018geNKcellnaive_beta_same_sign.bigInteract
+    shortLabel Coloc. between natural killer cell and Schmiedel_2018_ge_NK-cell_naive with opposite effect direction (beta)
+    longLabel natural killer cell Schmiedel_2018_ge_NK-cell_naive beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track neutrophil_BLUEPRINTSEgeneutrophil_beta_equal
-    bigDataUrl neutrophil_BLUEPRINTSEgeneutrophil_beta_equal.bigInteract
-    shortLabel neutrophil_BLUEPRINT_SE_ge_neutrophil_beta_equal
-    longLabel neutrophil BLUEPRINT_SE_ge_neutrophil beta_equal
+    track neutrophil_BLUEPRINTSEgeneutrophil_beta_same_sign
+    bigDataUrl neutrophil_BLUEPRINTSEgeneutrophil_beta_same_sign.bigInteract
+    shortLabel Coloc. between neutrophil and BLUEPRINT_SE_ge_neutrophil with opposite effect direction (beta)
+    longLabel neutrophil BLUEPRINT_SE_ge_neutrophil beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track neutrophil_CEDARmicroarrayneutrophilCD15_beta_equal
-    bigDataUrl neutrophil_CEDARmicroarrayneutrophilCD15_beta_equal.bigInteract
-    shortLabel neutrophil_CEDAR_microarray_neutrophil_CD15_beta_equal
-    longLabel neutrophil CEDAR_microarray_neutrophil_CD15 beta_equal
+    track neutrophil_CEDARmicroarrayneutrophilCD15_beta_same_sign
+    bigDataUrl neutrophil_CEDARmicroarrayneutrophilCD15_beta_same_sign.bigInteract
+    shortLabel Coloc. between neutrophil and CEDAR_microarray_neutrophil_CD15 with opposite effect direction (beta)
+    longLabel neutrophil CEDAR_microarray_neutrophil_CD15 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_equal
-    bigDataUrl neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_equal.bigInteract
-    shortLabel neutrophil_Naranbhai_2015_microarray_neutrophil_CD16_beta_equal
-    longLabel neutrophil Naranbhai_2015_microarray_neutrophil_CD16 beta_equal
+    track neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_same_sign
+    bigDataUrl neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_same_sign.bigInteract
+    shortLabel Coloc. between neutrophil and Naranbhai_2015_microarray_neutrophil_CD16 with opposite effect direction (beta)
+    longLabel neutrophil Naranbhai_2015_microarray_neutrophil_CD16 beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-    track spleen_GTExgespleen_beta_equal
-    bigDataUrl spleen_GTExgespleen_beta_equal.bigInteract
-    shortLabel spleen_GTEx_ge_spleen_beta_equal
-    longLabel spleen GTEx_ge_spleen beta_equal
+    track spleen_GTExgespleen_beta_same_sign
+    bigDataUrl spleen_GTExgespleen_beta_same_sign.bigInteract
+    shortLabel Coloc. between spleen and GTEx_ge_spleen with opposite effect direction (beta)
+    longLabel spleen GTEx_ge_spleen beta_same_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_equal
+    parent gwas2eqtl_immune_beta_same_sign
     visibility pack
 
-track gwas2eqtl_coloc_immune_beta_unequal
-shortLabel gwas2eqtl: beta unequal
-longLabel gwas2eqtl: beta unequal
+track gwas2eqtl_immune_beta_different_sign
+shortLabel eQTL/GWAS coloc.: Opposition direction of effect (beta)
+longLabel eQTL/GWAS coloc.: Opposition direction of effect (beta)
 type bigInteract
 visibility pack
 compositeTrack on
 
-    track Bcell_CEDARmicroarrayBcellCD19_beta_unequal
-    bigDataUrl Bcell_CEDARmicroarrayBcellCD19_beta_unequal.bigInteract
-    shortLabel B cell_CEDAR_microarray_B-cell_CD19_beta_unequal
-    longLabel B cell CEDAR_microarray_B-cell_CD19 beta_unequal
+    track Bcell_CEDARmicroarrayBcellCD19_beta_different_sign
+    bigDataUrl Bcell_CEDARmicroarrayBcellCD19_beta_different_sign.bigInteract
+    shortLabel Coloc. between B cell and CEDAR_microarray_B-cell_CD19 with opposite effect direction (beta)
+    longLabel B cell CEDAR_microarray_B-cell_CD19 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Bcell_Fairfax2012microarrayBcellCD19_beta_unequal
-    bigDataUrl Bcell_Fairfax2012microarrayBcellCD19_beta_unequal.bigInteract
-    shortLabel B cell_Fairfax_2012_microarray_B-cell_CD19_beta_unequal
-    longLabel B cell Fairfax_2012_microarray_B-cell_CD19 beta_unequal
+    track Bcell_Fairfax2012microarrayBcellCD19_beta_different_sign
+    bigDataUrl Bcell_Fairfax2012microarrayBcellCD19_beta_different_sign.bigInteract
+    shortLabel Coloc. between B cell and Fairfax_2012_microarray_B-cell_CD19 with opposite effect direction (beta)
+    longLabel B cell Fairfax_2012_microarray_B-cell_CD19 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Bcell_Schmiedel2018geBcellnaive_beta_unequal
-    bigDataUrl Bcell_Schmiedel2018geBcellnaive_beta_unequal.bigInteract
-    shortLabel B cell_Schmiedel_2018_ge_B-cell_naive_beta_unequal
-    longLabel B cell Schmiedel_2018_ge_B-cell_naive beta_unequal
+    track Bcell_Schmiedel2018geBcellnaive_beta_different_sign
+    bigDataUrl Bcell_Schmiedel2018geBcellnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between B cell and Schmiedel_2018_ge_B-cell_naive with opposite effect direction (beta)
+    longLabel B cell Schmiedel_2018_ge_B-cell_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_unequal
-    bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_unequal.bigInteract
-    shortLabel CD14-low, CD16-positive monocyte_Schmiedel_2018_ge_monocyte_CD16_naive_beta_unequal
-    longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive beta_unequal
+    track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_different_sign
+    bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-low, CD16-positive monocyte and Schmiedel_2018_ge_monocyte_CD16_naive with opposite effect direction (beta)
+    longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_BLUEPRINT_SE_ge_monocyte_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and BLUEPRINT_SE_ge_monocyte with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_CEDAR_microarray_monocyte_CD14_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and CEDAR_microarray_monocyte_CD14 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_naive_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_IFN24_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_IFN24 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS2_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_LPS2 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS24_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Fairfax_2014_microarray_monocyte_LPS24 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_naive_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_LPS_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_LPS with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_Pam3CSK4_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_Pam3CSK4 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_R848_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848 beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_R848 with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_IAV_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Quach_2016_ge_monocyte_IAV with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_unequal
-    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_unequal.bigInteract
-    shortLabel CD14-positive, CD16-negative classical monocyte_Schmiedel_2018_ge_monocyte_naive_beta_unequal
-    longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive beta_unequal
+    track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_different_sign
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD14-positive, CD16-negative classical monocyte and Schmiedel_2018_ge_monocyte_naive with opposite effect direction (beta)
+    longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_unequal
-    bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_unequal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_BLUEPRINT_PE_ge_T-cell_beta_unequal
-    longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell beta_unequal
+    track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_different_sign
+    bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and BLUEPRINT_PE_ge_T-cell with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_unequal
-    bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_unequal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD4_beta_unequal
-    longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4 beta_unequal
+    track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_different_sign
+    bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and CEDAR_microarray_T-cell_CD4 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_unequal
-    bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_unequal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD4_beta_unequal
-    longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4 beta_unequal
+    track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_different_sign
+    bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Kasela_2017_microarray_T-cell_CD4 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_unequal
-    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_unequal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_naive_beta_unequal
-    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive beta_unequal
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_different_sign
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Schmiedel_2018_ge_CD4_T-cell_naive with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_unequal
-    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_unequal.bigInteract
-    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28_beta_unequal
-    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 beta_unequal
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_different_sign
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD4-positive, alpha-beta T cell and Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 with opposite effect direction (beta)
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_unequal
-    bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_unequal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD8_beta_unequal
-    longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8 beta_unequal
+    track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_different_sign
+    bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and CEDAR_microarray_T-cell_CD8 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_unequal
-    bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_unequal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD8_beta_unequal
-    longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8 beta_unequal
+    track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_different_sign
+    bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Kasela_2017_microarray_T-cell_CD8 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_unequal
-    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_unequal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_naive_beta_unequal
-    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive beta_unequal
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_different_sign
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Schmiedel_2018_ge_CD8_T-cell_naive with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_unequal
-    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_unequal.bigInteract
-    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28_beta_unequal
-    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 beta_unequal
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_different_sign
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_different_sign.bigInteract
+    shortLabel Coloc. between CD8-positive, alpha-beta T cell and Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 with opposite effect direction (beta)
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Tcell_GENCORDgeTcell_beta_unequal
-    bigDataUrl Tcell_GENCORDgeTcell_beta_unequal.bigInteract
-    shortLabel T cell_GENCORD_ge_T-cell_beta_unequal
-    longLabel T cell GENCORD_ge_T-cell beta_unequal
+    track Tcell_GENCORDgeTcell_beta_different_sign
+    bigDataUrl Tcell_GENCORDgeTcell_beta_different_sign.bigInteract
+    shortLabel Coloc. between T cell and GENCORD_ge_T-cell with opposite effect direction (beta)
+    longLabel T cell GENCORD_ge_T-cell beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_unequal
-    bigDataUrl Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_unequal.bigInteract
-    shortLabel T follicular helper cell_Schmiedel_2018_ge_Tfh_memory_beta_unequal
-    longLabel T follicular helper cell Schmiedel_2018_ge_Tfh_memory beta_unequal
+    track Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_different_sign
+    bigDataUrl Tfollicularhelpercell_Schmiedel2018geTfhmemory_beta_different_sign.bigInteract
+    shortLabel Coloc. between T follicular helper cell and Schmiedel_2018_ge_Tfh_memory with opposite effect direction (beta)
+    longLabel T follicular helper cell Schmiedel_2018_ge_Tfh_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Thelper1cell_Schmiedel2018geTh1memory_beta_unequal
-    bigDataUrl Thelper1cell_Schmiedel2018geTh1memory_beta_unequal.bigInteract
-    shortLabel T-helper 1 cell_Schmiedel_2018_ge_Th1_memory_beta_unequal
-    longLabel T-helper 1 cell Schmiedel_2018_ge_Th1_memory beta_unequal
+    track Thelper1cell_Schmiedel2018geTh1memory_beta_different_sign
+    bigDataUrl Thelper1cell_Schmiedel2018geTh1memory_beta_different_sign.bigInteract
+    shortLabel Coloc. between T-helper 1 cell and Schmiedel_2018_ge_Th1_memory with opposite effect direction (beta)
+    longLabel T-helper 1 cell Schmiedel_2018_ge_Th1_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Thelper17cell_Schmiedel2018geTh17memory_beta_unequal
-    bigDataUrl Thelper17cell_Schmiedel2018geTh17memory_beta_unequal.bigInteract
-    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th17_memory_beta_unequal
-    longLabel T-helper 17 cell Schmiedel_2018_ge_Th17_memory beta_unequal
+    track Thelper17cell_Schmiedel2018geTh17memory_beta_different_sign
+    bigDataUrl Thelper17cell_Schmiedel2018geTh17memory_beta_different_sign.bigInteract
+    shortLabel Coloc. between T-helper 17 cell and Schmiedel_2018_ge_Th17_memory with opposite effect direction (beta)
+    longLabel T-helper 17 cell Schmiedel_2018_ge_Th17_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Thelper17cell_Schmiedel2018geTh117memory_beta_unequal
-    bigDataUrl Thelper17cell_Schmiedel2018geTh117memory_beta_unequal.bigInteract
-    shortLabel T-helper 17 cell_Schmiedel_2018_ge_Th1-17_memory_beta_unequal
-    longLabel T-helper 17 cell Schmiedel_2018_ge_Th1-17_memory beta_unequal
+    track Thelper17cell_Schmiedel2018geTh117memory_beta_different_sign
+    bigDataUrl Thelper17cell_Schmiedel2018geTh117memory_beta_different_sign.bigInteract
+    shortLabel Coloc. between T-helper 17 cell and Schmiedel_2018_ge_Th1-17_memory with opposite effect direction (beta)
+    longLabel T-helper 17 cell Schmiedel_2018_ge_Th1-17_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track Thelper2cell_Schmiedel2018geTh2memory_beta_unequal
-    bigDataUrl Thelper2cell_Schmiedel2018geTh2memory_beta_unequal.bigInteract
-    shortLabel T-helper 2 cell_Schmiedel_2018_ge_Th2_memory_beta_unequal
-    longLabel T-helper 2 cell Schmiedel_2018_ge_Th2_memory beta_unequal
+    track Thelper2cell_Schmiedel2018geTh2memory_beta_different_sign
+    bigDataUrl Thelper2cell_Schmiedel2018geTh2memory_beta_different_sign.bigInteract
+    shortLabel Coloc. between T-helper 2 cell and Schmiedel_2018_ge_Th2_memory with opposite effect direction (beta)
+    longLabel T-helper 2 cell Schmiedel_2018_ge_Th2_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_CAPgeLCLnaive_beta_unequal
-    bigDataUrl lymphoblastoidcellline_CAPgeLCLnaive_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_CAP_ge_LCL_naive_beta_unequal
-    longLabel lymphoblastoid cell line CAP_ge_LCL_naive beta_unequal
+    track lymphoblastoidcellline_CAPgeLCLnaive_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_CAPgeLCLnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and CAP_ge_LCL_naive with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line CAP_ge_LCL_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_CAPgeLCLstatin_beta_unequal
-    bigDataUrl lymphoblastoidcellline_CAPgeLCLstatin_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_CAP_ge_LCL_statin_beta_unequal
-    longLabel lymphoblastoid cell line CAP_ge_LCL_statin beta_unequal
+    track lymphoblastoidcellline_CAPgeLCLstatin_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_CAPgeLCLstatin_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and CAP_ge_LCL_statin with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line CAP_ge_LCL_statin beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_GENCORDgeLCL_beta_unequal
-    bigDataUrl lymphoblastoidcellline_GENCORDgeLCL_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_GENCORD_ge_LCL_beta_unequal
-    longLabel lymphoblastoid cell line GENCORD_ge_LCL beta_unequal
+    track lymphoblastoidcellline_GENCORDgeLCL_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_GENCORDgeLCL_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GENCORD_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GENCORD_ge_LCL beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_GEUVADISgeLCL_beta_unequal
-    bigDataUrl lymphoblastoidcellline_GEUVADISgeLCL_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_GEUVADIS_ge_LCL_beta_unequal
-    longLabel lymphoblastoid cell line GEUVADIS_ge_LCL beta_unequal
+    track lymphoblastoidcellline_GEUVADISgeLCL_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_GEUVADISgeLCL_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GEUVADIS_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GEUVADIS_ge_LCL beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_GTExgeLCL_beta_unequal
-    bigDataUrl lymphoblastoidcellline_GTExgeLCL_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_GTEx_ge_LCL_beta_unequal
-    longLabel lymphoblastoid cell line GTEx_ge_LCL beta_unequal
+    track lymphoblastoidcellline_GTExgeLCL_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_GTExgeLCL_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and GTEx_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line GTEx_ge_LCL beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track lymphoblastoidcellline_TwinsUKgeLCL_beta_unequal
-    bigDataUrl lymphoblastoidcellline_TwinsUKgeLCL_beta_unequal.bigInteract
-    shortLabel lymphoblastoid cell line_TwinsUK_ge_LCL_beta_unequal
-    longLabel lymphoblastoid cell line TwinsUK_ge_LCL beta_unequal
+    track lymphoblastoidcellline_TwinsUKgeLCL_beta_different_sign
+    bigDataUrl lymphoblastoidcellline_TwinsUKgeLCL_beta_different_sign.bigInteract
+    shortLabel Coloc. between lymphoblastoid cell line and TwinsUK_ge_LCL with opposite effect direction (beta)
+    longLabel lymphoblastoid cell line TwinsUK_ge_LCL beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophagenaive_beta_unequal
-    bigDataUrl macrophage_Alasoo2018gemacrophagenaive_beta_unequal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_naive_beta_unequal
-    longLabel macrophage Alasoo_2018_ge_macrophage_naive beta_unequal
+    track macrophage_Alasoo2018gemacrophagenaive_beta_different_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophagenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_naive with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageIFNg_beta_unequal
-    bigDataUrl macrophage_Alasoo2018gemacrophageIFNg_beta_unequal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg_beta_unequal
-    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg beta_unequal
+    track macrophage_Alasoo2018gemacrophageIFNg_beta_different_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageIFNg_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_IFNg with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageSalmonella_beta_unequal
-    bigDataUrl macrophage_Alasoo2018gemacrophageSalmonella_beta_unequal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_Salmonella_beta_unequal
-    longLabel macrophage Alasoo_2018_ge_macrophage_Salmonella beta_unequal
+    track macrophage_Alasoo2018gemacrophageSalmonella_beta_different_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageSalmonella_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_Salmonella with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_Salmonella beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_unequal
-    bigDataUrl macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_unequal.bigInteract
-    shortLabel macrophage_Alasoo_2018_ge_macrophage_IFNg+Salmonella_beta_unequal
-    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg+Salmonella beta_unequal
+    track macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_different_sign
+    bigDataUrl macrophage_Alasoo2018gemacrophageIFNgSalmonella_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Alasoo_2018_ge_macrophage_IFNg+Salmonella with opposite effect direction (beta)
+    longLabel macrophage Alasoo_2018_ge_macrophage_IFNg+Salmonella beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophageListeria_beta_unequal
-    bigDataUrl macrophage_Nedelec2016gemacrophageListeria_beta_unequal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_Listeria_beta_unequal
-    longLabel macrophage Nedelec_2016_ge_macrophage_Listeria beta_unequal
+    track macrophage_Nedelec2016gemacrophageListeria_beta_different_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophageListeria_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_Listeria with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_Listeria beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophagenaive_beta_unequal
-    bigDataUrl macrophage_Nedelec2016gemacrophagenaive_beta_unequal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_naive_beta_unequal
-    longLabel macrophage Nedelec_2016_ge_macrophage_naive beta_unequal
+    track macrophage_Nedelec2016gemacrophagenaive_beta_different_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophagenaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_naive with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track macrophage_Nedelec2016gemacrophageSalmonella_beta_unequal
-    bigDataUrl macrophage_Nedelec2016gemacrophageSalmonella_beta_unequal.bigInteract
-    shortLabel macrophage_Nedelec_2016_ge_macrophage_Salmonella_beta_unequal
-    longLabel macrophage Nedelec_2016_ge_macrophage_Salmonella beta_unequal
+    track macrophage_Nedelec2016gemacrophageSalmonella_beta_different_sign
+    bigDataUrl macrophage_Nedelec2016gemacrophageSalmonella_beta_different_sign.bigInteract
+    shortLabel Coloc. between macrophage and Nedelec_2016_ge_macrophage_Salmonella with opposite effect direction (beta)
+    longLabel macrophage Nedelec_2016_ge_macrophage_Salmonella beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_unequal
-    bigDataUrl memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_unequal.bigInteract
-    shortLabel memory regulatory T cell_Schmiedel_2018_ge_Treg_memory_beta_unequal
-    longLabel memory regulatory T cell Schmiedel_2018_ge_Treg_memory beta_unequal
+    track memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_different_sign
+    bigDataUrl memoryregulatoryTcell_Schmiedel2018geTregmemory_beta_different_sign.bigInteract
+    shortLabel Coloc. between memory regulatory T cell and Schmiedel_2018_ge_Treg_memory with opposite effect direction (beta)
+    longLabel memory regulatory T cell Schmiedel_2018_ge_Treg_memory beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_unequal
-    bigDataUrl naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_unequal.bigInteract
-    shortLabel naive regulatory T cell_Bossini-Castillo_2019_ge_Treg_naive_beta_unequal
-    longLabel naive regulatory T cell Bossini-Castillo_2019_ge_Treg_naive beta_unequal
+    track naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_different_sign
+    bigDataUrl naiveregulatoryTcell_BossiniCastillo2019geTregnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between naive regulatory T cell and Bossini-Castillo_2019_ge_Treg_naive with opposite effect direction (beta)
+    longLabel naive regulatory T cell Bossini-Castillo_2019_ge_Treg_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_unequal
-    bigDataUrl naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_unequal.bigInteract
-    shortLabel naive regulatory T cell_Schmiedel_2018_ge_Treg_naive_beta_unequal
-    longLabel naive regulatory T cell Schmiedel_2018_ge_Treg_naive beta_unequal
+    track naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_different_sign
+    bigDataUrl naiveregulatoryTcell_Schmiedel2018geTregnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between naive regulatory T cell and Schmiedel_2018_ge_Treg_naive with opposite effect direction (beta)
+    longLabel naive regulatory T cell Schmiedel_2018_ge_Treg_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_unequal
-    bigDataUrl naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_unequal.bigInteract
-    shortLabel natural killer cell_Gilchrist_2021_microarray_NK-cell_naive_beta_unequal
-    longLabel natural killer cell Gilchrist_2021_microarray_NK-cell_naive beta_unequal
+    track naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_different_sign
+    bigDataUrl naturalkillercell_Gilchrist2021microarrayNKcellnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between natural killer cell and Gilchrist_2021_microarray_NK-cell_naive with opposite effect direction (beta)
+    longLabel natural killer cell Gilchrist_2021_microarray_NK-cell_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track naturalkillercell_Schmiedel2018geNKcellnaive_beta_unequal
-    bigDataUrl naturalkillercell_Schmiedel2018geNKcellnaive_beta_unequal.bigInteract
-    shortLabel natural killer cell_Schmiedel_2018_ge_NK-cell_naive_beta_unequal
-    longLabel natural killer cell Schmiedel_2018_ge_NK-cell_naive beta_unequal
+    track naturalkillercell_Schmiedel2018geNKcellnaive_beta_different_sign
+    bigDataUrl naturalkillercell_Schmiedel2018geNKcellnaive_beta_different_sign.bigInteract
+    shortLabel Coloc. between natural killer cell and Schmiedel_2018_ge_NK-cell_naive with opposite effect direction (beta)
+    longLabel natural killer cell Schmiedel_2018_ge_NK-cell_naive beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track neutrophil_BLUEPRINTSEgeneutrophil_beta_unequal
-    bigDataUrl neutrophil_BLUEPRINTSEgeneutrophil_beta_unequal.bigInteract
-    shortLabel neutrophil_BLUEPRINT_SE_ge_neutrophil_beta_unequal
-    longLabel neutrophil BLUEPRINT_SE_ge_neutrophil beta_unequal
+    track neutrophil_BLUEPRINTSEgeneutrophil_beta_different_sign
+    bigDataUrl neutrophil_BLUEPRINTSEgeneutrophil_beta_different_sign.bigInteract
+    shortLabel Coloc. between neutrophil and BLUEPRINT_SE_ge_neutrophil with opposite effect direction (beta)
+    longLabel neutrophil BLUEPRINT_SE_ge_neutrophil beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track neutrophil_CEDARmicroarrayneutrophilCD15_beta_unequal
-    bigDataUrl neutrophil_CEDARmicroarrayneutrophilCD15_beta_unequal.bigInteract
-    shortLabel neutrophil_CEDAR_microarray_neutrophil_CD15_beta_unequal
-    longLabel neutrophil CEDAR_microarray_neutrophil_CD15 beta_unequal
+    track neutrophil_CEDARmicroarrayneutrophilCD15_beta_different_sign
+    bigDataUrl neutrophil_CEDARmicroarrayneutrophilCD15_beta_different_sign.bigInteract
+    shortLabel Coloc. between neutrophil and CEDAR_microarray_neutrophil_CD15 with opposite effect direction (beta)
+    longLabel neutrophil CEDAR_microarray_neutrophil_CD15 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_unequal
-    bigDataUrl neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_unequal.bigInteract
-    shortLabel neutrophil_Naranbhai_2015_microarray_neutrophil_CD16_beta_unequal
-    longLabel neutrophil Naranbhai_2015_microarray_neutrophil_CD16 beta_unequal
+    track neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_different_sign
+    bigDataUrl neutrophil_Naranbhai2015microarrayneutrophilCD16_beta_different_sign.bigInteract
+    shortLabel Coloc. between neutrophil and Naranbhai_2015_microarray_neutrophil_CD16 with opposite effect direction (beta)
+    longLabel neutrophil Naranbhai_2015_microarray_neutrophil_CD16 beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
 
-    track spleen_GTExgespleen_beta_unequal
-    bigDataUrl spleen_GTExgespleen_beta_unequal.bigInteract
-    shortLabel spleen_GTEx_ge_spleen_beta_unequal
-    longLabel spleen GTEx_ge_spleen beta_unequal
+    track spleen_GTExgespleen_beta_different_sign
+    bigDataUrl spleen_GTExgespleen_beta_different_sign.bigInteract
+    shortLabel Coloc. between spleen and GTEx_ge_spleen with opposite effect direction (beta)
+    longLabel spleen GTEx_ge_spleen beta_different_sign
     type bigInteract
     color 0,0,0
-    parent gwas2eqtl_coloc_immune_beta_unequal
+    parent gwas2eqtl_immune_beta_different_sign
     visibility pack
