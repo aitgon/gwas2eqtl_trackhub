@@ -1,0 +1,5 @@
+hub hub
+shortLabel gwas2eqtl_coloc_immune: Colocalization in the immune system
+longLabel gwas2eqtl_coloc_immune: Colocalization in the immune system between EBI eQTLs and IEU OpenGWAS variants
+genomesFile gwas2eqtl_coloc_immune.genomes.txt
+email aitor.gonzalez@univ-amu.fr
