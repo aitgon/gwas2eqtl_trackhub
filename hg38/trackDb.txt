@@ -40,3 +40,254 @@ compositeTrack on
     color 255,0,0
     parent gwas2eqtl_eqtl_pleio
     visibility pack
+
+track gwas2eqtl_beta_equal
+shortLabel gwas2eqtl: beta equal
+longLabel gwas2eqtl: beta equal
+type bigInteract
+visibility pack
+compositeTrack on
+
+    track Ammonshorn_GTExgebrainhippocampus_beta_equal
+    bigDataUrl Ammonshorn_GTExgebrainhippocampus_beta_equal.bigInteract
+    shortLabel Ammon's horn_GTEx_ge_brain_hippocampus_beta_equal
+    longLabel Ammon's horn GTEx_ge_brain_hippocampus beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track Bcell_CEDARmicroarrayBcellCD19_beta_equal
+    bigDataUrl Bcell_CEDARmicroarrayBcellCD19_beta_equal.bigInteract
+    shortLabel B cell_CEDAR_microarray_B-cell_CD19_beta_equal
+    longLabel B cell CEDAR_microarray_B-cell_CD19 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track Bcell_Fairfax2012microarrayBcellCD19_beta_equal
+    bigDataUrl Bcell_Fairfax2012microarrayBcellCD19_beta_equal.bigInteract
+    shortLabel B cell_Fairfax_2012_microarray_B-cell_CD19_beta_equal
+    longLabel B cell Fairfax_2012_microarray_B-cell_CD19 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track Bcell_Schmiedel2018geBcellnaive_beta_equal
+    bigDataUrl Bcell_Schmiedel2018geBcellnaive_beta_equal.bigInteract
+    shortLabel B cell_Schmiedel_2018_ge_B-cell_naive_beta_equal
+    longLabel B cell Schmiedel_2018_ge_B-cell_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_equal
+    bigDataUrl C1segmentofcervicalspinalcord_GTExgebrainspinalcord_beta_equal.bigInteract
+    shortLabel C1 segment of cervical spinal cord_GTEx_ge_brain_spinal_cord_beta_equal
+    longLabel C1 segment of cervical spinal cord GTEx_ge_brain_spinal_cord beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_equal
+    bigDataUrl CD14lowCD16positivemonocyte_Schmiedel2018gemonocyteCD16naive_beta_equal.bigInteract
+    shortLabel CD14-low, CD16-positive monocyte_Schmiedel_2018_ge_monocyte_CD16_naive_beta_equal
+    longLabel CD14-low, CD16-positive monocyte Schmiedel_2018_ge_monocyte_CD16_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_BLUEPRINTSEgemonocyte_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_BLUEPRINT_SE_ge_monocyte_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte BLUEPRINT_SE_ge_monocyte beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_CEDARmicroarraymonocyteCD14_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_CEDAR_microarray_monocyte_CD14_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte CEDAR_microarray_monocyte_CD14 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocytenaive_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_naive_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteIFN24_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_IFN24_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_IFN24 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS2_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS2_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS2 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Fairfax2014microarraymonocyteLPS24_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Fairfax_2014_microarray_monocyte_LPS24_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Fairfax_2014_microarray_monocyte_LPS24 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytenaive_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_naive_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteLPS_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_LPS_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_LPS beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocytePam3CSK4_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_Pam3CSK4_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_Pam3CSK4 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteR848_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_R848_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_R848 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Quach2016gemonocyteIAV_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Quach_2016_ge_monocyte_IAV_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Quach_2016_ge_monocyte_IAV beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_equal
+    bigDataUrl CD14positiveCD16negativeclassicalmonocyte_Schmiedel2018gemonocytenaive_beta_equal.bigInteract
+    shortLabel CD14-positive, CD16-negative classical monocyte_Schmiedel_2018_ge_monocyte_naive_beta_equal
+    longLabel CD14-positive, CD16-negative classical monocyte Schmiedel_2018_ge_monocyte_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_equal
+    bigDataUrl CD4positivealphabetaTcell_BLUEPRINTPEgeTcell_beta_equal.bigInteract
+    shortLabel CD4-positive, alpha-beta T cell_BLUEPRINT_PE_ge_T-cell_beta_equal
+    longLabel CD4-positive, alpha-beta T cell BLUEPRINT_PE_ge_T-cell beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_equal
+    bigDataUrl CD4positivealphabetaTcell_CEDARmicroarrayTcellCD4_beta_equal.bigInteract
+    shortLabel CD4-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD4_beta_equal
+    longLabel CD4-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD4 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_equal
+    bigDataUrl CD4positivealphabetaTcell_Kasela2017microarrayTcellCD4_beta_equal.bigInteract
+    shortLabel CD4-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD4_beta_equal
+    longLabel CD4-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD4 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_equal
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4Tcellnaive_beta_equal.bigInteract
+    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_naive_beta_equal
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_equal
+    bigDataUrl CD4positivealphabetaTcell_Schmiedel2018geCD4TcellantiCD3CD28_beta_equal.bigInteract
+    shortLabel CD4-positive, alpha-beta T cell_Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28_beta_equal
+    longLabel CD4-positive, alpha-beta T cell Schmiedel_2018_ge_CD4_T-cell_anti-CD3-CD28 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_equal
+    bigDataUrl CD8positivealphabetaTcell_CEDARmicroarrayTcellCD8_beta_equal.bigInteract
+    shortLabel CD8-positive, alpha-beta T cell_CEDAR_microarray_T-cell_CD8_beta_equal
+    longLabel CD8-positive, alpha-beta T cell CEDAR_microarray_T-cell_CD8 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_equal
+    bigDataUrl CD8positivealphabetaTcell_Kasela2017microarrayTcellCD8_beta_equal.bigInteract
+    shortLabel CD8-positive, alpha-beta T cell_Kasela_2017_microarray_T-cell_CD8_beta_equal
+    longLabel CD8-positive, alpha-beta T cell Kasela_2017_microarray_T-cell_CD8 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_equal
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8Tcellnaive_beta_equal.bigInteract
+    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_naive_beta_equal
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_naive beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
+    track CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_equal
+    bigDataUrl CD8positivealphabetaTcell_Schmiedel2018geCD8TcellantiCD3CD28_beta_equal.bigInteract
+    shortLabel CD8-positive, alpha-beta T cell_Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28_beta_equal
+    longLabel CD8-positive, alpha-beta T cell Schmiedel_2018_ge_CD8_T-cell_anti-CD3-CD28 beta_equal
+    type bigInteract
+    color 0,0,0
+    parent gwas2eqtl_beta_equal
+    visibility pack
+
