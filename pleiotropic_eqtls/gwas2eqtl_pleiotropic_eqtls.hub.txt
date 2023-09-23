@@ -1,0 +1,5 @@
+hub hub
+shortLabel gwas2eqtl_pleiotropic_eqtls: Pleiotropic eQTLs
+longLabel gwas2eqtl_pleiotropic_eqtls: Pleiotropic eQTLs associated to one, two or more than two GWAS categories
+genomesFile gwas2eqtl_pleiotropic_eqtls.genomes.txt
+email aitor.gonzalez@univ-amu.fr

@@ -1,0 +1,5 @@
+hub hub
+shortLabel gwas2eqtl: eQTL/GWAS colocalization
+longLabel gwas2eqtl: Colocalization between EBI eQTLs and IEU OpenGWAS variants
+genomesFile gwas2eqtl.genomes.txt
+email aitor.gonzalez@univ-amu.fr
